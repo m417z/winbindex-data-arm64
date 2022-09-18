@@ -47,6 +47,12 @@
             "releaseDate": "2018-01-31",
             "releaseVersion": "16299.214",
             "updateUrl": "https://support.microsoft.com/help/4058258"
+        },
+        "KB4073117": {
+            "heading": "January 5, 2018&#x2014;KB4073117 (OS Build 15254.158)",
+            "releaseDate": "2018-01-05",
+            "releaseVersion": "15254.158",
+            "updateUrl": "https://support.microsoft.com/help/4073117"
         }
     }
 }
