@@ -220,6 +220,12 @@
             "releaseDate": "2018-10-09",
             "releaseVersion": "16299.726",
             "updateUrl": "https://support.microsoft.com/help/4462918"
+        },
+        "KB4462932": {
+            "heading": "October 18, 2018&#x2014;KB4462932 (OS Build 16299.755)",
+            "releaseDate": "2018-10-18",
+            "releaseVersion": "16299.755",
+            "updateUrl": "https://support.microsoft.com/help/4462932"
         }
     },
     "1803": {
