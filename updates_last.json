@@ -416,6 +416,12 @@
             "releaseDate": "2019-01-22",
             "releaseVersion": "17763.292",
             "updateUrl": "https://support.microsoft.com/help/4476976"
+        },
+        "KB4480116": {
+            "heading": "January 8, 2019&#x2014;KB4480116 (OS Build 17763.253)",
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "17763.253",
+            "updateUrl": "https://support.microsoft.com/help/4480116"
         }
     }
 }
