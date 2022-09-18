@@ -368,6 +368,12 @@
             "releaseDate": "2018-11-13",
             "releaseVersion": "17763.107",
             "updateUrl": "https://support.microsoft.com/help/4464455"
+        },
+        "KB4467708": {
+            "heading": "November 13, 2018&#x2014;KB4467708 (OS Build 17763.134)",
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "17763.134",
+            "updateUrl": "https://support.microsoft.com/help/4467708"
         }
     }
 }
