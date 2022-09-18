@@ -250,6 +250,12 @@
             "releaseDate": "2018-11-13",
             "releaseVersion": "16299.785",
             "updateUrl": "https://support.microsoft.com/help/4467686"
+        },
+        "KB4469220": {
+            "heading": "November 13, 2018&#x2014;KB4469220 Update for Windows 10 Mobile (OS Build 15254.541)",
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "15254.541",
+            "updateUrl": "https://support.microsoft.com/help/4469220"
         }
     },
     "1803": {
