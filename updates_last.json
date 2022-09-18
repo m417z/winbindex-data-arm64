@@ -240,6 +240,12 @@
             "releaseDate": "2018-08-14",
             "releaseVersion": "17134.228",
             "updateUrl": "https://support.microsoft.com/help/4343909"
+        },
+        "KB4345421": {
+            "heading": "July 16, 2018&#x2014;KB4345421 (OS Build 17134.167)",
+            "releaseDate": "2018-07-16",
+            "releaseVersion": "17134.167",
+            "updateUrl": "https://support.microsoft.com/help/4345421"
         }
     }
 }
