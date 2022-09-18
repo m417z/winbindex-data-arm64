@@ -124,6 +124,12 @@
             "releaseDate": "2018-05-21",
             "releaseVersion": "16299.461",
             "updateUrl": "https://support.microsoft.com/help/4103714"
+        },
+        "KB4103727": {
+            "heading": "May 8, 2018&#x2014;KB4103727 (OS Build 16299.431)",
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "16299.431",
+            "updateUrl": "https://support.microsoft.com/help/4103727"
         }
     },
     "1803": {
