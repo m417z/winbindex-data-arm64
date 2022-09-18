@@ -64,6 +64,12 @@
             "releaseDate": "2018-01-18",
             "releaseVersion": "16299.201",
             "updateUrl": "https://support.microsoft.com/help/4073291"
+        },
+        "KB4074588": {
+            "heading": "February 13, 2018&#x2014;KB4074588 (OS Build 16299.248)",
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "16299.248",
+            "updateUrl": "https://support.microsoft.com/help/4074588"
         }
     }
 }
