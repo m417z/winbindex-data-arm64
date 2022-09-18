@@ -5,6 +5,12 @@
             "releaseDate": "2017-10-17",
             "releaseVersion": "16299.19",
             "updateUrl": "https://support.microsoft.com/help/4043961"
+        },
+        "KB4048955": {
+            "heading": "November 14, 2017&#x2014;KB4048955 (OS Build 16299.64)",
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "16299.64",
+            "updateUrl": "https://support.microsoft.com/help/4048955"
         }
     }
 }
