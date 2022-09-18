@@ -70,6 +70,12 @@
             "releaseDate": "2018-02-13",
             "releaseVersion": "16299.248",
             "updateUrl": "https://support.microsoft.com/help/4074588"
+        },
+        "KB4077675": {
+            "heading": "February 14, 2018&#x2014;KB4077675 (OS Build 15254.248)",
+            "releaseDate": "2018-02-14",
+            "releaseVersion": "15254.248",
+            "updateUrl": "https://support.microsoft.com/help/4077675"
         }
     }
 }
