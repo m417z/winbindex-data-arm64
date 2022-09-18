@@ -136,6 +136,12 @@
             "releaseDate": "2018-05-08",
             "releaseVersion": "15254.401",
             "updateUrl": "https://support.microsoft.com/help/4134196"
+        },
+        "KB4284819": {
+            "heading": "June 12, 2018&#x2014;KB4284819 (OS Build 16299.492)",
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "16299.492",
+            "updateUrl": "https://support.microsoft.com/help/4284819"
         }
     },
     "1803": {
