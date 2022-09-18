@@ -35,6 +35,12 @@
             "releaseDate": "2017-12-12",
             "releaseVersion": "15254.124",
             "updateUrl": "https://support.microsoft.com/help/4056342"
+        },
+        "KB4056892": {
+            "heading": "January 3, 2018&#x2014;KB4056892 (OS Build 16299.192)",
+            "releaseDate": "2018-01-03",
+            "releaseVersion": "16299.192",
+            "updateUrl": "https://support.microsoft.com/help/4056892"
         }
     }
 }
