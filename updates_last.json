@@ -119,5 +119,13 @@
             "releaseVersion": "15254.369",
             "updateUrl": "https://support.microsoft.com/help/4099572"
         }
+    },
+    "1803": {
+        "KB4100403": {
+            "heading": "May 23, 2018&#x2014;KB4100403 (OS Build 17134.81)",
+            "releaseDate": "2018-05-23",
+            "releaseVersion": "17134.81",
+            "updateUrl": "https://support.microsoft.com/help/4100403"
+        }
     }
 }
