@@ -232,6 +232,12 @@
             "releaseDate": "2018-09-17",
             "releaseVersion": "16299.666",
             "updateUrl": "https://support.microsoft.com/help/4464217"
+        },
+        "KB4464853": {
+            "heading": "October 9, 2018&#x2014;KB4464853 Update for Windows 10 Mobile (OS Build 15254.538)",
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "15254.538",
+            "updateUrl": "https://support.microsoft.com/help/4464853"
         }
     },
     "1803": {
