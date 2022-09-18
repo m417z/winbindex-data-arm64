@@ -88,6 +88,12 @@
             "releaseDate": "2018-03-22",
             "releaseVersion": "16299.334",
             "updateUrl": "https://support.microsoft.com/help/4089848"
+        },
+        "KB4090912": {
+            "heading": "March 15, 2018&#x2014;KB4090912 Update for Windows 10 Mobile (OS Build 15254.313)",
+            "releaseDate": "2018-03-15",
+            "releaseVersion": "15254.313",
+            "updateUrl": "https://support.microsoft.com/help/4090912"
         }
     }
 }
