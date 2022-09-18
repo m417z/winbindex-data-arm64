@@ -82,6 +82,12 @@
             "releaseDate": "2018-03-13",
             "releaseVersion": "16299.309",
             "updateUrl": "https://support.microsoft.com/help/4088776"
+        },
+        "KB4089848": {
+            "heading": "March 22, 2018&#x2014;KB4089848 (OS Build 16299.334)",
+            "releaseDate": "2018-03-22",
+            "releaseVersion": "16299.334",
+            "updateUrl": "https://support.microsoft.com/help/4089848"
         }
     }
 }
