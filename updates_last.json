@@ -11,6 +11,12 @@
             "releaseDate": "2017-11-14",
             "releaseVersion": "16299.64",
             "updateUrl": "https://support.microsoft.com/help/4048955"
+        },
+        "KB4051963": {
+            "heading": "November 30, 2017&#x2014;KB4051963 (OS Build 16299.98)",
+            "releaseDate": "2017-11-30",
+            "releaseVersion": "16299.98",
+            "updateUrl": "https://support.microsoft.com/help/4051963"
         }
     }
 }
