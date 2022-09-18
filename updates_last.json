@@ -29,6 +29,12 @@
             "releaseDate": "2017-12-12",
             "releaseVersion": "16299.125",
             "updateUrl": "https://support.microsoft.com/help/4054517"
+        },
+        "KB4056342": {
+            "heading": "December 12, 2017&#x2014;KB4056342 Update for Windows 10 Mobile (OS Build 15254.124)",
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "15254.124",
+            "updateUrl": "https://support.microsoft.com/help/4056342"
         }
     }
 }
