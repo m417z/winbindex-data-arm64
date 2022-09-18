@@ -360,6 +360,12 @@
             "releaseDate": "2018-11-13",
             "releaseVersion": "17134.407",
             "updateUrl": "https://support.microsoft.com/help/4467702"
+        },
+        "KB4471324": {
+            "heading": "December 11, 2018&#x2014;KB4471324 (OS Build 17134.471)",
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "17134.471",
+            "updateUrl": "https://support.microsoft.com/help/4471324"
         }
     },
     "1809": {
