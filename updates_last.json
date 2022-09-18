@@ -148,6 +148,12 @@
             "releaseDate": "2018-06-21",
             "releaseVersion": "16299.522",
             "updateUrl": "https://support.microsoft.com/help/4284822"
+        },
+        "KB4316692": {
+            "heading": "June 12, 2018&#x2014;KB4316692 Update for Windows 10 Mobile (OS Build 15254.489)",
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "15254.489",
+            "updateUrl": "https://support.microsoft.com/help/4316692"
         }
     },
     "1803": {
