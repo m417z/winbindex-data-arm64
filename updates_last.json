@@ -226,6 +226,12 @@
             "releaseDate": "2018-10-18",
             "releaseVersion": "16299.755",
             "updateUrl": "https://support.microsoft.com/help/4462932"
+        },
+        "KB4464217": {
+            "heading": "September 17, 2018&#x2014;KB4464217 (OS Build 16299.666)",
+            "releaseDate": "2018-09-17",
+            "releaseVersion": "16299.666",
+            "updateUrl": "https://support.microsoft.com/help/4464217"
         }
     },
     "1803": {
