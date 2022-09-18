@@ -208,6 +208,12 @@
             "releaseDate": "2018-09-11",
             "releaseVersion": "16299.665",
             "updateUrl": "https://support.microsoft.com/help/4457142"
+        },
+        "KB4459082": {
+            "heading": "September 11, 2018&#x2014;KB4459082 Update for Windows 10 Mobile (OS Build 15254.530)",
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "15254.530",
+            "updateUrl": "https://support.microsoft.com/help/4459082"
         }
     },
     "1803": {
