@@ -180,6 +180,12 @@
             "releaseDate": "2018-06-26",
             "releaseVersion": "17134.137",
             "updateUrl": "https://support.microsoft.com/help/4284848"
+        },
+        "KB4338548": {
+            "heading": "June 5, 2018&#x2014;KB4338548 (OS Build 17134.83)",
+            "releaseDate": "2018-06-05",
+            "releaseVersion": "17134.83",
+            "updateUrl": "https://support.microsoft.com/help/4338548"
         }
     }
 }
