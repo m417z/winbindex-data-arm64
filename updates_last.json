@@ -404,6 +404,12 @@
             "releaseDate": "2018-12-11",
             "releaseVersion": "17763.194",
             "updateUrl": "https://support.microsoft.com/help/4471332"
+        },
+        "KB4476976": {
+            "heading": "January 22, 2019&#x2014;KB4476976 (OS Build 17763.292)",
+            "releaseDate": "2019-01-22",
+            "releaseVersion": "17763.292",
+            "updateUrl": "https://support.microsoft.com/help/4476976"
         }
     }
 }
