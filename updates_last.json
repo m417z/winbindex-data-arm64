@@ -23,6 +23,12 @@
             "releaseDate": "2017-11-14",
             "releaseVersion": "15254.12",
             "updateUrl": "https://support.microsoft.com/help/4052314"
+        },
+        "KB4054517": {
+            "heading": "December 12, 2017&#x2014;KB4054517 (OS Build 16299.125)",
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "16299.125",
+            "updateUrl": "https://support.microsoft.com/help/4054517"
         }
     }
 }
