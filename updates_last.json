@@ -162,6 +162,12 @@
             "releaseDate": "2018-05-08",
             "releaseVersion": "17134.48",
             "updateUrl": "https://support.microsoft.com/help/4103721"
+        },
+        "KB4284835": {
+            "heading": "June 12, 2018&#x2014;KB4284835 (OS Build 17134.112)",
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "17134.112",
+            "updateUrl": "https://support.microsoft.com/help/4284835"
         }
     }
 }
