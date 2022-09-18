@@ -178,6 +178,12 @@
             "releaseDate": "2018-08-30",
             "releaseVersion": "16299.637",
             "updateUrl": "https://support.microsoft.com/help/4343893"
+        },
+        "KB4343897": {
+            "heading": "August 14, 2018&#x2014;KB4343897 (OS Build 16299.611)",
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "16299.611",
+            "updateUrl": "https://support.microsoft.com/help/4343897"
         }
     },
     "1803": {
