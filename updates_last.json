@@ -160,6 +160,12 @@
             "releaseDate": "2018-07-24",
             "releaseVersion": "16299.579",
             "updateUrl": "https://support.microsoft.com/help/4338817"
+        },
+        "KB4338825": {
+            "heading": "July 10, 2018&#x2014;KB4338825 (OS Build 16299.547)",
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "16299.547",
+            "updateUrl": "https://support.microsoft.com/help/4338825"
         }
     },
     "1803": {
