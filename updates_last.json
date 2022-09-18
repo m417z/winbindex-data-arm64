@@ -332,6 +332,12 @@
             "releaseDate": "2018-10-09",
             "releaseVersion": "17763.55",
             "updateUrl": "https://support.microsoft.com/help/4464330"
+        },
+        "KB4464455": {
+            "heading": "November 13, 2018&#x2014;KB4464455 (OS Build 17763.107)",
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "17763.107",
+            "updateUrl": "https://support.microsoft.com/help/4464455"
         }
     }
 }
