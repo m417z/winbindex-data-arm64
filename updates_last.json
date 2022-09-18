@@ -258,6 +258,12 @@
             "releaseDate": "2018-08-30",
             "releaseVersion": "17134.254",
             "updateUrl": "https://support.microsoft.com/help/4346783"
+        },
+        "KB4457128": {
+            "heading": "September 11, 2018&#x2014;KB4457128 (OS Build 17134.285)",
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "17134.285",
+            "updateUrl": "https://support.microsoft.com/help/4457128"
         }
     }
 }
