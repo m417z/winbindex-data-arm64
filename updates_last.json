@@ -132,6 +132,12 @@
             "releaseDate": "2018-05-23",
             "releaseVersion": "17134.81",
             "updateUrl": "https://support.microsoft.com/help/4100403"
+        },
+        "KB4103721": {
+            "heading": "May 8, 2018&#x2014;KB4103721 (OS Build 17134.48)",
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "17134.48",
+            "updateUrl": "https://support.microsoft.com/help/4103721"
         }
     }
 }
