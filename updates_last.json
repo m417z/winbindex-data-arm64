@@ -190,6 +190,12 @@
             "releaseDate": "2018-07-16",
             "releaseVersion": "16299.551",
             "updateUrl": "https://support.microsoft.com/help/4345420"
+        },
+        "KB4346644": {
+            "heading": "August 14, 2018&#x2014;KB4346644 Update for Windows 10 Mobile (OS Build 15254.527)",
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "15254.527",
+            "updateUrl": "https://support.microsoft.com/help/4346644"
         }
     },
     "1803": {
