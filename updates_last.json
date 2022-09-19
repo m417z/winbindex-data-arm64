@@ -280,6 +280,12 @@
             "releaseDate": "2019-01-08",
             "releaseVersion": "16299.904",
             "updateUrl": "https://support.microsoft.com/help/4480978"
+        },
+        "KB4483203": {
+            "heading": "January 8, 2019&#x2014;KB4483203 Update for Windows 10 Mobile (OS Build 15254.547)",
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "15254.547",
+            "updateUrl": "https://support.microsoft.com/help/4483203"
         }
     },
     "1803": {
