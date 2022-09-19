@@ -370,6 +370,12 @@
             "releaseDate": "2019-06-18",
             "releaseVersion": "16299.1237",
             "updateUrl": "https://support.microsoft.com/help/4503281"
+        },
+        "KB4503284": {
+            "heading": "June 11, 2019&#x2014;KB4503284 (OS Build 16299.1217)",
+            "releaseDate": "2019-06-11",
+            "releaseVersion": "16299.1217",
+            "updateUrl": "https://support.microsoft.com/help/4503284"
         }
     },
     "1803": {
