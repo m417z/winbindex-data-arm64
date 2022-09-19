@@ -1326,6 +1326,15 @@
             "releaseDate": "2020-03-12",
             "releaseVersion": "18362.720",
             "updateUrl": "https://support.microsoft.com/help/4551762"
+        },
+        "KB4554364": {
+            "heading": "March 30, 2020&#x2014;KB4554364 (OS Builds 18362.753 and 18363.753)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-03-30",
+            "releaseVersion": "18362.753",
+            "updateUrl": "https://support.microsoft.com/help/4554364"
         }
     }
 }
