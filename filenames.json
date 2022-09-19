@@ -7286,6 +7286,7 @@
 "weretw.dll",
 "werfault.exe",
 "werfaultsecure.exe",
+"werkernel.sys",
 "wermgr.exe",
 "wersvc.dll",
 "werui.dll",

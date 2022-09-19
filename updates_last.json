@@ -394,6 +394,12 @@
             "releaseDate": "2019-07-09",
             "releaseVersion": "16299.1268",
             "updateUrl": "https://support.microsoft.com/help/4507455"
+        },
+        "KB4507465": {
+            "heading": "July 16, 2019&#x2014;KB4507465 (OS Build 16299.1296 )",
+            "releaseDate": "2019-07-16",
+            "releaseVersion": "16299.1296",
+            "updateUrl": "https://support.microsoft.com/help/4507465"
         }
     },
     "1803": {
