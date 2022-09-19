@@ -1697,6 +1697,15 @@
             "releaseDate": "2020-11-30",
             "releaseVersion": "19041.662",
             "updateUrl": "https://support.microsoft.com/help/4586853"
+        },
+        "KB4592438": {
+            "heading": "December 8, 2020&#x2014;KB4592438 (OS Builds 19041.685 and 19042.685)",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2020-12-08",
+            "releaseVersion": "19041.685",
+            "updateUrl": "https://support.microsoft.com/help/4592438"
         }
     }
 }
