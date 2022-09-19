@@ -298,6 +298,12 @@
             "releaseDate": "2019-02-12",
             "releaseVersion": "16299.967",
             "updateUrl": "https://support.microsoft.com/help/4486996"
+        },
+        "KB4487021": {
+            "heading": "February 19, 2019&#x2014;KB4487021 (OS Build 16299.1004)",
+            "releaseDate": "2019-02-19",
+            "releaseVersion": "16299.1004",
+            "updateUrl": "https://support.microsoft.com/help/4487021"
         }
     },
     "1803": {
