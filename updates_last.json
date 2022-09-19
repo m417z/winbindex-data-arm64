@@ -532,6 +532,12 @@
             "releaseDate": "2020-02-25",
             "releaseVersion": "16299.1717",
             "updateUrl": "https://support.microsoft.com/help/4537816"
+        },
+        "KB4540681": {
+            "heading": "March 10, 2020&#x2014;KB4540681 (OS Build 16299.1747)",
+            "releaseDate": "2020-03-10",
+            "releaseVersion": "16299.1747",
+            "updateUrl": "https://support.microsoft.com/help/4540681"
         }
     },
     "1803": {
