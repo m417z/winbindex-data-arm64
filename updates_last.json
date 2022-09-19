@@ -316,6 +316,12 @@
             "releaseDate": "2019-03-12",
             "releaseVersion": "16299.1029",
             "updateUrl": "https://support.microsoft.com/help/4489886"
+        },
+        "KB4489890": {
+            "heading": "March 19, 2019&#x2014;KB4489890 (OS Build 16299.1059)",
+            "releaseDate": "2019-03-19",
+            "releaseVersion": "16299.1059",
+            "updateUrl": "https://support.microsoft.com/help/4489890"
         }
     },
     "1803": {
