@@ -1626,6 +1626,15 @@
             "releaseDate": "2020-11-19",
             "releaseVersion": "18362.1237",
             "updateUrl": "https://support.microsoft.com/help/4586819"
+        },
+        "KB4592449": {
+            "heading": "December 8, 2020&#x2014;KB4592449 (OS Builds 18362.1256 and 18363.1256)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-12-08",
+            "releaseVersion": "18362.1256",
+            "updateUrl": "https://support.microsoft.com/help/4592449"
         }
     },
     "2004": {
