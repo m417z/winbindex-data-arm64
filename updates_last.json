@@ -470,6 +470,12 @@
             "releaseDate": "2019-03-01",
             "releaseVersion": "17763.348",
             "updateUrl": "https://support.microsoft.com/help/4482887"
+        },
+        "KB4483235": {
+            "heading": "December 19, 2018&#x2014;KB4483235 (OS Build 17763.195)",
+            "releaseDate": "2018-12-19",
+            "releaseVersion": "17763.195",
+            "updateUrl": "https://support.microsoft.com/help/4483235"
         }
     }
 }
