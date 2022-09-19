@@ -930,6 +930,12 @@
             "releaseDate": "2020-06-16",
             "releaseVersion": "17134.1553",
             "updateUrl": "https://support.microsoft.com/help/4567514"
+        },
+        "KB4571709": {
+            "heading": "August 11, 2020&#x2014;KB4571709 (OS Build 17134.1667)",
+            "releaseDate": "2020-08-11",
+            "releaseVersion": "17134.1667",
+            "updateUrl": "https://support.microsoft.com/help/4571709"
         }
     },
     "1809": {
