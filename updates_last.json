@@ -1688,6 +1688,15 @@
             "releaseDate": "2020-11-10",
             "releaseVersion": "19041.630",
             "updateUrl": "https://support.microsoft.com/help/4586781"
+        },
+        "KB4586853": {
+            "heading": "November 30, 2020&#x2014;KB4586853 (OS Builds 19041.662 and 19042.662) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2020-11-30",
+            "releaseVersion": "19041.662",
+            "updateUrl": "https://support.microsoft.com/help/4586853"
         }
     }
 }
