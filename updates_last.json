@@ -582,6 +582,12 @@
             "releaseDate": "2019-05-19",
             "releaseVersion": "17134.766",
             "updateUrl": "https://support.microsoft.com/help/4505064"
+        },
+        "KB4507435": {
+            "heading": "July 9, 2019&#x2014;KB4507435 (OS Build 17134.885)",
+            "releaseDate": "2019-07-09",
+            "releaseVersion": "17134.885",
+            "updateUrl": "https://support.microsoft.com/help/4507435"
         }
     },
     "1809": {
