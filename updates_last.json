@@ -340,6 +340,12 @@
             "releaseDate": "2019-04-09",
             "releaseVersion": "16299.1087",
             "updateUrl": "https://support.microsoft.com/help/4493441"
+        },
+        "KB4495357": {
+            "heading": "April 9, 2019&#x2014;KB4495357 Update for Windows 10 Mobile (OS Build 15254.562)",
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "15254.562",
+            "updateUrl": "https://support.microsoft.com/help/4495357"
         }
     },
     "1803": {
