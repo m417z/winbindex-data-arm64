@@ -704,6 +704,12 @@
             "releaseDate": "2019-05-19",
             "releaseVersion": "17763.504",
             "updateUrl": "https://support.microsoft.com/help/4505056"
+        },
+        "KB4505658": {
+            "heading": "July 22, 2019&#x2014;KB4505658 (OS Build 17763.652)",
+            "releaseDate": "2019-07-22",
+            "releaseVersion": "17763.652",
+            "updateUrl": "https://support.microsoft.com/help/4505658"
         }
     },
     "1903": {
