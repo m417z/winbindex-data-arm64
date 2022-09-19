@@ -1410,6 +1410,15 @@
             "releaseDate": "2020-06-09",
             "releaseVersion": "18362.900",
             "updateUrl": "https://support.microsoft.com/help/4560960"
+        },
+        "KB4565351": {
+            "heading": "August 11, 2020&#x2014;KB4565351 (OS Builds 18362.1016 and 18363.1016)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-08-11",
+            "releaseVersion": "18362.1016",
+            "updateUrl": "https://support.microsoft.com/help/4565351"
         }
     },
     "2004": {
