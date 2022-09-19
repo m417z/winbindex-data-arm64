@@ -1599,6 +1599,15 @@
             "releaseDate": "2020-11-10",
             "releaseVersion": "18362.1198",
             "updateUrl": "https://support.microsoft.com/help/4586786"
+        },
+        "KB4586819": {
+            "heading": "November 19, 2020&#x2014;KB4586819 (OS Builds 18362.1237 and 18363.1237) Preview",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-11-19",
+            "releaseVersion": "18362.1237",
+            "updateUrl": "https://support.microsoft.com/help/4586819"
         }
     },
     "2004": {
