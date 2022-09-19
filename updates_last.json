@@ -460,6 +460,12 @@
             "releaseDate": "2019-10-15",
             "releaseVersion": "16299.1481",
             "updateUrl": "https://support.microsoft.com/help/4520006"
+        },
+        "KB4522012": {
+            "heading": "September 23, 2019&#x2014;KB4522012 (OS Build 16299.1392)",
+            "releaseDate": "2019-09-23",
+            "releaseVersion": "16299.1392",
+            "updateUrl": "https://support.microsoft.com/help/4522012"
         }
     },
     "1803": {
