@@ -786,6 +786,12 @@
             "releaseDate": "2020-01-14",
             "releaseVersion": "17134.1246",
             "updateUrl": "https://support.microsoft.com/help/4534293"
+        },
+        "KB4534308": {
+            "heading": "January 23, 2020&#x2014;KB4534308 (OS Build 17134.1276)",
+            "releaseDate": "2020-01-23",
+            "releaseVersion": "17134.1276",
+            "updateUrl": "https://support.microsoft.com/help/4534308"
         }
     },
     "1809": {
