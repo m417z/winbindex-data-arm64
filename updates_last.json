@@ -906,6 +906,12 @@
             "releaseDate": "2020-06-09",
             "releaseVersion": "17134.1550",
             "updateUrl": "https://support.microsoft.com/help/4561621"
+        },
+        "KB4565489": {
+            "heading": "July 14, 2020&#x2014;KB4565489 (OS Build 17134.1610)",
+            "releaseDate": "2020-07-14",
+            "releaseVersion": "17134.1610",
+            "updateUrl": "https://support.microsoft.com/help/4565489"
         }
     },
     "1809": {
