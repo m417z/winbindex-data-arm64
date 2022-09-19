@@ -292,6 +292,12 @@
             "releaseDate": "2018-12-19",
             "releaseVersion": "16299.847",
             "updateUrl": "https://support.microsoft.com/help/4483232"
+        },
+        "KB4486996": {
+            "heading": "February 12, 2019&#x2014;KB4486996 (OS Build 16299.967)",
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "16299.967",
+            "updateUrl": "https://support.microsoft.com/help/4486996"
         }
     },
     "1803": {
