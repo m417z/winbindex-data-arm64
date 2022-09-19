@@ -322,6 +322,12 @@
             "releaseDate": "2019-03-19",
             "releaseVersion": "16299.1059",
             "updateUrl": "https://support.microsoft.com/help/4489890"
+        },
+        "KB4491736": {
+            "heading": "March 12, 2019&#x2014;KB4491736 Update for Windows 10 Mobile (OS Build 15254.556)",
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "15254.556",
+            "updateUrl": "https://support.microsoft.com/help/4491736"
         }
     },
     "1803": {
