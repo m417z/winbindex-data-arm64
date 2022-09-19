@@ -542,6 +542,12 @@
             "releaseDate": "2019-03-12",
             "releaseVersion": "17763.379",
             "updateUrl": "https://support.microsoft.com/help/4489899"
+        },
+        "KB4490481": {
+            "heading": "March 26, 2019&#x2014;KB4490481 (OS Build 17763.402)",
+            "releaseDate": "2019-03-26",
+            "releaseVersion": "17763.402",
+            "updateUrl": "https://support.microsoft.com/help/4490481"
         }
     }
 }
