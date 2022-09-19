@@ -1643,6 +1643,15 @@
             "releaseDate": "2020-10-29",
             "releaseVersion": "19041.610",
             "updateUrl": "https://support.microsoft.com/help/4580364"
+        },
+        "KB4586781": {
+            "heading": "November 10, 2020&#x2014;KB4586781 (OS Builds 19041.630 and 19042.630)",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2020-11-10",
+            "releaseVersion": "19041.630",
+            "updateUrl": "https://support.microsoft.com/help/4586781"
         }
     }
 }
