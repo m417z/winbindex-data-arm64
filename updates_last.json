@@ -1251,6 +1251,15 @@
             "releaseDate": "2020-03-24",
             "releaseVersion": "18362.752",
             "updateUrl": "https://support.microsoft.com/help/4541335"
+        },
+        "KB4549951": {
+            "heading": "April 14, 2020&#x2014;KB4549951 (OS Builds 18362.778 and 18363.778)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-04-14",
+            "releaseVersion": "18362.778",
+            "updateUrl": "https://support.microsoft.com/help/4549951"
         }
     }
 }
