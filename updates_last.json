@@ -424,6 +424,12 @@
             "releaseDate": "2019-08-13",
             "releaseVersion": "16299.1331",
             "updateUrl": "https://support.microsoft.com/help/4512516"
+        },
+        "KB4513172": {
+            "heading": "August 13, 2019&#x2014;KB4513172 Update for Windows 10 Mobile (OS Build 15254.582)",
+            "releaseDate": "2019-08-13",
+            "releaseVersion": "15254.582",
+            "updateUrl": "https://support.microsoft.com/help/4513172"
         }
     },
     "1803": {
