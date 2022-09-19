@@ -1463,6 +1463,12 @@
             "releaseDate": "2020-07-14",
             "releaseVersion": "19041.388",
             "updateUrl": "https://support.microsoft.com/help/4565503"
+        },
+        "KB4566782": {
+            "heading": "August 11, 2020&#x2014;KB4566782 (OS Build 19041.450)",
+            "releaseDate": "2020-08-11",
+            "releaseVersion": "19041.450",
+            "updateUrl": "https://support.microsoft.com/help/4566782"
         }
     }
 }
