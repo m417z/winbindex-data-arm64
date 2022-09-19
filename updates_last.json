@@ -1088,6 +1088,12 @@
             "releaseDate": "2020-03-17",
             "releaseVersion": "17763.1131",
             "updateUrl": "https://support.microsoft.com/help/4541331"
+        },
+        "KB4549949": {
+            "heading": "April 14, 2020&#x2014;KB4549949 (OS Build 17763.1158)",
+            "releaseDate": "2020-04-14",
+            "releaseVersion": "17763.1158",
+            "updateUrl": "https://support.microsoft.com/help/4549949"
         }
     },
     "1903": {
