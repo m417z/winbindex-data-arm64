@@ -562,6 +562,12 @@
             "releaseDate": "2020-05-12",
             "releaseVersion": "16299.1868",
             "updateUrl": "https://support.microsoft.com/help/4556812"
+        },
+        "KB4561602": {
+            "heading": "June 9, 2020&#x2014;KB4561602 (OS Build 16299.1932)",
+            "releaseDate": "2020-06-09",
+            "releaseVersion": "16299.1932",
+            "updateUrl": "https://support.microsoft.com/help/4561602"
         }
     },
     "1803": {
