@@ -1092,6 +1092,15 @@
             "releaseDate": "2019-12-10",
             "releaseVersion": "18362.535",
             "updateUrl": "https://support.microsoft.com/help/4530684"
+        },
+        "KB4532693": {
+            "heading": "February 11, 2020&#x2014;KB4532693 (OS Builds 18362.657 and 18363.657)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-02-11",
+            "releaseVersion": "18362.657",
+            "updateUrl": "https://support.microsoft.com/help/4532693"
         }
     }
 }
