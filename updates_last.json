@@ -962,6 +962,12 @@
             "releaseDate": "2019-10-03",
             "releaseVersion": "17763.775",
             "updateUrl": "https://support.microsoft.com/help/4524148"
+        },
+        "KB4530715": {
+            "heading": "December 10, 2019&#x2014;KB4530715 (OS Build 17763.914)",
+            "releaseDate": "2019-12-10",
+            "releaseVersion": "17763.914",
+            "updateUrl": "https://support.microsoft.com/help/4530715"
         }
     },
     "1903": {
