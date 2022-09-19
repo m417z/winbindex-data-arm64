@@ -734,6 +734,12 @@
             "releaseDate": "2019-07-22",
             "releaseVersion": "17763.652",
             "updateUrl": "https://support.microsoft.com/help/4505658"
+        },
+        "KB4507469": {
+            "heading": "July 9, 2019&#x2014;KB4507469 (OS Build 17763.615)",
+            "releaseDate": "2019-07-09",
+            "releaseVersion": "17763.615",
+            "updateUrl": "https://support.microsoft.com/help/4507469"
         }
     },
     "1903": {
