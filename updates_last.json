@@ -1563,6 +1563,15 @@
             "releaseDate": "2020-10-13",
             "releaseVersion": "18362.1139",
             "updateUrl": "https://support.microsoft.com/help/4577671"
+        },
+        "KB4580386": {
+            "heading": "October 20, 2020&#x2014;KB4580386 (OS Builds 18362.1171 and 18363.1171) Preview",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-10-20",
+            "releaseVersion": "18362.1171",
+            "updateUrl": "https://support.microsoft.com/help/4580386"
         }
     },
     "2004": {
