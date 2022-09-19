@@ -400,6 +400,12 @@
             "releaseDate": "2019-07-16",
             "releaseVersion": "16299.1296",
             "updateUrl": "https://support.microsoft.com/help/4507465"
+        },
+        "KB4509104": {
+            "heading": "July 9, 2019&#x2014;KB4509104 Update for Windows 10 Mobile (OS Build 15254.575)",
+            "releaseDate": "2019-07-09",
+            "releaseVersion": "15254.575",
+            "updateUrl": "https://support.microsoft.com/help/4509104"
         }
     },
     "1803": {
