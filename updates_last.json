@@ -1029,6 +1029,15 @@
             "releaseDate": "2019-10-03",
             "releaseVersion": "18362.388",
             "updateUrl": "https://support.microsoft.com/help/4524147"
+        },
+        "KB4524570": {
+            "heading": "November 12, 2019&#x2014;KB4524570 (OS Builds 18362.476 and 18363.476)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2019-11-12",
+            "releaseVersion": "18362.476",
+            "updateUrl": "https://support.microsoft.com/help/4524570"
         }
     }
 }
