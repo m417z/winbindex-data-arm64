@@ -1304,6 +1304,12 @@
             "releaseDate": "2020-11-19",
             "releaseVersion": "17763.1613",
             "updateUrl": "https://support.microsoft.com/help/4586839"
+        },
+        "KB4592440": {
+            "heading": "December 8, 2020&#x2014;KB4592440 (OS Build 17763.1637)",
+            "releaseDate": "2020-12-08",
+            "releaseVersion": "17763.1637",
+            "updateUrl": "https://support.microsoft.com/help/4592440"
         }
     },
     "1903": {
