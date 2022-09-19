@@ -1368,6 +1368,15 @@
             "releaseDate": "2020-05-12",
             "releaseVersion": "18362.836",
             "updateUrl": "https://support.microsoft.com/help/4556799"
+        },
+        "KB4559004": {
+            "heading": "July 21, 2020&#x2014;KB4559004 (OS Builds 18362.997 and 18363.997)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-07-21",
+            "releaseVersion": "18362.997",
+            "updateUrl": "https://support.microsoft.com/help/4559004"
         }
     },
     "2004": {
