@@ -1059,6 +1059,15 @@
             "releaseDate": "2020-01-14",
             "releaseVersion": "18362.592",
             "updateUrl": "https://support.microsoft.com/help/4528760"
+        },
+        "KB4530684": {
+            "heading": "December 10, 2019&#x2014;KB4530684 (OS Builds 18362.535 and 18363.535)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2019-12-10",
+            "releaseVersion": "18362.535",
+            "updateUrl": "https://support.microsoft.com/help/4530684"
         }
     }
 }
