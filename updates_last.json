@@ -516,6 +516,12 @@
             "releaseDate": "2019-04-09",
             "releaseVersion": "17134.706",
             "updateUrl": "https://support.microsoft.com/help/4493464"
+        },
+        "KB4499167": {
+            "heading": "May 14, 2019&#x2014;KB4499167 (OS Build 17134.765)",
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "17134.765",
+            "updateUrl": "https://support.microsoft.com/help/4499167"
         }
     },
     "1809": {
