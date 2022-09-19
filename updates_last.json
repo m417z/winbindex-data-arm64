@@ -514,6 +514,12 @@
             "releaseDate": "2020-01-23",
             "releaseVersion": "16299.1654",
             "updateUrl": "https://support.microsoft.com/help/4534318"
+        },
+        "KB4535289": {
+            "heading": "January 14, 2020&#x2014;KB4535289 Update for Windows 10 Mobile (OS Build 15254.603)",
+            "releaseDate": "2020-01-14",
+            "releaseVersion": "15254.603",
+            "updateUrl": "https://support.microsoft.com/help/4535289"
         }
     },
     "1803": {
