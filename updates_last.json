@@ -1727,6 +1727,15 @@
             "releaseDate": "2020-12-08",
             "releaseVersion": "19041.685",
             "updateUrl": "https://support.microsoft.com/help/4592438"
+        },
+        "KB4594440": {
+            "heading": "November 19, 2020&#x2014;KB4594440 (OS Builds 19041.631 and 19042.631) Out-of-band",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2020-11-19",
+            "releaseVersion": "19041.631",
+            "updateUrl": "https://support.microsoft.com/help/4594440"
         }
     }
 }
