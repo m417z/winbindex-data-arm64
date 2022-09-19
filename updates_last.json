@@ -1619,6 +1619,15 @@
             "releaseDate": "2020-10-13",
             "releaseVersion": "19041.572",
             "updateUrl": "https://support.microsoft.com/help/4579311"
+        },
+        "KB4580364": {
+            "heading": "October 29, 2020&#x2014;KB4580364 (OS Builds 19041.610 and 19042.610) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2020-10-29",
+            "releaseVersion": "19041.610",
+            "updateUrl": "https://support.microsoft.com/help/4580364"
         }
     }
 }
