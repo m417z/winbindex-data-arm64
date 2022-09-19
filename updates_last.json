@@ -1293,6 +1293,15 @@
             "releaseDate": "2020-04-21",
             "releaseVersion": "18362.815",
             "updateUrl": "https://support.microsoft.com/help/4550945"
+        },
+        "KB4551762": {
+            "heading": "March 12, 2020&#x2014;KB4551762 (OS Builds 18362.720 and 18363.720)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-03-12",
+            "releaseVersion": "18362.720",
+            "updateUrl": "https://support.microsoft.com/help/4551762"
         }
     }
 }
