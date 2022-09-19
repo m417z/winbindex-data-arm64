@@ -706,6 +706,11 @@
             "releaseDate": "2019-06-11",
             "releaseVersion": "18362.175",
             "updateUrl": "https://support.microsoft.com/help/4503293"
+        },
+        "KB4505057": {
+            "releaseDate": "2019-05-21",
+            "releaseVersion": "18362.116",
+            "updateUrl": "https://support.microsoft.com/help/4505057"
         }
     }
 }
