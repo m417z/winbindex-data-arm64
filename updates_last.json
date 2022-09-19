@@ -660,6 +660,12 @@
             "releaseDate": "2019-09-24",
             "releaseVersion": "17134.1039",
             "updateUrl": "https://support.microsoft.com/help/4516045"
+        },
+        "KB4516058": {
+            "heading": "September 10, 2019&#x2014;KB4516058 (OS Build 17134.1006)",
+            "releaseDate": "2019-09-10",
+            "releaseVersion": "17134.1006",
+            "updateUrl": "https://support.microsoft.com/help/4516058"
         }
     },
     "1809": {
