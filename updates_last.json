@@ -1262,6 +1262,12 @@
             "releaseDate": "2020-09-16",
             "releaseVersion": "17763.1490",
             "updateUrl": "https://support.microsoft.com/help/4577069"
+        },
+        "KB4577668": {
+            "heading": "October 13, 2020&#x2014;KB4577668 (OS Build 17763.1518)",
+            "releaseDate": "2020-10-13",
+            "releaseVersion": "17763.1518",
+            "updateUrl": "https://support.microsoft.com/help/4577668"
         }
     },
     "1903": {
