@@ -586,6 +586,12 @@
             "releaseDate": "2020-08-11",
             "releaseVersion": "16299.2045",
             "updateUrl": "https://support.microsoft.com/help/4571741"
+        },
+        "KB4577041": {
+            "heading": "September 8, 2020&#x2014;KB4577041 (OS Build 16299.2107)",
+            "releaseDate": "2020-09-08",
+            "releaseVersion": "16299.2107",
+            "updateUrl": "https://support.microsoft.com/help/4577041"
         }
     },
     "1803": {
