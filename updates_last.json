@@ -1316,6 +1316,12 @@
             "releaseDate": "2020-12-08",
             "releaseVersion": "17763.1637",
             "updateUrl": "https://support.microsoft.com/help/4592440"
+        },
+        "KB4594442": {
+            "heading": "November 17, 2020&#x2014;KB4594442 (OS Build 17763.1579) Out-of-band",
+            "releaseDate": "2020-11-17",
+            "releaseVersion": "17763.1579",
+            "updateUrl": "https://support.microsoft.com/help/4594442"
         }
     },
     "1903": {
