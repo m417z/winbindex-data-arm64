@@ -1357,5 +1357,13 @@
             "releaseVersion": "18362.836",
             "updateUrl": "https://support.microsoft.com/help/4556799"
         }
+    },
+    "2004": {
+        "KB4557957": {
+            "heading": "June 9, 2020&#x2014;KB4557957 (OS Build 19041.329)",
+            "releaseDate": "2020-06-09",
+            "releaseVersion": "19041.329",
+            "updateUrl": "https://support.microsoft.com/help/4557957"
+        }
     }
 }
