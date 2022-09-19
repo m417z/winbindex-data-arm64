@@ -508,6 +508,12 @@
             "releaseDate": "2020-01-14",
             "releaseVersion": "16299.1625",
             "updateUrl": "https://support.microsoft.com/help/4534276"
+        },
+        "KB4534318": {
+            "heading": "January 23, 2020&#x2014;KB4534318 (OS Build 16299.1654)",
+            "releaseDate": "2020-01-23",
+            "releaseVersion": "16299.1654",
+            "updateUrl": "https://support.microsoft.com/help/4534318"
         }
     },
     "1803": {
