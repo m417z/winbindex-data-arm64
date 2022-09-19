@@ -960,6 +960,12 @@
             "releaseDate": "2020-09-08",
             "releaseVersion": "17134.1726",
             "updateUrl": "https://support.microsoft.com/help/4577032"
+        },
+        "KB4580330": {
+            "heading": "October 13, 2020&#x2014;KB4580330 (OS Build 17134.1792)",
+            "releaseDate": "2020-10-13",
+            "releaseVersion": "17134.1792",
+            "updateUrl": "https://support.microsoft.com/help/4580330"
         }
     },
     "1809": {
