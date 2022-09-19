@@ -903,6 +903,12 @@
             "releaseDate": "2019-09-26",
             "releaseVersion": "18362.387",
             "updateUrl": "https://support.microsoft.com/help/4517211"
+        },
+        "KB4517389": {
+            "heading": "October 8, 2019&#x2014;KB4517389 (OS Build 18362.418)",
+            "releaseDate": "2019-10-08",
+            "releaseVersion": "18362.418",
+            "updateUrl": "https://support.microsoft.com/help/4517389"
         }
     }
 }

@@ -5,8 +5,8 @@
 ## Indexed Files
 
 <!--FileStats-->
-Total amount of supported PE files: 41,645  
+Total amount of supported PE files: 42,278  
 Files with a download link: 0 (0 from the actual files, 0 from VirusTotal)  
-Files without a download link: 41,645 (0 weren't uploaded to VirusTotal, 41,645 weren't checked yet)  
+Files without a download link: 42,278 (0 weren't uploaded to VirusTotal, 42,278 weren't checked yet)  
 % of files with a download link: 0.0  
 <!--/FileStats-->
