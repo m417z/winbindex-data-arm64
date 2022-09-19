@@ -1526,6 +1526,12 @@
             "releaseDate": "2020-07-31",
             "releaseVersion": "19041.423",
             "updateUrl": "https://support.microsoft.com/help/4568831"
+        },
+        "KB4571744": {
+            "heading": "September 3, 2020&#x2014;KB4571744 (OS Build 19041.488) Preview",
+            "releaseDate": "2020-09-03",
+            "releaseVersion": "19041.488",
+            "updateUrl": "https://support.microsoft.com/help/4571744"
         }
     }
 }
