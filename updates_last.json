@@ -1160,6 +1160,12 @@
             "releaseDate": "2020-07-14",
             "releaseVersion": "17763.1339",
             "updateUrl": "https://support.microsoft.com/help/4558998"
+        },
+        "KB4559003": {
+            "heading": "July 21, 2020&#x2014;KB4559003 (OS Build 17763.1369)",
+            "releaseDate": "2020-07-21",
+            "releaseVersion": "17763.1369",
+            "updateUrl": "https://support.microsoft.com/help/4559003"
         }
     },
     "1903": {
