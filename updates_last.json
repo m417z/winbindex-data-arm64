@@ -520,6 +520,12 @@
             "releaseDate": "2020-01-14",
             "releaseVersion": "15254.603",
             "updateUrl": "https://support.microsoft.com/help/4535289"
+        },
+        "KB4537789": {
+            "heading": "February 11, 2020&#x2014;KB4537789 (OS Build 16299.1686)",
+            "releaseDate": "2020-02-11",
+            "releaseVersion": "16299.1686",
+            "updateUrl": "https://support.microsoft.com/help/4537789"
         }
     },
     "1803": {
