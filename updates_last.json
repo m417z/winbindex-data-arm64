@@ -468,6 +468,12 @@
             "releaseDate": "2019-03-12",
             "releaseVersion": "17134.648",
             "updateUrl": "https://support.microsoft.com/help/4489868"
+        },
+        "KB4489894": {
+            "heading": "March 19, 2019&#x2014;KB4489894 (OS Build 17134.677)",
+            "releaseDate": "2019-03-19",
+            "releaseVersion": "17134.677",
+            "updateUrl": "https://support.microsoft.com/help/4489894"
         }
     },
     "1809": {
