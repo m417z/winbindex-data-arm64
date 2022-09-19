@@ -490,6 +490,12 @@
             "releaseDate": "2019-10-03",
             "releaseVersion": "16299.1421",
             "updateUrl": "https://support.microsoft.com/help/4524150"
+        },
+        "KB4525241": {
+            "heading": "November 12, 2019&#x2014;KB4525241 (OS Build 16299.1508)",
+            "releaseDate": "2019-11-12",
+            "releaseVersion": "16299.1508",
+            "updateUrl": "https://support.microsoft.com/help/4525241"
         }
     },
     "1803": {
