@@ -1521,6 +1521,15 @@
             "releaseDate": "2020-09-08",
             "releaseVersion": "18362.1082",
             "updateUrl": "https://support.microsoft.com/help/4574727"
+        },
+        "KB4577062": {
+            "heading": "September 16, 2020&#x2014;KB4577062 (OS Builds 18362.1110 and 18363.1110) Preview",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-09-16",
+            "releaseVersion": "18362.1110",
+            "updateUrl": "https://support.microsoft.com/help/4577062"
         }
     },
     "2004": {
