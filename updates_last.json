@@ -1449,6 +1449,15 @@
             "releaseDate": "2020-08-20",
             "releaseVersion": "18362.1049",
             "updateUrl": "https://support.microsoft.com/help/4566116"
+        },
+        "KB4567512": {
+            "heading": "June 16, 2020&#x2014;KB4567512 (OS Builds 18362.904 and 18363.904)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-06-16",
+            "releaseVersion": "18362.904",
+            "updateUrl": "https://support.microsoft.com/help/4567512"
         }
     },
     "2004": {
