@@ -426,6 +426,12 @@
             "releaseDate": "2018-12-19",
             "releaseVersion": "17134.472",
             "updateUrl": "https://support.microsoft.com/help/4483234"
+        },
+        "KB4487017": {
+            "heading": "February 12, 2019&#x2014;KB4487017 (OS Build 17134.590)",
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "17134.590",
+            "updateUrl": "https://support.microsoft.com/help/4487017"
         }
     },
     "1809": {
