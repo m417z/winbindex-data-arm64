@@ -652,6 +652,12 @@
             "releaseDate": "2019-05-29",
             "releaseVersion": "18362.145",
             "updateUrl": "https://support.microsoft.com/help/4497935"
+        },
+        "KB4501375": {
+            "heading": "June 27, 2019&#x2014;KB4501375 (OS Build 18362.207)",
+            "releaseDate": "2019-06-27",
+            "releaseVersion": "18362.207",
+            "updateUrl": "https://support.microsoft.com/help/4501375"
         }
     }
 }
