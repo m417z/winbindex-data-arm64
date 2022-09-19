@@ -448,6 +448,12 @@
             "releaseDate": "2019-09-10",
             "releaseVersion": "15254.587",
             "updateUrl": "https://support.microsoft.com/help/4518514"
+        },
+        "KB4520004": {
+            "heading": "October 8, 2019&#x2014;KB4520004 (OS Build 16299.1451)",
+            "releaseDate": "2019-10-08",
+            "releaseVersion": "16299.1451",
+            "updateUrl": "https://support.microsoft.com/help/4520004"
         }
     },
     "1803": {
