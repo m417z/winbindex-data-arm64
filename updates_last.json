@@ -849,6 +849,12 @@
             "releaseDate": "2019-08-13",
             "releaseVersion": "18362.295",
             "updateUrl": "https://support.microsoft.com/help/4512508"
+        },
+        "KB4512941": {
+            "heading": "August 30, 2019&#x2014;KB4512941 (OS Build 18362.329)",
+            "releaseDate": "2019-08-30",
+            "releaseVersion": "18362.329",
+            "updateUrl": "https://support.microsoft.com/help/4512941"
         }
     }
 }
