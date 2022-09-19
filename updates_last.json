@@ -1278,6 +1278,15 @@
             "releaseDate": "2020-04-14",
             "releaseVersion": "18362.778",
             "updateUrl": "https://support.microsoft.com/help/4549951"
+        },
+        "KB4550945": {
+            "heading": "April 21, 2020&#x2014;KB4550945 (OS Builds 18362.815 and 18363.815)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-04-21",
+            "releaseVersion": "18362.815",
+            "updateUrl": "https://support.microsoft.com/help/4550945"
         }
     }
 }
