@@ -1676,6 +1676,12 @@
             "releaseDate": "2021-01-12",
             "releaseVersion": "18363.1316",
             "updateUrl": "https://support.microsoft.com/help/4598229"
+        },
+        "KB4598298": {
+            "heading": "January 21, 2021&#x2014;KB4598298 (OS Build 18363.1350) Preview",
+            "releaseDate": "2021-01-21",
+            "releaseVersion": "18363.1350",
+            "updateUrl": "https://support.microsoft.com/help/4598298"
         }
     },
     "2004": {
