@@ -281,6 +281,10 @@ def main():
         print(f'Processing Windows version {windows_version}')
 
         for update_kb in updates[windows_version]:
+            # Temporarily skip an update which returns 404.
+            if update_kb == 'KB4537762':
+                continue
+
             try:
                 get_files_from_update(windows_version, update_kb)
             except UpdateNotSupported:
