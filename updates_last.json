@@ -896,6 +896,12 @@
             "releaseDate": "2019-10-15",
             "releaseVersion": "17763.832",
             "updateUrl": "https://support.microsoft.com/help/4520062"
+        },
+        "KB4522015": {
+            "heading": "September 23, 2019&#x2014;KB4522015 (OS Build 17763.740)",
+            "releaseDate": "2019-09-23",
+            "releaseVersion": "17763.740",
+            "updateUrl": "https://support.microsoft.com/help/4522015"
         }
     },
     "1903": {
