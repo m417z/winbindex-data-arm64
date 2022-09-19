@@ -602,6 +602,12 @@
             "releaseDate": "2019-05-03",
             "releaseVersion": "17763.475",
             "updateUrl": "https://support.microsoft.com/help/4495667"
+        },
+        "KB4497934": {
+            "heading": "May 21, 2019&#x2014;KB4497934 (OS Build 17763.529)",
+            "releaseDate": "2019-05-21",
+            "releaseVersion": "17763.529",
+            "updateUrl": "https://support.microsoft.com/help/4497934"
         }
     }
 }
