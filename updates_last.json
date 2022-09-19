@@ -352,6 +352,12 @@
             "releaseDate": "2019-05-28",
             "releaseVersion": "16299.1182",
             "updateUrl": "https://support.microsoft.com/help/4499147"
+        },
+        "KB4499179": {
+            "heading": "May 14, 2019&#x2014;KB4499179 (OS Build 16299.1146)",
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "16299.1146",
+            "updateUrl": "https://support.microsoft.com/help/4499179"
         }
     },
     "1803": {
