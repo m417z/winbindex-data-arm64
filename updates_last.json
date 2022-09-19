@@ -750,6 +750,12 @@
             "releaseDate": "2019-10-03",
             "releaseVersion": "17134.1040",
             "updateUrl": "https://support.microsoft.com/help/4524149"
+        },
+        "KB4525237": {
+            "heading": "November 12, 2019&#x2014;KB4525237 (OS Build 17134.1130)",
+            "releaseDate": "2019-11-12",
+            "releaseVersion": "17134.1130",
+            "updateUrl": "https://support.microsoft.com/help/4525237"
         }
     },
     "1809": {
