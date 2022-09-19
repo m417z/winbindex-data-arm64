@@ -406,6 +406,12 @@
             "releaseDate": "2019-07-09",
             "releaseVersion": "15254.575",
             "updateUrl": "https://support.microsoft.com/help/4509104"
+        },
+        "KB4509477": {
+            "heading": "June 26, 2019&#x2014;KB4509477 (OS Build 16299.1239)",
+            "releaseDate": "2019-06-26",
+            "releaseVersion": "16299.1239",
+            "updateUrl": "https://support.microsoft.com/help/4509477"
         }
     },
     "1803": {
