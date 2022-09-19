@@ -834,6 +834,12 @@
             "releaseDate": "2020-02-25",
             "releaseVersion": "17134.1345",
             "updateUrl": "https://support.microsoft.com/help/4537795"
+        },
+        "KB4540689": {
+            "heading": "March 10, 2020&#x2014;KB4540689 (OS Build 17134.1365)",
+            "releaseDate": "2020-03-10",
+            "releaseVersion": "17134.1365",
+            "updateUrl": "https://support.microsoft.com/help/4540689"
         }
     },
     "1809": {
