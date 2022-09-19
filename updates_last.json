@@ -584,6 +584,12 @@
             "releaseDate": "2019-04-09",
             "releaseVersion": "17763.437",
             "updateUrl": "https://support.microsoft.com/help/4493509"
+        },
+        "KB4494441": {
+            "heading": "May 14, 2019&#x2014;KB4494441 (OS Build 17763.503)",
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "17763.503",
+            "updateUrl": "https://support.microsoft.com/help/4494441"
         }
     }
 }
