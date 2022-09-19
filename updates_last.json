@@ -596,6 +596,12 @@
             "releaseDate": "2019-05-14",
             "releaseVersion": "17763.503",
             "updateUrl": "https://support.microsoft.com/help/4494441"
+        },
+        "KB4495667": {
+            "heading": "May 3, 2019&#x2014;KB4495667 (OS Build 17763.475)",
+            "releaseDate": "2019-05-03",
+            "releaseVersion": "17763.475",
+            "updateUrl": "https://support.microsoft.com/help/4495667"
         }
     }
 }
