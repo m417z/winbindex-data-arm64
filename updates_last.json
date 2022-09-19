@@ -1542,6 +1542,15 @@
             "releaseDate": "2020-09-16",
             "releaseVersion": "18362.1110",
             "updateUrl": "https://support.microsoft.com/help/4577062"
+        },
+        "KB4577671": {
+            "heading": "October 13, 2020&#x2014;KB4577671 (OS Builds 18362.1139 and 18363.1139)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-10-13",
+            "releaseVersion": "18362.1139",
+            "updateUrl": "https://support.microsoft.com/help/4577671"
         }
     },
     "2004": {
