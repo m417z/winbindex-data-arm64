@@ -1298,6 +1298,12 @@
             "releaseDate": "2020-11-10",
             "releaseVersion": "17763.1577",
             "updateUrl": "https://support.microsoft.com/help/4586793"
+        },
+        "KB4586839": {
+            "heading": "November 19, 2020&#x2014;KB4586839 (OS Build 17763.1613) Preview",
+            "releaseDate": "2020-11-19",
+            "releaseVersion": "17763.1613",
+            "updateUrl": "https://support.microsoft.com/help/4586839"
         }
     },
     "1903": {
