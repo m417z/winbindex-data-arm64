@@ -1440,6 +1440,15 @@
             "releaseDate": "2020-07-14",
             "releaseVersion": "18362.959",
             "updateUrl": "https://support.microsoft.com/help/4565483"
+        },
+        "KB4566116": {
+            "heading": "August 20, 2020&#x2014;KB4566116 (OS Builds 18362.1049 and 18363.1049) Preview",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-08-20",
+            "releaseVersion": "18362.1049",
+            "updateUrl": "https://support.microsoft.com/help/4566116"
         }
     },
     "2004": {
