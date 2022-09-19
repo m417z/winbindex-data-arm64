@@ -978,6 +978,12 @@
             "releaseDate": "2020-12-08",
             "releaseVersion": "17134.1902",
             "updateUrl": "https://support.microsoft.com/help/4592446"
+        },
+        "KB4598245": {
+            "heading": "January 12, 2021&#x2014;KB4598245 (OS Build 17134.1967)",
+            "releaseDate": "2021-01-12",
+            "releaseVersion": "17134.1967",
+            "updateUrl": "https://support.microsoft.com/help/4598245"
         }
     },
     "1809": {
