@@ -466,6 +466,12 @@
             "releaseDate": "2019-09-23",
             "releaseVersion": "16299.1392",
             "updateUrl": "https://support.microsoft.com/help/4522012"
+        },
+        "KB4522809": {
+            "heading": "October 8, 2019&#x2014;KB4522809 Update for Windows 10 Mobile (OS Build 15254.590)",
+            "releaseDate": "2019-10-08",
+            "releaseVersion": "15254.590",
+            "updateUrl": "https://support.microsoft.com/help/4522809"
         }
     },
     "1803": {
