@@ -1118,6 +1118,12 @@
             "releaseDate": "2020-04-21",
             "releaseVersion": "17763.1192",
             "updateUrl": "https://support.microsoft.com/help/4550969"
+        },
+        "KB4551853": {
+            "heading": "May 12, 2020&#x2014;KB4551853 (OS Build 17763.1217)",
+            "releaseDate": "2020-05-12",
+            "releaseVersion": "17763.1217",
+            "updateUrl": "https://support.microsoft.com/help/4551853"
         }
     },
     "1903": {
