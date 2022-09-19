@@ -8465,6 +8465,7 @@
 "system.servicemodel.resources.dll",
 "system.servicemodel.washosting.dll",
 "system.serviceprocess.dll",
+"system.speech.dll",
 "system.transactions.dll",
 "system.web.applicationservices.dll",
 "system.web.applicationservices.resources.dll",
