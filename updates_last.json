@@ -382,6 +382,12 @@
             "releaseDate": "2019-05-19",
             "releaseVersion": "16299.1150",
             "updateUrl": "https://support.microsoft.com/help/4505062"
+        },
+        "KB4505390": {
+            "heading": "June 11, 2019&#x2014;KB4505390 Update for Windows 10 Mobile (OS Build 15254.572)",
+            "releaseDate": "2019-06-11",
+            "releaseVersion": "15254.572",
+            "updateUrl": "https://support.microsoft.com/help/4505390"
         }
     },
     "1803": {
