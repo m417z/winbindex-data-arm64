@@ -819,6 +819,12 @@
             "releaseDate": "2019-07-09",
             "releaseVersion": "18362.239",
             "updateUrl": "https://support.microsoft.com/help/4507453"
+        },
+        "KB4512508": {
+            "heading": "August 13, 2019&#x2014;KB4512508 (OS Build 18362.295)",
+            "releaseDate": "2019-08-13",
+            "releaseVersion": "18362.295",
+            "updateUrl": "https://support.microsoft.com/help/4512508"
         }
     }
 }
