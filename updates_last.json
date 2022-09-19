@@ -358,6 +358,12 @@
             "releaseDate": "2019-05-14",
             "releaseVersion": "16299.1146",
             "updateUrl": "https://support.microsoft.com/help/4499179"
+        },
+        "KB4500154": {
+            "heading": "May 14, 2019&#x2014;KB4500154 Update for Windows 10 Mobile (OS Build 15254.566)",
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "15254.566",
+            "updateUrl": "https://support.microsoft.com/help/4500154"
         }
     },
     "1803": {
