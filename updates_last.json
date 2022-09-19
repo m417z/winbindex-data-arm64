@@ -800,6 +800,12 @@
             "releaseDate": "2019-08-17",
             "releaseVersion": "17763.720",
             "updateUrl": "https://support.microsoft.com/help/4512534"
+        },
+        "KB4512578": {
+            "heading": "September 10, 2019&#x2014;KB4512578 (OS Build 17763.737)",
+            "releaseDate": "2019-09-10",
+            "releaseVersion": "17763.737",
+            "updateUrl": "https://support.microsoft.com/help/4512578"
         }
     },
     "1903": {
