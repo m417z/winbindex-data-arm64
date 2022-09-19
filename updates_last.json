@@ -1256,6 +1256,12 @@
             "releaseDate": "2020-08-20",
             "releaseVersion": "17763.1432",
             "updateUrl": "https://support.microsoft.com/help/4571748"
+        },
+        "KB4577069": {
+            "heading": "September 16, 2020&#x2014;KB4577069 (OS Build 17763.1490) Preview",
+            "releaseDate": "2020-09-16",
+            "releaseVersion": "17763.1490",
+            "updateUrl": "https://support.microsoft.com/help/4577069"
         }
     },
     "1903": {
