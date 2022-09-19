@@ -1280,6 +1280,12 @@
             "releaseDate": "2020-10-13",
             "releaseVersion": "17763.1518",
             "updateUrl": "https://support.microsoft.com/help/4577668"
+        },
+        "KB4580390": {
+            "heading": "October 20, 2020&#x2014;KB4580390 (OS Build 17763.1554) Preview",
+            "releaseDate": "2020-10-20",
+            "releaseVersion": "17763.1554",
+            "updateUrl": "https://support.microsoft.com/help/4580390"
         }
     },
     "1903": {
