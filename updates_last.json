@@ -1641,6 +1641,15 @@
             "releaseDate": "2020-12-08",
             "releaseVersion": "18362.1256",
             "updateUrl": "https://support.microsoft.com/help/4592449"
+        },
+        "KB4594443": {
+            "heading": "November 19, 2020&#x2014;KB4594443 (OS Builds 18362.1199 and 18363.1199) Out-of-band",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-11-19",
+            "releaseVersion": "18362.1199",
+            "updateUrl": "https://support.microsoft.com/help/4594443"
         }
     },
     "2004": {
