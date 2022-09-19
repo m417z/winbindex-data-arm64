@@ -328,6 +328,12 @@
             "releaseDate": "2019-03-12",
             "releaseVersion": "15254.556",
             "updateUrl": "https://support.microsoft.com/help/4491736"
+        },
+        "KB4493440": {
+            "heading": "April 25, 2019&#x2014;KB4493440 (OS Build 16299.1127)",
+            "releaseDate": "2019-04-25",
+            "releaseVersion": "16299.1127",
+            "updateUrl": "https://support.microsoft.com/help/4493440"
         }
     },
     "1803": {
