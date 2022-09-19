@@ -876,6 +876,12 @@
             "releaseDate": "2020-04-21",
             "releaseVersion": "17134.1456",
             "updateUrl": "https://support.microsoft.com/help/4550944"
+        },
+        "KB4554349": {
+            "heading": "March 30, 2020&#x2014;KB4554349 (OS Build 17134.1401)",
+            "releaseDate": "2020-03-30",
+            "releaseVersion": "17134.1401",
+            "updateUrl": "https://support.microsoft.com/help/4554349"
         }
     },
     "1809": {
