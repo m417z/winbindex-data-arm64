@@ -1236,6 +1236,15 @@
             "releaseDate": "2020-03-10",
             "releaseVersion": "18362.719",
             "updateUrl": "https://support.microsoft.com/help/4540673"
+        },
+        "KB4541335": {
+            "heading": "March 24, 2020&#x2014;KB4541335 (OS Builds 18362.752 and 18363.752)",
+            "otherWindowsVersions": [
+                "1909"
+            ],
+            "releaseDate": "2020-03-24",
+            "releaseVersion": "18362.752",
+            "updateUrl": "https://support.microsoft.com/help/4541335"
         }
     }
 }
