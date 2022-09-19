@@ -974,6 +974,12 @@
             "releaseDate": "2019-12-10",
             "releaseVersion": "17763.914",
             "updateUrl": "https://support.microsoft.com/help/4530715"
+        },
+        "KB4532691": {
+            "heading": "February 11, 2020&#x2014;KB4532691 (OS Build 17763.1039)",
+            "releaseDate": "2020-02-11",
+            "releaseVersion": "17763.1039",
+            "updateUrl": "https://support.microsoft.com/help/4532691"
         }
     },
     "1903": {
