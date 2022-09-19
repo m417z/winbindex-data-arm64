@@ -768,6 +768,12 @@
             "releaseDate": "2019-11-12",
             "releaseVersion": "17134.1130",
             "updateUrl": "https://support.microsoft.com/help/4525237"
+        },
+        "KB4530717": {
+            "heading": "December 10, 2019&#x2014;KB4530717 (OS Build 17134.1184)",
+            "releaseDate": "2019-12-10",
+            "releaseVersion": "17134.1184",
+            "updateUrl": "https://support.microsoft.com/help/4530717"
         }
     },
     "1809": {
