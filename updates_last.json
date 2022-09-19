@@ -1652,6 +1652,14 @@
             "updateUrl": "https://support.microsoft.com/help/4594443"
         }
     },
+    "1909": {
+        "KB4598229": {
+            "heading": "January 12, 2021&#x2014;KB4598229 (OS Build 18363.1316)",
+            "releaseDate": "2021-01-12",
+            "releaseVersion": "18363.1316",
+            "updateUrl": "https://support.microsoft.com/help/4598229"
+        }
+    },
     "2004": {
         "KB4557957": {
             "heading": "June 9, 2020&#x2014;KB4557957 (OS Build 19041.329)",
