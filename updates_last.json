@@ -1,4 +1,12 @@
 {
+    "11-21H2": {
+        "KB5006674": {
+            "heading": "October 12, 2021&#x2014;KB5006674 (OS Build 22000.258)",
+            "releaseDate": "2021-10-12",
+            "releaseVersion": "22000.258",
+            "updateUrl": "https://support.microsoft.com/help/5006674"
+        }
+    },
     "1709": {
         "KB4043961": {
             "heading": "October 17, 2017&#x2014;KB4043961 (OS Build 16299.19)",
