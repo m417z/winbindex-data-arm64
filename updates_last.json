@@ -1936,6 +1936,15 @@
             "releaseDate": "2021-04-13",
             "releaseVersion": "19041.928",
             "updateUrl": "https://support.microsoft.com/help/5001330"
+        },
+        "KB5001391": {
+            "heading": "April 28, 2021&#x2014;KB5001391 (OS Builds 19041.964 and 19042.964) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-04-28",
+            "releaseVersion": "19041.964",
+            "updateUrl": "https://support.microsoft.com/help/5001391"
         }
     }
 }
