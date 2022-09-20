@@ -1418,6 +1418,12 @@
             "releaseDate": "2021-03-18",
             "releaseVersion": "17763.1823",
             "updateUrl": "https://support.microsoft.com/help/5001638"
+        },
+        "KB5003171": {
+            "heading": "May 11, 2021&#x2014;KB5003171 (OS Build 17763.1935)",
+            "releaseDate": "2021-05-11",
+            "releaseVersion": "17763.1935",
+            "updateUrl": "https://support.microsoft.com/help/5003171"
         }
     },
     "1903": {
