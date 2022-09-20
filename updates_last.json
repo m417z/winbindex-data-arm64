@@ -1834,6 +1834,15 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "19041.804",
             "updateUrl": "https://support.microsoft.com/help/4601319"
+        },
+        "KB4601382": {
+            "heading": "February 24, 2021&#x2014;KB4601382 (OS Builds 19041.844 and 19042.844) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-02-24",
+            "releaseVersion": "19041.844",
+            "updateUrl": "https://support.microsoft.com/help/4601382"
         }
     }
 }
