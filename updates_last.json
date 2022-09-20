@@ -2235,6 +2235,16 @@
             "releaseDate": "2021-09-01",
             "releaseVersion": "19041.1202",
             "updateUrl": "https://support.microsoft.com/help/5005101"
+        },
+        "KB5005565": {
+            "heading": "September 14, 2021&#x2014;KB5005565 (OS Builds 19041.1237, 19042.1237, and 19043.1237)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-09-14",
+            "releaseVersion": "19041.1237",
+            "updateUrl": "https://support.microsoft.com/help/5005565"
         }
     }
 }

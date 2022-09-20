@@ -7187,6 +7187,8 @@
 "printmanagementprovider.mof",
 "printplatformconfig.dll",
 "printrenderapihost.dll",
+"printui.dll",
+"printui.dll.mun",
 "printui.exe",
 "printupg.inf",
 "printworkflowproxy.dll",
