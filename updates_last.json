@@ -1014,6 +1014,12 @@
             "releaseDate": "2021-03-18",
             "releaseVersion": "17134.2090",
             "updateUrl": "https://support.microsoft.com/help/5001634"
+        },
+        "KB5003174": {
+            "heading": "May 11, 2021&#x2014;KB5003174 (OS Build 17134.2208)",
+            "releaseDate": "2021-05-11",
+            "releaseVersion": "17134.2208",
+            "updateUrl": "https://support.microsoft.com/help/5003174"
         }
     },
     "1809": {
