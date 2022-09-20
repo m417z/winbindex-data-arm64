@@ -1364,6 +1364,12 @@
             "releaseDate": "2021-02-16",
             "releaseVersion": "17763.1790",
             "updateUrl": "https://support.microsoft.com/help/4601383"
+        },
+        "KB5000822": {
+            "heading": "March 9, 2021&#x2014;KB5000822 (OS Build 17763.1817)",
+            "releaseDate": "2021-03-09",
+            "releaseVersion": "17763.1817",
+            "updateUrl": "https://support.microsoft.com/help/5000822"
         }
     },
     "1903": {
