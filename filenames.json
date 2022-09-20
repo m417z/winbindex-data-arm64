@@ -8815,6 +8815,8 @@
 "smtpctrs.ini",
 "smtpsetup.exe",
 "smtpsnap.dll",
+"smtpsvc-admin-dl.man",
+"smtpsvc-service-dl.man",
 "smtpsvc.dll",
 "snapshottileview.css",
 "sndvol.exe",
