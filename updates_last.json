@@ -1460,6 +1460,12 @@
             "releaseDate": "2021-07-20",
             "releaseVersion": "17763.2090",
             "updateUrl": "https://support.microsoft.com/help/5004308"
+        },
+        "KB5004947": {
+            "heading": "July 6, 2021&#x2014;KB5004947 (OS Build 17763.2029) Out-of-band",
+            "releaseDate": "2021-07-06",
+            "releaseVersion": "17763.2029",
+            "updateUrl": "https://support.microsoft.com/help/5004947"
         }
     },
     "1903": {
