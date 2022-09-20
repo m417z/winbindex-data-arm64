@@ -1856,6 +1856,12 @@
             "releaseDate": "2021-06-08",
             "releaseVersion": "18363.1621",
             "updateUrl": "https://support.microsoft.com/help/5003635"
+        },
+        "KB5003698": {
+            "heading": "June 15, 2021&#x2014;KB5003698 (OS Build 18363.1645) Preview",
+            "releaseDate": "2021-06-15",
+            "releaseVersion": "18363.1645",
+            "updateUrl": "https://support.microsoft.com/help/5003698"
         }
     },
     "2004": {
