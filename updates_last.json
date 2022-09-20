@@ -1484,6 +1484,12 @@
             "releaseDate": "2021-07-27",
             "releaseVersion": "17763.2091",
             "updateUrl": "https://support.microsoft.com/help/5005394"
+        },
+        "KB5005568": {
+            "heading": "September 14, 2021&#x2014;KB5005568 (OS Build 17763.2183)",
+            "releaseDate": "2021-09-14",
+            "releaseVersion": "17763.2183",
+            "updateUrl": "https://support.microsoft.com/help/5005568"
         }
     },
     "1903": {
