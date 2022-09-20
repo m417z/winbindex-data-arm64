@@ -2061,6 +2061,16 @@
             "releaseDate": "2021-05-25",
             "releaseVersion": "19041.1023",
             "updateUrl": "https://support.microsoft.com/help/5003214"
+        },
+        "KB5003637": {
+            "heading": "June 8, 2021&#x2014;KB5003637 (OS Builds 19041.1052, 19042.1052, and 19043.1052)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-06-08",
+            "releaseVersion": "19041.1052",
+            "updateUrl": "https://support.microsoft.com/help/5003637"
         }
     }
 }
