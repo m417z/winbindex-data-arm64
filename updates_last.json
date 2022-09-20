@@ -2099,6 +2099,16 @@
             "releaseDate": "2021-06-21",
             "releaseVersion": "19041.1081",
             "updateUrl": "https://support.microsoft.com/help/5003690"
+        },
+        "KB5004237": {
+            "heading": "July 13, 2021&#x2014;KB5004237 (OS Builds 19041.1110, 19042.1110, and 19043.1110)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-07-13",
+            "releaseVersion": "19041.1110",
+            "updateUrl": "https://support.microsoft.com/help/5004237"
         }
     }
 }
