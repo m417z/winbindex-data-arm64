@@ -1472,6 +1472,12 @@
             "releaseDate": "2021-08-10",
             "releaseVersion": "17763.2114",
             "updateUrl": "https://support.microsoft.com/help/5005030"
+        },
+        "KB5005102": {
+            "heading": "August 26, 2021&#x2014;KB5005102 (OS Build 17763.2145) Preview",
+            "releaseDate": "2021-08-26",
+            "releaseVersion": "17763.2145",
+            "updateUrl": "https://support.microsoft.com/help/5005102"
         }
     },
     "1903": {
