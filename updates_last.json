@@ -1934,6 +1934,12 @@
             "releaseDate": "2021-08-26",
             "releaseVersion": "18363.1766",
             "updateUrl": "https://support.microsoft.com/help/5005103"
+        },
+        "KB5005566": {
+            "heading": "September 14, 2021&#x2014;KB5005566 (OS Build 18363.1801)",
+            "releaseDate": "2021-09-14",
+            "releaseVersion": "18363.1801",
+            "updateUrl": "https://support.microsoft.com/help/5005566"
         }
     },
     "2004": {
