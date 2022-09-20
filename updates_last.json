@@ -2163,6 +2163,16 @@
             "releaseDate": "2021-06-29",
             "releaseVersion": "19041.1082",
             "updateUrl": "https://support.microsoft.com/help/5004760"
+        },
+        "KB5004945": {
+            "heading": "July 6, 2021&#x2014;KB5004945 (OS Builds 19041.1083, 19042.1083, and 19043.1083) Out-of-band",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-07-06",
+            "releaseVersion": "19041.1083",
+            "updateUrl": "https://support.microsoft.com/help/5004945"
         }
     }
 }
