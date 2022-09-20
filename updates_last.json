@@ -2127,6 +2127,16 @@
             "releaseDate": "2021-07-13",
             "releaseVersion": "19041.1110",
             "updateUrl": "https://support.microsoft.com/help/5004237"
+        },
+        "KB5004296": {
+            "heading": "July 29, 2021&#x2014;KB5004296 (OS Builds 19041.1151, 19042.1151, and 19043.1151) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-07-29",
+            "releaseVersion": "19041.1151",
+            "updateUrl": "https://support.microsoft.com/help/5004296"
         }
     }
 }
