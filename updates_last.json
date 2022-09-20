@@ -2197,6 +2197,16 @@
             "releaseDate": "2021-07-06",
             "releaseVersion": "19041.1083",
             "updateUrl": "https://support.microsoft.com/help/5004945"
+        },
+        "KB5005033": {
+            "heading": "August 10, 2021&#x2014;KB5005033 (OS Builds 19041.1165, 19042.1165, and 19043.1165)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-08-10",
+            "releaseVersion": "19041.1165",
+            "updateUrl": "https://support.microsoft.com/help/5005033"
         }
     }
 }
