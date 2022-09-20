@@ -1807,6 +1807,15 @@
             "releaseDate": "2021-02-02",
             "releaseVersion": "19041.789",
             "updateUrl": "https://support.microsoft.com/help/4598291"
+        },
+        "KB4601319": {
+            "heading": "February 9, 2021&#x2014;KB4601319 (OS Builds 19041.804 and 19042.804)",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-02-09",
+            "releaseVersion": "19041.804",
+            "updateUrl": "https://support.microsoft.com/help/4601319"
         }
     }
 }
