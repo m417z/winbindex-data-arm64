@@ -1876,6 +1876,15 @@
             "releaseDate": "2021-03-09",
             "releaseVersion": "19041.867",
             "updateUrl": "https://support.microsoft.com/help/5000802"
+        },
+        "KB5000842": {
+            "heading": "March 29, 2021&#x2014;KB5000842 (OS Builds 19041.906 and 19042.906) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-03-29",
+            "releaseVersion": "19041.906",
+            "updateUrl": "https://support.microsoft.com/help/5000842"
         }
     }
 }
