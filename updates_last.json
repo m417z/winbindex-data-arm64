@@ -1454,6 +1454,12 @@
             "releaseDate": "2021-07-13",
             "releaseVersion": "17763.2061",
             "updateUrl": "https://support.microsoft.com/help/5004244"
+        },
+        "KB5004308": {
+            "heading": "July 20, 2021&#x2014;KB5004308 (OS Build 17763.2090) Preview",
+            "releaseDate": "2021-07-20",
+            "releaseVersion": "17763.2090",
+            "updateUrl": "https://support.microsoft.com/help/5004308"
         }
     },
     "1903": {
