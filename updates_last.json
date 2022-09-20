@@ -1002,6 +1002,12 @@
             "releaseDate": "2021-04-13",
             "releaseVersion": "17134.2145",
             "updateUrl": "https://support.microsoft.com/help/5001339"
+        },
+        "KB5001565": {
+            "heading": "March 15, 2021&#x2014;KB5001565 (OS Build 17134.2088) Out-of-band",
+            "releaseDate": "2021-03-15",
+            "releaseVersion": "17134.2088",
+            "updateUrl": "https://support.microsoft.com/help/5001565"
         }
     },
     "1809": {
