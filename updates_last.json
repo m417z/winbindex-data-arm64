@@ -2077,6 +2077,16 @@
             "releaseDate": "2021-06-08",
             "releaseVersion": "19041.1052",
             "updateUrl": "https://support.microsoft.com/help/5003637"
+        },
+        "KB5003690": {
+            "heading": "June 21, 2021&#x2014;KB5003690 (OS Builds 19041.1081, 19042.1081, and 19043.1081) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-06-21",
+            "releaseVersion": "19041.1081",
+            "updateUrl": "https://support.microsoft.com/help/5003690"
         }
     }
 }
