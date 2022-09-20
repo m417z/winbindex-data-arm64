@@ -1436,6 +1436,12 @@
             "releaseDate": "2021-05-20",
             "releaseVersion": "17763.1971",
             "updateUrl": "https://support.microsoft.com/help/5003217"
+        },
+        "KB5003646": {
+            "heading": "June 8, 2021&#x2014;KB5003646 (OS Build 17763.1999)",
+            "releaseDate": "2021-06-08",
+            "releaseVersion": "17763.1999",
+            "updateUrl": "https://support.microsoft.com/help/5003646"
         }
     },
     "1903": {
