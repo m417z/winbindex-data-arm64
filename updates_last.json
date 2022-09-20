@@ -990,6 +990,12 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "17134.2026",
             "updateUrl": "https://support.microsoft.com/help/4601354"
+        },
+        "KB5000809": {
+            "heading": "March 9, 2021&#x2014;KB5000809 (OS Build 17134.2087)",
+            "releaseDate": "2021-03-09",
+            "releaseVersion": "17134.2087",
+            "updateUrl": "https://support.microsoft.com/help/5000809"
         }
     },
     "1809": {
