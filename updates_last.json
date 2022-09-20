@@ -984,6 +984,12 @@
             "releaseDate": "2021-01-12",
             "releaseVersion": "17134.1967",
             "updateUrl": "https://support.microsoft.com/help/4598245"
+        },
+        "KB4601354": {
+            "heading": "February 9, 2021&#x2014;KB4601354 (OS Build 17134.2026)",
+            "releaseDate": "2021-02-09",
+            "releaseVersion": "17134.2026",
+            "updateUrl": "https://support.microsoft.com/help/4601354"
         }
     },
     "1809": {
