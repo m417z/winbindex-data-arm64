@@ -1352,6 +1352,12 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "17763.1757",
             "updateUrl": "https://support.microsoft.com/help/4601345"
+        },
+        "KB4601383": {
+            "heading": "February 16, 2021&#x2014;KB4601383 (OS Build 17763.1790) Preview",
+            "releaseDate": "2021-02-16",
+            "releaseVersion": "17763.1790",
+            "updateUrl": "https://support.microsoft.com/help/4601383"
         }
     },
     "1903": {
