@@ -1496,6 +1496,12 @@
             "releaseDate": "2021-09-21",
             "releaseVersion": "17763.2210",
             "updateUrl": "https://support.microsoft.com/help/5005625"
+        },
+        "KB5006672": {
+            "heading": "October 12, 2021&#x2014;KB5006672 (OS Build 17763.2237) ",
+            "releaseDate": "2021-10-12",
+            "releaseVersion": "17763.2237",
+            "updateUrl": "https://support.microsoft.com/help/5006672"
         }
     },
     "1903": {
