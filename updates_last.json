@@ -2207,6 +2207,16 @@
             "releaseDate": "2021-08-10",
             "releaseVersion": "19041.1165",
             "updateUrl": "https://support.microsoft.com/help/5005033"
+        },
+        "KB5005101": {
+            "heading": "September 1, 2021&#x2014;KB5005101 (OS Builds 19041.1202, 19042.1202, and 19043.1202) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-09-01",
+            "releaseVersion": "19041.1202",
+            "updateUrl": "https://support.microsoft.com/help/5005101"
         }
     }
 }
