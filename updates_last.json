@@ -2285,6 +2285,16 @@
             "releaseDate": "2021-09-30",
             "releaseVersion": "19041.1266",
             "updateUrl": "https://support.microsoft.com/help/5005611"
+        },
+        "KB5006670": {
+            "heading": "October 12, 2021&#x2014;KB5006670 (OS Builds 19041.1288, 19042.1288, and 19043.1288)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-10-12",
+            "releaseVersion": "19041.1288",
+            "updateUrl": "https://support.microsoft.com/help/5006670"
         }
     }
 }
