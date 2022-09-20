@@ -1844,6 +1844,12 @@
             "releaseDate": "2021-05-20",
             "releaseVersion": "18363.1593",
             "updateUrl": "https://support.microsoft.com/help/5003212"
+        },
+        "KB5003635": {
+            "heading": "June 8, 2021&#x2014;KB5003635 (OS Build 18363.1621)",
+            "releaseDate": "2021-06-08",
+            "releaseVersion": "18363.1621",
+            "updateUrl": "https://support.microsoft.com/help/5003635"
         }
     },
     "2004": {
