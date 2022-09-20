@@ -1388,6 +1388,12 @@
             "releaseDate": "2021-04-13",
             "releaseVersion": "17763.1879",
             "updateUrl": "https://support.microsoft.com/help/5001342"
+        },
+        "KB5001384": {
+            "heading": "April 22, 2021&#x2014;KB5001384 (OS Build 17763.1911) Preview",
+            "releaseDate": "2021-04-22",
+            "releaseVersion": "17763.1911",
+            "updateUrl": "https://support.microsoft.com/help/5001384"
         }
     },
     "1903": {
