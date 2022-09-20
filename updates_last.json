@@ -1874,6 +1874,12 @@
             "releaseDate": "2021-06-15",
             "releaseVersion": "18363.1645",
             "updateUrl": "https://support.microsoft.com/help/5003698"
+        },
+        "KB5004245": {
+            "heading": "July 13, 2021&#x2014;KB5004245 (OS Build 18363.1679)",
+            "releaseDate": "2021-07-13",
+            "releaseVersion": "18363.1679",
+            "updateUrl": "https://support.microsoft.com/help/5004245"
         }
     },
     "2004": {
