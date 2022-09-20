@@ -2257,6 +2257,16 @@
             "releaseDate": "2021-09-14",
             "releaseVersion": "19041.1237",
             "updateUrl": "https://support.microsoft.com/help/5005565"
+        },
+        "KB5005611": {
+            "heading": "September 30, 2021&#x2014;KB5005611 (OS Builds 19041.1266, 19042.1266, and 19043.1266) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-09-30",
+            "releaseVersion": "19041.1266",
+            "updateUrl": "https://support.microsoft.com/help/5005611"
         }
     }
 }
