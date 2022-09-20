@@ -1910,6 +1910,12 @@
             "releaseDate": "2021-07-06",
             "releaseVersion": "18363.1646",
             "updateUrl": "https://support.microsoft.com/help/5004946"
+        },
+        "KB5005031": {
+            "heading": "August 10, 2021&#x2014;KB5005031 (OS Build 18363.1734)",
+            "releaseDate": "2021-08-10",
+            "releaseVersion": "18363.1734",
+            "updateUrl": "https://support.microsoft.com/help/5005031"
         }
     },
     "2004": {
