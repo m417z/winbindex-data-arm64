@@ -3229,6 +3229,7 @@
 "efisys_noprompt.bin",
 "efsadu.dll",
 "efscore.dll",
+"efscore.dll.mui",
 "efsext.dll",
 "efslsaext.dll",
 "efssvc.dll",
