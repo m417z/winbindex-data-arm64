@@ -1510,6 +1510,12 @@
             "releaseDate": "2021-10-12",
             "releaseVersion": "17763.2237",
             "updateUrl": "https://support.microsoft.com/help/5006672"
+        },
+        "KB5006744": {
+            "heading": "October 19, 2021&#x2014;KB5006744 (OS Build 17763.2268) Preview",
+            "releaseDate": "2021-10-19",
+            "releaseVersion": "17763.2268",
+            "updateUrl": "https://support.microsoft.com/help/5006744"
         }
     },
     "1903": {
