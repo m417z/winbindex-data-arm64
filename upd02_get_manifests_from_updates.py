@@ -284,6 +284,9 @@ def main():
             # Temporarily skip an update which returns 404.
             if update_kb == 'KB4537762':
                 continue
+            # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
+            if update_kb == 'KB5012643':
+                continue
 
             try:
                 get_files_from_update(windows_version, update_kb)
