@@ -1594,6 +1594,12 @@
             "releaseDate": "2022-01-04",
             "releaseVersion": "17763.2369",
             "updateUrl": "https://support.microsoft.com/help/5010196"
+        },
+        "KB5010351": {
+            "heading": "February 8, 2022&#x2014;KB5010351 (OS Build 17763.2565)",
+            "releaseDate": "2022-02-08",
+            "releaseVersion": "17763.2565",
+            "updateUrl": "https://support.microsoft.com/help/5010351"
         }
     },
     "1903": {
