@@ -2309,6 +2309,16 @@
             "releaseDate": "2021-10-12",
             "releaseVersion": "19041.1288",
             "updateUrl": "https://support.microsoft.com/help/5006670"
+        },
+        "KB5006738": {
+            "heading": "October 26, 2021&#x2014;KB5006738 (OS Builds 19041.1320, 19042.1320, and 19043.1320) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-10-26",
+            "releaseVersion": "19041.1320",
+            "updateUrl": "https://support.microsoft.com/help/5006738"
         }
     }
 }
