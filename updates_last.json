@@ -2475,6 +2475,16 @@
             "releaseDate": "2022-01-25",
             "releaseVersion": "19042.1503",
             "updateUrl": "https://support.microsoft.com/help/5009596"
+        },
+        "KB5010342": {
+            "heading": "February 8, 2022&#x2014;KB5010342 (OS Builds 19042.1526, 19043.1526, and 19044.1526)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-02-08",
+            "releaseVersion": "19042.1526",
+            "updateUrl": "https://support.microsoft.com/help/5010342"
         }
     }
 }
