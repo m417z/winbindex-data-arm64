@@ -1965,6 +1965,7 @@
 "contactpermissionsproxystub.dll",
 "container.dll",
 "containerdevicemanagement.dll",
+"containerosshellhost.exe",
 "containerupdater.exe",
 "content.htm",
 "content.json",
