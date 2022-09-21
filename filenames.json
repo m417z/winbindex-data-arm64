@@ -2681,6 +2681,7 @@
 "dfs.sys",
 "dfsc.sys",
 "dfscli.dll",
+"dfshim.dll",
 "dfsn.ps1",
 "dfsn.psd1",
 "dfsn.sch",
