@@ -2388,6 +2388,17 @@
             "releaseDate": "2021-11-22",
             "releaseVersion": "19041.1387",
             "updateUrl": "https://support.microsoft.com/help/5007253"
+        },
+        "KB5008212": {
+            "heading": "December 14, 2021&#x2014;KB5008212 (OS Builds 19041.1415, 19042.1415, 19043.1415, and 19044.1415)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2021-12-14",
+            "releaseVersion": "19041.1415",
+            "updateUrl": "https://support.microsoft.com/help/5008212"
         }
     }
 }
