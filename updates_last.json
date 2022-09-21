@@ -23,6 +23,12 @@
             "releaseDate": "2021-11-22",
             "releaseVersion": "22000.348",
             "updateUrl": "https://support.microsoft.com/help/5007262"
+        },
+        "KB5008215": {
+            "heading": "December 14, 2021&#x2014;KB5008215 (OS Build 22000.376)",
+            "releaseDate": "2021-12-14",
+            "releaseVersion": "22000.376",
+            "updateUrl": "https://support.microsoft.com/help/5008215"
         }
     },
     "1709": {
