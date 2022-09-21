@@ -2794,6 +2794,7 @@
 "diskperf.exe",
 "disksnapshot.conf",
 "disksnapshot.exe",
+"diskusage.exe",
 "dism.exe",
 "dism.format.ps1xml",
 "dism.psd1",
