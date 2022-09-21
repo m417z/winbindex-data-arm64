@@ -268,11 +268,11 @@ def update_readme_stats():
     files_without_link = files_by_status['novt'] + files_by_status['none']
 
     stats = f'Total amount of supported PE files: {files_total:,}  \n'
-    stats += f'Files with a download link: {files_with_link:,} ({files_by_status["file"]:,} from the actual files, {files_by_status["vt"]:,} from VirusTotal)  \n'
-    stats += f'Files without a download link: {files_without_link:,} ({files_by_status["novt"]:,} weren\'t uploaded to VirusTotal, {files_by_status["none"]:,} weren\'t checked yet)  \n'
+    stats += f'Files with full information: {files_with_link:,} ({files_by_status["file"]:,} from the actual files, {files_by_status["vt"]:,} from VirusTotal)  \n'
+    stats += f'Files with partial information: {files_without_link:,} ({files_by_status["novt"]:,} weren\'t uploaded to VirusTotal, {files_by_status["none"]:,} weren\'t checked yet)  \n'
 
     if files_with_link + files_without_link > 0:
-        stats += f'% of files with a download link: {100 * files_with_link / (files_with_link + files_without_link):.1f}  \n'
+        stats += f'% of files with full information: {100 * files_with_link / (files_with_link + files_without_link):.1f}  \n'
 
     with open('README.md', 'r') as f:
         readme = f.read()
