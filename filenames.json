@@ -12059,6 +12059,7 @@
 "tenantrestrictions.adml",
 "tenantrestrictions.admx",
 "tenantrestrictionsplugin.dll",
+"terminalserver.adml",
 "terminalserver.admx",
 "terminalserversessiondirectoryrole.cmd",
 "terminalservices-appserver-licensing-replacement.man",

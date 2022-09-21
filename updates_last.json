@@ -2359,6 +2359,17 @@
             "releaseDate": "2021-11-09",
             "releaseVersion": "19041.1348",
             "updateUrl": "https://support.microsoft.com/help/5007186"
+        },
+        "KB5007253": {
+            "heading": "November 22, 2021&#x2014;KB5007253 (OS Builds 19041.1387, 19042.1387, 19043.1387, and 19044.1387) Preview",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2021-11-22",
+            "releaseVersion": "19041.1387",
+            "updateUrl": "https://support.microsoft.com/help/5007253"
         }
     }
 }
