@@ -1540,6 +1540,12 @@
             "releaseDate": "2021-11-09",
             "releaseVersion": "17763.2300",
             "updateUrl": "https://support.microsoft.com/help/5007206"
+        },
+        "KB5007266": {
+            "heading": "November 22, 2021&#x2014;KB5007266 (OS Build 17763.2330) Preview",
+            "releaseDate": "2021-11-22",
+            "releaseVersion": "17763.2330",
+            "updateUrl": "https://support.microsoft.com/help/5007266"
         }
     },
     "1903": {
