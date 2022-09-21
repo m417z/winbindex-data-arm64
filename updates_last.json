@@ -1564,6 +1564,12 @@
             "releaseDate": "2021-12-14",
             "releaseVersion": "17763.2366",
             "updateUrl": "https://support.microsoft.com/help/5008218"
+        },
+        "KB5008602": {
+            "heading": "November 14, 2021&#x2014;KB5008602 (OS Build 17763.2305) Out-of-band",
+            "releaseDate": "2021-11-14",
+            "releaseVersion": "17763.2305",
+            "updateUrl": "https://support.microsoft.com/help/5008602"
         }
     },
     "1903": {
