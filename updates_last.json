@@ -1570,6 +1570,12 @@
             "releaseDate": "2021-11-14",
             "releaseVersion": "17763.2305",
             "updateUrl": "https://support.microsoft.com/help/5008602"
+        },
+        "KB5009557": {
+            "heading": "January 11, 2022&#x2014;KB5009557 (OS Build 17763.2452)",
+            "releaseDate": "2022-01-11",
+            "releaseVersion": "17763.2452",
+            "updateUrl": "https://support.microsoft.com/help/5009557"
         }
     },
     "1903": {
