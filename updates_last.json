@@ -2331,6 +2331,16 @@
             "releaseDate": "2021-10-26",
             "releaseVersion": "19041.1320",
             "updateUrl": "https://support.microsoft.com/help/5006738"
+        },
+        "KB5007186": {
+            "heading": "November 9, 2021&#x2014;KB5007186 (OS Builds 19041.1348, 19042.1348, and 19043.1348)",
+            "otherWindowsVersions": [
+                "20H2",
+                "21H1"
+            ],
+            "releaseDate": "2021-11-09",
+            "releaseVersion": "19041.1348",
+            "updateUrl": "https://support.microsoft.com/help/5007186"
         }
     }
 }
