@@ -284,7 +284,7 @@ def update_readme_stats():
 
 
 def init_deploy():
-    args = ['git', 'remote', 'add', 'push-origin', f'https://{os.environ["GITHUB_TOKEN"]}@github.com/m417z/winbindex-data-arm64.git']
+    args = ['git', 'remote', 'add', 'push-origin', f'https://{os.environ["GITHUB_TOKEN"]}@github.com/{os.environ["GITHUB_REPOSITORY"]}.git']
     subprocess.run(args, check=True)
 
 
@@ -332,7 +332,7 @@ def commit_deploy(pr_title):
             'Accept': 'application/vnd.github.v3+json',
             'Authorization': f'token {os.environ["GITHUB_TOKEN"]}'
         }
-        response = requests.post('https://api.github.com/repos/m417z/winbindex-data-arm64/pulls', data=json.dumps(data), headers=headers)
+        response = requests.post('https://api.github.com/repos/{os.environ["GITHUB_REPOSITORY"]}/pulls', data=json.dumps(data), headers=headers)
         #print(response.text)
         response.raise_for_status()
 
