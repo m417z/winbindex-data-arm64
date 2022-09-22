@@ -2693,6 +2693,16 @@
             "releaseDate": "2022-05-10",
             "releaseVersion": "19042.1706",
             "updateUrl": "https://support.microsoft.com/help/5013942"
+        },
+        "KB5014023": {
+            "heading": "June 2, 2022&#x2014;KB5014023 (OS Builds 19042.1741, 19043.1741, and 19044.1741) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-06-02",
+            "releaseVersion": "19042.1741",
+            "updateUrl": "https://support.microsoft.com/help/5014023"
         }
     }
 }
