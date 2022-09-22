@@ -2785,6 +2785,16 @@
             "releaseDate": "2022-07-12",
             "releaseVersion": "19042.1826",
             "updateUrl": "https://support.microsoft.com/help/5015807"
+        },
+        "KB5015878": {
+            "heading": "July 26, 2022&#x2014;KB5015878 (OS Builds 19042.1865, 19043.1865, and 19044.1865) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-07-26",
+            "releaseVersion": "19042.1865",
+            "updateUrl": "https://support.microsoft.com/help/5015878"
         }
     }
 }
