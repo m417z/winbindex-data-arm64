@@ -6705,6 +6705,7 @@
 "microsoft.updateservices.baseapi.dll",
 "microsoft.virtualization.client.management.dll",
 "microsoft.virtualization.client.rdpclientaxhost.dll",
+"microsoft.virtualization.client.rdpclientinterop.dll",
 "microsoft.virtualization.client.settings.dll",
 "microsoft.web.administration.dll",
 "microsoft.web.administration.resources.dll",
