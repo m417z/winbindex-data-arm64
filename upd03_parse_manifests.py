@@ -189,10 +189,15 @@ def parse_manifest_file(manifest_path, file_el):
     if algorithm == 'sha256':
         filename = file_el.attrib['name'].split('\\')[-1].lower()
         if (re.search(r'\.(exe|dll|sys|winmd|cpl|ax|node|ocx|efi|acm|scr|tsp|drv)$', filename)):
-            assert info_source == 'none' or 'machineType' in file_info, (filename, hash)
-            file_hashes_for_filename = file_hashes.setdefault(filename, {})
-            old_info_source = file_hashes_for_filename.get(hash)
-            file_hashes_for_filename[hash] = update_info_source(old_info_source, info_source)
+            # If the file is not a PE file (very rare), skip it.
+            if info_source != 'none' and 'machineType' not in file_info:
+                assert (filename, hash) == ('tapi.dll', 'af700c04f4334cdf9fc575727a055a30855e1ab6a8a480ab6335e1b4a7585173')
+                assert file_info.keys() == {'size', 'md5'}
+                assert hash not in file_hashes.get(filename, {})
+            else:
+                file_hashes_for_filename = file_hashes.setdefault(filename, {})
+                old_info_source = file_hashes_for_filename.get(hash)
+                file_hashes_for_filename[hash] = update_info_source(old_info_source, info_source)
 
     return result
 
