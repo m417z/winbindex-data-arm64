@@ -3,5 +3,54 @@
 "updates": [
 "KB5017389"
 ],
-"next_updates": null
+"next_updates": [
+"failoverclusters.validation.bestpracticetests.dll",
+"257a4524c6a4df6909f39b5ca02d67891e9daa6302e591e847a7aa45b090133d"
+],
+"retry": [
+[
+"bootim.exe",
+"0620883b766bde06b252de32fb76259e4bd835ff594ea293fec1e4be8b00322f"
+],
+[
+"bthhfenum.sys",
+"37ffb3a58bdf1a73367888e9b3375310d22876d28e77df333500538f74f5a6b9"
+],
+[
+"enterpriseresourcemanager.dll",
+"a5ee7e8ecf1cacd59fa3497a34b34704d808540c1d2c5695f06bf7169ba911a6"
+],
+[
+"dismprov.dll",
+"b24a7ce6a7e4846ebe24c1d4eb0c56ce0e43963145ee80b2557b96688ea03035"
+],
+[
+"d3d11.dll",
+"8104dc8510a096047856f5380a3bebe5f946d33cc9e9ba01058baa105c525e82"
+],
+[
+"dsound.dll",
+"44830ee34dbc99e7c954b0b5420cbac764a4d4be33d84625ccbbff65e5bab833"
+],
+[
+"bootmenuux.dll",
+"ae159c66c45e66e0e15e3e855e9b8eb586622ec9ecb665424db16afc1103a2a2"
+],
+[
+"bootmgfw.efi",
+"b257b82a4a700dfd348427985329ffa56830279408237b72ae63ae0331c31dd4"
+],
+[
+"bthmini.sys",
+"0fb72754f8cc8a25116f057ca1924d01e7b940d05566b0fe85eb32757a9471fd"
+],
+[
+"d3d11.dll",
+"3fb26ab46c2a0c026b03d6f05ed5d59ca597dc382db0a235e9ac45799dcbdca3"
+],
+[
+"colbact.dll",
+"bb833d1b10778baf6b6cd54fe04ef29480dbbde6503c6b28258d929f92f26319"
+]
+]
 }
