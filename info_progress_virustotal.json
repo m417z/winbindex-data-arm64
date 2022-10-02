@@ -1,44 +1,15 @@
 {
 "pending": {},
-"updates": [
-"KB5017389"
-],
-"next_updates": [
-"windows.management.workplace.dll",
-"c42772e526d12801f745cb3c9fdea866531fd8406d5aa2720a7d1d6841d82776"
-],
+"updates": null,
+"next_updates": null,
 "retry": [
 [
-"vaultsvc.dll",
-"6ff35b01373dc981fb3500594ad059622841f10d2f6221e06f5a102db8eef14b"
+"wpnapps.dll",
+"6a4e67252be7d0a775e284008425a5608fc8783c699747b8f6c29820612629c4"
 ],
 [
-"tbauth.dll",
-"8dd4ae892adf8f8b69416262a26de148a58a9c8d512add5051fbfb200f42cbf1"
-],
-[
-"windows.data.pdf.dll",
-"707d691c65a2b50d905504c3c156a94aeb42560a00a7c52dd16c022ba4ed418d"
-],
-[
-"mqsec.dll",
-"79d748d6a7fbec6b471accf21ccf502d7480409dfe0045f3dba4158c9392bfb0"
-],
-[
-"userdeviceregistration.dll",
-"10cf225a4dfc13a0732903ec2fef35fbb31002a811d53063aea10341ef139d76"
-],
-[
-"startmenu.dll",
-"b5fa229cd726b4cad8357de0cb9d8d391717a1f170a630bc8785a2125a0078e3"
-],
-[
-"signdrv.dll",
-"dbe7142b6f34b5b2b2cc77a7da74188c31a5a752990491ba701b7d7fd226d2cc"
-],
-[
-"mshtml.dll",
-"6f15e5981a0be6415a35603e92cda54da7fef91ef76d94e9ba42bb4f03a2634b"
+"wlanhlp.dll",
+"8404cf5cd59c8b37f38b9472600cad152de49d590ae9b69148ba937c09f98dc7"
 ],
 [
 "tzres.dll",
@@ -49,12 +20,8 @@
 "93bed4a7fa8e3acf8112ddb31695282f9866164045fcf0308b1337be4ebc8010"
 ],
 [
-"startdocked.dll",
-"c79cf3935d9e4272596ec0d4491efbf10253c258415811264b39990d129b4006"
-],
-[
-"wbemcore.dll",
-"c746ac634870d43f47be47e92157c892947ec686d5a782b359397faed3f61227"
+"windows.staterepositoryps.dll",
+"86d7c2069cf06b65ad82f575fc6480e1a07367ba68ed7c7a0b24931dc0e2f0f9"
 ]
 ]
 }
