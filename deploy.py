@@ -440,10 +440,10 @@ def main():
 
         commit_deploy(pr_title)
 
-        # Stop once we got less than 100 files from VirusTotal.
+        # Stop once we got less than 25 files from VirusTotal.
         # Otherwise, continue as long as there are new updates.
         match = re.match(r'Updated info of (\d+) files from VirusTotal$', pr_title)
-        if match and int(match.group(1)) < 100:
+        if match and int(match.group(1)) < 25:
             print('Done')
             return
 
