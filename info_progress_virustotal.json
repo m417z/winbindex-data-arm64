@@ -1,10 +1,27 @@
 {
 "next": [
-"appxdeploymentclient.dll",
-"0f739ce302f59c2a43f1b70a2e608ad46539a712941ef8f14729eb6a1eda4979"
+"appxdeploymentextensions.server.dll",
+"d6a497c7cb42fbcdc4511a5f3f9c461d758805dc168948368ab3505bd455e102"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"appxdeploymentclient.dll",
+"16855c08f14c9dab52d5358657b35fe502705371595b13c0078abcf99e56dca2"
+],
+[
+"appxdeploymentclient.dll",
+"a0d9bbfa64c546d6619c158125f5a43839dbb5251253e6f3dd445487e1e2e1f1"
+],
+[
+"appxdeploymentextensions.desktop.dll",
+"5c511ab8da9866c6884f2dcee3809ad7e7db39d6d7c8fa4efd4461d2a63b988a"
+],
+[
+"appxdeploymentextensions.desktop.dll",
+"8ea695bc8cce7700aea8d79f53c42ea7fbf37c412d1cae841142cc96098f16ae"
+]
+],
 "updates": null
 }
