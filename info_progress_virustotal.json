@@ -1,7 +1,7 @@
 {
 "next": [
-"chakra.dll",
-"e44c895f61044865d0c50db4b4f8ed8fc6605cb1b7557333db94b6e9cc25cf19"
+"chxranker.dll",
+"b1040a1a18dd9e60ea227be1b0f00d5d23f972d5174ef262eeb869269311d9f1"
 ],
 "next_updates": null,
 "pending": {},
@@ -11,32 +11,32 @@
 "0599afcd45c69778cfa338aa82db54b8263b25eb1ef409f92c144f94deee91fd"
 ],
 [
-"certutil.exe",
-"4b3cc27271cdac219e2d44397524eba1b6e9ad60995056882c7eb20b8386146b"
-],
-[
-"cgsvcbackgroundtask.dll",
-"da168cafd0dc4f663e20659d207b4efd276ae9a761a67e6f670d262a6f21e238"
-],
-[
 "chakra.dll",
-"168b306c31cf0ea19c299269bfa3a7e9a4d2ad504aa2c88c6f54a243abcba931"
+"f603d3e6253734f621e850d00c204aece5ffb0dd5de1895375fe1e194b281145"
 ],
 [
-"chakra.dll",
-"308025533a69ccc8fd77a9e2eedbd016596fc077a285d87cbb80baacc7b5f275"
+"chakradiag.dll",
+"43268a0f0bf993b1d0aeacba96e92463f0b779961f02e1da1c20ee84d99213c8"
 ],
 [
-"chakra.dll",
-"314c8faed66b5a55046c3cc476a74e26b24fad581882d4b07ff415c0158c6350"
+"chakradiag.dll",
+"8be65b2d13239055b2f7e8a1930b5028d191df8c4c0916dbb412761abc8acd52"
 ],
 [
-"chakra.dll",
-"4511dbf016df2046f60165825c14017f856e02ccb4bb47a9a4403c77c8323983"
+"chakradiag.dll",
+"8c5afea6a237f685cb68c246eb0e1e6161a61b2f0c7091db350909a622f1c605"
 ],
 [
-"chakra.dll",
-"7ff3dce1c1242f5b174544b25c5cb21c79dcc0c6ade331a4b7cb6f5f1909467e"
+"chakradiag.dll",
+"afc47315d847a955e69a4cdd33fa4e468df7eadd390622d6bbe1a447b6f30e54"
+],
+[
+"chslexiconupdateds.dll",
+"b1515e596518a3598351521eaf0461be80009f79afd0d62ee0c6d42821f5ef07"
+],
+[
+"chxdecoder.dll",
+"591af5510cc6405ede4d09683800ac4d1690fa8e0ff010a3556f79295842f254"
 ]
 ],
 "updates": null
