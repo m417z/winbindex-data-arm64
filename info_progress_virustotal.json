@@ -1,30 +1,38 @@
 {
 "next": [
-"contentmanagementsdk.dll",
-"75ae9e4cc723238e6326c93705145c39d174b0857874a0a020a0e3b555ee05b0"
+"cortana.apptoapp.dll",
+"afb5b586b10de84ab66c1cb233276fe10199bf38d45fa174e370922ed996b2e0"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"consolelogon.dll",
-"1d8ca00effbaf9094423ed28a5af34361bdcf3db051831910ef3fe7a1fabe6dd"
+"coreglobconfig.dll",
+"4509fe7414654833bfec8947849bd95f522c1c4436127f9030731750e6a218dd"
 ],
 [
-"constraintindex.search.dll",
-"2a582c747c199a657af8f902e87bef501e1db27bef327cd098615d1c1818ea9e"
+"coremessaging.dll",
+"1753a8d86d8c251865d50d42e6db8b44ea1bfc18d8f2fb2a5d65a90f8c5c3ccb"
 ],
 [
-"constraintindex.search.dll",
-"2d1518b409d4c7b1d41c3929c07fa12014a9ecfc217ce058bb750be931c7ec02"
+"coremessaging.dll",
+"be512029ac1b742e210db775a7ff71d3766378d2eaeb06be63eec3b127cced1e"
 ],
 [
-"contentdeliverymanager.utilities.dll",
-"68afc0e58257d783d9d15480e425b02a9314f2352f37bf4ce26a5dacab23ea00"
+"coremessaging.dll",
+"f160f6c1ae3e7de40c87b1ec9188aaea38be0c95374832728ee4eff92ca3c86b"
 ],
 [
-"contentdeliverymanager.utilities.dll",
-"b44850aa10c7833ae96db71d679805c08ee012c2d58c847505a4826f77fa7681"
+"coreuicomponents.dll",
+"19dc3000f4c01383e7b1459553081bc525862cbdb66411c92ce4c6ebcda16f98"
+],
+[
+"coreuicomponents.dll",
+"342c9b1ccbf3ed2b00acfb5e5bfe214b2b3b0da00bd11c3e40e2fe3ab2df7f2f"
+],
+[
+"cortana.apptoapp.dll",
+"67d1f0a04479a5b846019d7111fe6f024857bfbfa2e2f135149148b55110465a"
 ]
 ],
 "updates": null
