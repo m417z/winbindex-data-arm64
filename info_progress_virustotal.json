@@ -1,10 +1,55 @@
 {
 "next": [
-"edgemanager.dll",
-"daec0a3897c2ca003e9e2500ce2c99dc2579543b8bb5ba34accd1d9f245e94f3"
+"enrollmentapi.dll",
+"515e0bafc6bb63061af8e83934b040e97e828e5a4a97a9afba15698432a60031"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"editbuffertesthook.dll",
+"a9892866b34270eddd617ae3fc8f4be23d4bd2e54486cfea110a5371b2f6715e"
+],
+[
+"editionupgrademanagerobj.dll",
+"8737a0094db727fa2a7359cef00a981495fcf869b6101e53a5bcf6b793e7e12a"
+],
+[
+"editionupgrademanagerobj.dll",
+"8823e5e7363d2b95c0caea98b7f8f60d5497cdd8877cda3068ae70cfe6ea2102"
+],
+[
+"editionupgrademanagerobj.dll",
+"bdb37d1530b08b98b2304e42ddb871d0ed21e9150fa135291fa6b9844e76ddf5"
+],
+[
+"edpnotify.exe",
+"2d7404847e4146e4d06a8570f03f099ace225e3b564ba59d47bdcb0c326e70ff"
+],
+[
+"efswrt.dll",
+"264fba301d86c0d7e9253236fa10ff42d06cf5c43d9fcd588a8db6f842ac8929"
+],
+[
+"emailapis.dll",
+"742a202473d524a048ed669ec7e2f4d191ba90939cca52a1a304604b3d1a0fb0"
+],
+[
+"enrollmentapi.dll",
+"25392b663f1e63daf7785cf0789c2c1b530d03059773e05100628011eeeffeec"
+],
+[
+"enrollmentapi.dll",
+"2a797b745f9a3f83ed53caae6d7632130bfe0586154d45df8da4b4a0643e5346"
+],
+[
+"enrollmentapi.dll",
+"2ae108a4b465cff862b651fb37977653b970b99b6c9df35639441455d9e41b92"
+],
+[
+"enrollmentapi.dll",
+"2f1f8531d50d88e01af5f680314ead7a3202e47886f410be406cd203f8be9ff1"
+]
+],
 "updates": null
 }
