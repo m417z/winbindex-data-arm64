@@ -1,7 +1,7 @@
 {
 "next": [
-"mbaeapi.dll",
-"6810424e6ad02cdcc1730974e30f33aec5493451ba3d2af6b4578d38bbc56150"
+"mf.dll",
+"76048dc147c19ee5453e0fca13e0234ce671a8b30938742fedce66d9a35e1213"
 ],
 "next_updates": null,
 "pending": {},
@@ -11,48 +11,20 @@
 "6079c47daf47752fffa321dd0dcd45e3cee9ef13e63f9bc49b01da46f232e725"
 ],
 [
-"magnification.dll",
-"a63bb7060b4b183fda88060b49cdd545eaea6746706e4d8631809f3790067fbf"
+"mediasetupuimgr.dll",
+"922e34c236acfe82da7bb640f06c4029e50a8802c3a08b84cace184437356309"
 ],
 [
-"mapconfiguration.dll",
-"89185bd169ebed5c432117b4c05f641cc45d79c8eacaa0bf26b736077b0a5737"
+"mediasetupuimgr.dll",
+"9444006583675b812b3094f2984ba4f3483c4dfb811acb083e02c238c1f8f6a2"
 ],
 [
-"mapconfiguration.dll",
-"ae36b3c0ce08eb19a4ef05d54339c6856bc6cf652f3b749f117208b45c660b67"
+"mediasetupuimgr.dll",
+"94e9a0b222276d7163163fc782a8f95033c319eb204a78e8ea40ea84206d78b0"
 ],
 [
-"mapcontrolcore.dll",
-"50986a29a072856a77cdb48e91bffdadd9acf04b296880f8e1e895e04e1c6651"
-],
-[
-"mapcontrolstringsres.dll",
-"7a46df166558ba668bc3a9287f1e6fc65d1fe479ef7a4485185a4e00f4bb8703"
-],
-[
-"mapgeocoder.dll",
-"04e175ca041393319f9dc56f06db0ebf84f5449bdf859cc773f7a599a48289d1"
-],
-[
-"mapgeocoder.dll",
-"08f804df26695eeca3dc1807e6a5929fe4b3e601c5e15d032a1d5b841c506e17"
-],
-[
-"mapgeocoder.dll",
-"fe47f478b978ac4849bce65a5abceb1467c64948c420be3c0f0b88c9dc120e93"
-],
-[
-"mapgeocoder.dll",
-"ffdd6de7193cd8c4501ba9e8a344dd443581856a1a5e2c2a009ab8b0193fc9d8"
-],
-[
-"mapistub.dll",
-"cdde15b3b59e9a05fc1c88c512612c3b7088c374630bec6b07aee90c9040633b"
-],
-[
-"mapscsp.dll",
-"057073bc166ed832e26923fc22a53bb1eb3c87877ee4fe36b45fae0242c32517"
+"memtest.exe",
+"5ed4fec8909cd814bf6897ea1b27e1f482b3213adfa341cf6f4f5463b9314ca6"
 ]
 ],
 "updates": null
