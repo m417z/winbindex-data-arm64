@@ -1,51 +1,10 @@
 {
 "next": [
-"mmdevapi.dll",
-"fbf017c1f66a1edeb6fe9528683792130baf08aaa55fef3469916e34bcf80c94"
+"moshostcore.dll",
+"21ac6cf9849b336972957d6bf240d66214c0a9ea51ab4b31c075b41ec4e95679"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"migcore.dll",
-"b65de76368e923b2e084cfbc9baa86bf1f3688abef5330c390042ba127ea2893"
-],
-[
-"migcore.dll",
-"b7ae36075934cf58c4b6286550d07710c3e5cbfca69c498b1de16adc3bba8216"
-],
-[
-"migcore.dll",
-"dd50a6c529258dc612e40c037256f225f42195e0a8b7669b0e4e3d9f4dee6ef6"
-],
-[
-"migcore.dll",
-"f72e98b46107147397ae24705c8d824f8cc0c4c98a5a9e57698c2a30c29ed872"
-],
-[
-"migisol.dll",
-"7f34d3d21e0635411fd0edb3e7ab71db7df0eefc49815770439047a4bc3b3a42"
-],
-[
-"migisol.dll",
-"82d8f867e1e40d88f9af46fbfd759e8b92fa93671f5c1e70c2e866c673ee3dab"
-],
-[
-"migres.dll",
-"c331bdedce719923b0fccf2cd53633250cd1086c19b1e0729998aabb74289206"
-],
-[
-"miracastreceiver.dll",
-"6ebc2e29a0b258c8034fc99b687b71ea61f8f713f88190874aedc2becb2cc7ba"
-],
-[
-"mmcndmgr.dll",
-"a80c65214285194381e2b9d9150d5f2b924ed6b96eacc1026aa9f9e182d9d00c"
-],
-[
-"mmcndmgr.dll",
-"b0d2dd27e0e118a5b04ca3dfa73cd6a05e0307d6f5d99fa483813d9a9501bc5a"
-]
-],
+"retry": [],
 "updates": null
 }
