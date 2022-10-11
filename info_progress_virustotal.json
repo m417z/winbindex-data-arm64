@@ -1,50 +1,22 @@
 {
 "next": [
-"microsoft.iis.powershell.provider.resources.dll",
-"1181342425b937f54b067cddcac14a7cec31d82a93bf5b0d1141dcdc31ed3caf"
+"microsoft.windows.remoteattestation.server.dll",
+"587937037ad5bd7d8d51c511e33b93b85536410a1c06d85df6296c82b934fdf9"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"microsoft.bluetooth.service.dll",
-"70c216cf5a0525943d8467c63cb94a1f4a342bfaaa86c7ea2d66a71fd5b4de1c"
+"microsoft.storagemigration.proxy.cutover.dll",
+"9d3e3c2ccc8497c91fc59b8f851c8a13dc3582223b4abeabce7fcc46d5488b67"
 ],
 [
-"microsoft.bluetooth.service.dll",
-"7589d48b479813e8f5aa73030a18c80a8d7953a8124542b41657f107cf67389f"
+"microsoft.virtualization.client.rdpclientaxhost.dll",
+"3f624aeaf53137122115665e354fd6bee2aba31a1474494d1291e5d52a08ca94"
 ],
 [
-"microsoft.configci.commands.dll",
-"033526216e464c374e6c03bcc5101219acfd4044f66a9d34d5d640e6f4ed749b"
-],
-[
-"microsoft.configci.commands.dll",
-"09bc6c9e7d0e96ba02d6ea057eea4568cc7ab9fa04ee2f0fc54bf688f6dd0921"
-],
-[
-"microsoft.configci.commands.dll",
-"0c606f01e9f760ad9e8a8deaa5e89d543c4a14e527c29e2ee781a7e39021497a"
-],
-[
-"microsoft.configci.commands.dll",
-"0d98799d83cd6f8b1f4cefde0595c7407b124d7bfc864d419dbb7b7993e9310b"
-],
-[
-"microsoft.configci.commands.resources.dll",
-"57745e801aeacf2843e952fcddf629e3ea594cd1c3daf6a607d4a0df711140d0"
-],
-[
-"microsoft.grouppolicy.management.interop.dll",
-"9f4d5609e0bff389cb861427e968eeab82641e699660ada88049925a272ef460"
-],
-[
-"microsoft.hyperv.powershell.cmdlets.resources.dll",
-"6747d3a5f2f508f847c2e5d8996f97e0fab55fbcfcf3d55aa4b7aed82c7feb91"
-],
-[
-"microsoft.hyperv.powershell.cmdlets.resources.dll",
-"6c79bfeb8ee78e282038304b199821fc93b78acd339c5b4fa9ce8194396bd65b"
+"microsoft.web.management.extensions.resources.dll",
+"47452c2733053bbeca3d9510c2088f0d184cf409b5307358c3bcee64d02afd37"
 ]
 ],
 "updates": null
