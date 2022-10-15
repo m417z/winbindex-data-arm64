@@ -1,18 +1,46 @@
 {
 "next": [
-"offlinelsa.dll",
-"8d55e9a4a5f657f179527ce8cd120be47a6d3c3cb716545299e0e74846065f4b"
+"oleaut32.dll",
+"31f80d0c34432c9472f52c326fc0e485a5ec942502ee90cf7ae532ba0a31df51"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"netsetupapi.dll",
-"b5f1aa66657ab5b8100c1c61f2d31f6a2ca868a7ba305f9f336d0a7fe719290f"
+"offlinesam.dll",
+"46ba35eb8062ccaf1b97b92e27e6baf6c33dfb999f9fef2c8855e5cc3f20a8c8"
 ],
 [
-"odbc32.dll",
-"ca26bfb5d5099a8116f407285d4dd1bb901ede29cf35ec8d7441cb181939a481"
+"offlinesam.dll",
+"c7a7548ccd137572e5195200358d7d315ec59045c7524347480b2a7f5bfd8221"
+],
+[
+"offlinesam.dll",
+"c7fc06724d00e8722e67de5af32882c911c0cc8afbdffaed0c89365eefcd3862"
+],
+[
+"ole32.dll",
+"18ff32b76be5fe509ca4ad17994bb596c4ed6c61224d2aa0ef8125c192e59a19"
+],
+[
+"ole32.dll",
+"19954d2e92ed5f671ef6d0abca85e38bc91100ccc7625c8e14745b870d13c12d"
+],
+[
+"ole32.dll",
+"20b7b5e50c5561f8fdd671b7a1cce9ea76da6c10140370baf0ab0ec4297320bf"
+],
+[
+"ole32.dll",
+"3095874b285e7162f9d9dea116cb20dea9d483b1ce1bf3d5278b13a06ade585f"
+],
+[
+"ole32.dll",
+"c8a473a47a2ce591ae00b63c6dffb460ad575d9c1270b59412ca192a8c9435bc"
+],
+[
+"oleaut32.dll",
+"1c19c2ff8ddf8413d066fe0c5074dbcf5610764e0e5d750db5d3045eb82bd965"
 ]
 ],
 "updates": null
