@@ -1,26 +1,38 @@
 {
 "next": [
-"pushtoinstall.dll",
-"51d4a1fce7a167707e17b5683eccf88d5f0bf660920719c5d65423cc87a4f38f"
+"rasapi32.dll",
+"4d10942a04f868b561cb77162a6ea08ff8da4c61d6fc52815e276109d1ef19a9"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"prnfldr.dll",
-"36bbc767c9326d50f3f9567c4b066bd09b19547e669c8ded77b33ed2adbb686e"
+"qmgr.dll",
+"fbcf731e1212b0b8f599a718009ebe92dde974bc3ebcad266fb86ea116824945"
 ],
 [
-"provcmdlets.dll",
-"949a35bc19924fd0456f672607e180ffec51c544dc751d3bb9625137ce7143dd"
+"quickactions.dll",
+"0b56af949d76afbcdd24ab7d10b079c0578df1f3af40571f6d7ab6e1a294972a"
 ],
 [
-"provops.dll",
-"f73f6563dd75d56b84f50e6cb0448824b51892cb61ecc5d7e54e336de57a08dc"
+"quickassist.exe",
+"9fb04e9bed733697e3c1b76b21a1c9addf295c819b8dd3719d39c36daa561efb"
 ],
 [
-"psmsrv.dll",
-"67983ffafad26c571d92d6be0350e1ff864d86dd0765103f4e435ec127fc6f04"
+"quickassist.exe",
+"ed433981e6d0cb63ce93c67dce9d22ea68bba54f70bcfb1ad499f4f5cbac7aef"
+],
+[
+"quickassist.exe",
+"f37ede14bdd1d3e27c9b1846d1104e231c5a80b9a50e948b088eb7db06d49de3"
+],
+[
+"quickconnectui.dll",
+"bf877d022628a87cd48292594b25d4f073dc1ebe635848b565f7c42a066b39c6"
+],
+[
+"qwave.dll",
+"22cf4c1e74277eb97ebf3249ebb14aef65b87bfc5975ba246fa502e6264811a5"
 ]
 ],
 "updates": null
