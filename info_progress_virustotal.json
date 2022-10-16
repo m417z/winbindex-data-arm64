@@ -1,47 +1,11 @@
 {
 "next": [
-"sapi.dll",
-"67d82edd73579d4c98aa3fb377b19463b8ed627f64fce45f78962cb831b6d357"
+"sbltargetmgrprovider.dll",
+"4217561f2a085760a5def18c07dff774a1f2f8168f089798acbcbb1f985fdb85"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"rtm.dll",
-"d4100487eafe38dbb59b77a4510d7d7eb2a8e7dc2916ff04f61980a7199bd0ca"
-],
-[
-"rtworkq.dll",
-"c969ac29b0c5bea9d5796e04b99542bc714feadfc9f73550380979af3fd4cd35"
-],
-[
-"rtworkq.dll",
-"d05bd93726fd6795cbb668cc736abf788c679614f86e735f0224d72aad1b220a"
-],
-[
-"rtworkq.dll",
-"d172701414fc73e4f556cab9cd9b9ac07262477663a4f42dc8585512d2be95dc"
-],
-[
-"rtworkq.dll",
-"d94aa305213499c1e248936e78d23af1f842587d105dd67cf353f5ded9323c2a"
-],
-[
-"rulesbackgroundtasks.dll",
-"3879ad2de1bfeee1f6fa9ffab808dda1c106c8754e71b505af86c29aa455e447"
-],
-[
-"rulesbackgroundtasks.dll",
-"3cc69f5f9ac8f8e787e992cfcadd6e896fa9d9ed13743418130d9245700eb832"
-],
-[
-"samlib.dll",
-"bef7c75c050e7c154d4769a4f80b3e196311860109c6b48bbccef671ada57d3c"
-],
-[
-"samlib.dll",
-"c150270df8342b417eff4c725fcb9d30acba9e1fe5095d9ac1a0e913d6e013b8"
-],
 [
 "samsrv.dll",
 "e20a7fe21bc0039c6ee17a6af14d036f576c77f9127fde36b6c13a5e69539ef0"
@@ -49,6 +13,14 @@
 [
 "sapi.dll",
 "21ff47ba61785f4a5eadf39fbbcfd819969b885975638b8f735890d13f737ef8"
+],
+[
+"sapi_onecore.dll",
+"cefa41f9adfd137e34c52c9b7a37c972701f29810bccade830d50512c8964163"
+],
+[
+"sapibackgroundtask.dll",
+"16065f1f32111e18ecafbeb251dfaf74ddf1781eabf492833515da82dff15010"
 ]
 ],
 "updates": null
