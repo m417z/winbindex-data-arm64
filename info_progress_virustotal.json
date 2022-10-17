@@ -1,7 +1,7 @@
 {
 "next": [
-"securebootai.dll",
-"2e240db109e1d40a3ce93596d62f0343b5724267969c34f3386726b48ccc46ed"
+"servicemodelregai.dll",
+"9f70b7265ca61c89a3705dd1905d66634affef90acf7d94564daae32155044af"
 ],
 "next_updates": null,
 "pending": {},
@@ -11,28 +11,44 @@
 "c2bddeef04baeb478ef66b3ba9236a2908898d33f523f1088aa41023fd5a594d"
 ],
 [
-"searchprotocolhost.exe",
-"57f0d3366887de3618c8939ac887115cad35d330bd46cc3c81b15cdbbaa87b74"
+"sendmail.dll",
+"97f36f9e779e46ac734a04d5acf41fe005ef3141f22117806e5439f53c06f2c4"
 ],
 [
-"searchprotocolhost.exe",
-"62df9e2178f7baa38df2f88c858de7f198a580a7e7ef5c01193d4a8e20a5dc5b"
+"sendmail.dll",
+"9ac432e69904be5dabc05d3d8c9afbd6bbea499cbb04f22ba6d8cbb064f502f5"
 ],
 [
-"searchui.exe",
-"9edd4d4f979c22b51821e298f346d1645f3795397d6466cffdd98f7321a87f85"
+"sensecncproxy.exe",
+"218885995da7576fdba1b97fd29ad3560a9bcf3cbfa3316599951af8f667c6fe"
 ],
 [
-"secconfig.efi",
-"22abe58d13e063cb30ea6db7d8686a72172e0b86442298e484633d975122db37"
+"sensecncproxy.exe",
+"c24d1ead5f592f6edb62a1704b333d6d684b44bcb845217ae07eb8be10583578"
 ],
 [
-"sechealthuiappshell.winmd",
-"42032bcf75a54c67e260cab78c5e46753f55337dce263bedad3873e6dc5adba0"
+"sensecncps.dll",
+"891f2204697fbac93464cb7df8067ff88fc7a65f64935ec7bd5983107c170ec6"
 ],
 [
-"sechealthuiviewmodels.winmd",
-"e36a823d08f8c7e574f5702bb36bfc7c63aeae5253a830e1eb85190b43a9183e"
+"sensecncps.dll",
+"8d599dd3b158062f754b75fcd365853f202a912883add293f6ad94d3b99fcee3"
+],
+[
+"senseir.exe",
+"49bf73d230dc5e2e71f00116cd7bb239b40eb425db6f112d07dec2ac8b74639d"
+],
+[
+"senseir.exe",
+"4d23d64c30e014e330c72ce08e8b665f1e1a00d51171e032f048baefd38a38ed"
+],
+[
+"senseir.exe",
+"d926e0346e7e484a4d13e5379934d37dd9a6dcebb3aa6a9440c90947e5200f13"
+],
+[
+"servicemodelregai.dll",
+"2e0c3f180c51f098816e3dc10d670181c15f2509838bb55f17b3c1887cb837c9"
 ]
 ],
 "updates": null
