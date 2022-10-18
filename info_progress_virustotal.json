@@ -3,10 +3,7 @@
 "shellexperiencehost.exe",
 "84e68bde842f94a5774a37c78eb90d63f4d4d608b377f981871b323c0fa8268f"
 ],
-"next_updates": [
-"jpnranker.dll",
-"009ea36e1f84aadf61ece8b7f67732f3894d167e9dc9ea231a07e4a7b1ef1c3a"
-],
+"next_updates": null,
 "pending": {},
 "retry": [
 [
@@ -21,6 +18,7 @@
 "updates": [
 "KB5020387",
 "KB5020435",
-"KB5020438"
+"KB5020438",
+"KB5019509"
 ]
 }
