@@ -3,16 +3,39 @@
 "shellexperiencehost.exe",
 "84e68bde842f94a5774a37c78eb90d63f4d4d608b377f981871b323c0fa8268f"
 ],
-"next_updates": null,
+"next_updates": [
+"appxprovisionpackage.dll",
+"742fd02cfbc1603b2ea9923ea586898145d35715665bf021cf6e75d7e98daeea"
+],
 "pending": {},
 "retry": [
 [
-"itircl.dll",
-"d25ae712d46eeee2e99ad740dd9a892b36cebdf7055a9f8aed28e89ee7859970"
+"abocomp.dll",
+"16487bb67dffc7a795e037bfaf621d066a4302d46130afdd067abac7d9504e62"
 ],
 [
-"itss.dll",
-"42a3b3c351dd5b7aea3ebb317a9b33f44fa9439269e9ba668c2908c0de5a4a40"
+"abovelockapphost.dll",
+"8f05657a4b6b33ad68febb3d86fdf53e34e1b72b5d1734ab5a74ad7821f0a510"
+],
+[
+"aclayers.dll",
+"ee0e10f9ad64299c7ae467f202866f4f38c9fb27462b3baa228417766161d366"
+],
+[
+"adsldp.dll",
+"e54c75db16c27e66183a769fc76c51afd7ad2dbb59c20a231780d9c64cfae52d"
+],
+[
+"appresolver.dll",
+"ef5d8fc33f8ecb61edbe9d2b74e9a4530aac8bdb05148869b6ac43ce1f3ccc2f"
+],
+[
+"appresolverux.exe",
+"6427b7caf02c2a0fe34a7f57a216e939d130cdc94ad19a67ce29416854798b1c"
+],
+[
+"approvechildrequest.exe",
+"37e9d11b2f2436d3446d1cb2e6721eee47f705a8aa6ffc0efa618f72b9b1c94f"
 ]
 ],
 "updates": [
