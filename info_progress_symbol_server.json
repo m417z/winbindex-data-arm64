@@ -1,5 +1,8 @@
 {
-"next": null,
+"next": [
+"msi.dll",
+"b3125032a90604b86e4ce7ea6053ec5aaa25c1488ee1002b203a3dd580dbd121"
+],
 "updates": [
 "KB5020387",
 "KB5020435",
