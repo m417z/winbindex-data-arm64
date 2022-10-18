@@ -4,42 +4,18 @@
 "84e68bde842f94a5774a37c78eb90d63f4d4d608b377f981871b323c0fa8268f"
 ],
 "next_updates": [
-"imtcskf.dll",
-"1556a9effae66df3f4a88e836eef28e0415cceb96c5f9ffd03f5760a0ac9f76c"
+"jpnranker.dll",
+"009ea36e1f84aadf61ece8b7f67732f3894d167e9dc9ea231a07e4a7b1ef1c3a"
 ],
 "pending": {},
 "retry": [
 [
-"gdiplus.dll",
-"20c93bd4b555ac9a4467526e8b6c35800a8f1223b397bb220f49d0a88c9c7a2e"
+"itircl.dll",
+"d25ae712d46eeee2e99ad740dd9a892b36cebdf7055a9f8aed28e89ee7859970"
 ],
 [
-"gdiplus.dll",
-"25404c9a6faf646be12472f0ee4fdca68b8e9f9eddcc12ab8f035d1db5525178"
-],
-[
-"grouptrusteeai.dll",
-"ebc762a61e461de158540fe1926af45f5204db6ec938aba99546b37bae774aa2"
-],
-[
-"iasnap.dll",
-"22a930ee659ef141b15625a3ee114f0f197d5c26953feb1e479f4f47552db678"
-],
-[
-"iesettingsync.exe",
-"2d213aeb49821e0203f7589df3a5d2583ee660ae45665fa1d84e6ac41442f53f"
-],
-[
-"iesettingsync.exe",
-"3a461865ed1313e986e39db14930cf61b653aff9eebfcccba7d7ce6594190db8"
-],
-[
-"igddiag.dll",
-"650e9211ea3a2884383118f5f6b129be204a3c018d432ad794c776280556e537"
-],
-[
-"ihvrilproxy.dll",
-"cde9ec2b3fdcdbc6097ae5b64f0b25ae716d963a2b0729d85bfc22bbb4b2e6ef"
+"itss.dll",
+"42a3b3c351dd5b7aea3ebb317a9b33f44fa9439269e9ba668c2908c0de5a4a40"
 ]
 ],
 "updates": [
