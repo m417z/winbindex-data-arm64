@@ -1,10 +1,59 @@
 {
 "next": [
-"shellexperiencehost.exe",
-"84e68bde842f94a5774a37c78eb90d63f4d4d608b377f981871b323c0fa8268f"
+"sxsoa.dll",
+"94730f09312da27c359f7feee9ffa59a2fdc5fecccec0ed37e4b4225efcd4f7a"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"slc.dll",
+"ce6ac29ce739f4a9d0149e525ae634b96fbfea5462a7abb2ce797b712714d07d"
+],
+[
+"speechmodeldownload.exe",
+"7e71f1b8b8e93921cb624f5d7d932990b3bd01a1033c37f5259d6febe4803d12"
+],
+[
+"srv2.sys",
+"9b0c5f02f7bc3ebf5d18bda61c25e17c2182771f28905bbe73ae38e829fe249a"
+],
+[
+"staterepository.core.dll",
+"f557ba08c49828553cf61910d24f2d1930129a5af4e6e722d6b95c84154a5a59"
+],
+[
+"sti.dll",
+"28a01c328ca299b040389c731b2d3438f571276e55dc88b7359c6a05e1cb7c1f"
+],
+[
+"sti.dll",
+"32d3be8fb7ee3e6b2ee49f09cc5f4242b9780e5b8c2ae65675c05203ef0e25ab"
+],
+[
+"sti.dll",
+"5f7ab0030c5b8772cfb1785df845ac280b735587442d5c67ac44077df8aab18d"
+],
+[
+"sti.dll",
+"b562820d9c3ec8248ec7dcca3b320cb1bc059bc652fbc5b4395def8fc2960a7d"
+],
+[
+"sti.dll",
+"cd7239c94c969d906d77849b74a3d6097c11cbea92d26d922c392628d98da754"
+],
+[
+"sti.dll",
+"d398771648d1c2f382868ba3f36b54a9489dd40e573dc806106ddccd314f8dbd"
+],
+[
+"sti.dll",
+"fbb574b6d4c866135377743cdf1c7d69a3e74fb67406dbb9e674363492efdb82"
+],
+[
+"stobject.dll",
+"00247d11474a171a02d2ec67f0a14a3d140cafd60048adc119690dcf2940dd3f"
+]
+],
 "updates": null
 }
