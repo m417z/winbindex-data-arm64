@@ -3,37 +3,8 @@
 "shellexperiencehost.exe",
 "84e68bde842f94a5774a37c78eb90d63f4d4d608b377f981871b323c0fa8268f"
 ],
-"next_updates": [
-"windows.security.integrity.dll",
-"77d3fb777f030fa054a50387f60036279615b2a5f50bf8bbc752bbc08e289c7b"
-],
+"next_updates": null,
 "pending": {},
-"retry": [
-[
-"tpmcertresources.dll",
-"179d01028b123c121b8afb0be0c728cac48dc58f48476636eb6413ef4ce08be6"
-],
-[
-"typeperf.exe",
-"61f6a5eecb6bad7710702eaf473993684bd496caee6db84e611710852f1e849a"
-],
-[
-"wercplsupport.dll",
-"cbabc1f1f19aaf460d017aed4209c1b272717d41cfbab56dca90228747504d0f"
-],
-[
-"windows.gaming.input.dll",
-"523fcd3aefe23d57f66470dd808569e094d80fa9472cf1160cdfdc3426d20115"
-],
-[
-"windows.media.protection.playready.dll",
-"b57259e377c98aefb42305c523c1c74e37c3a0fcf679e4fed1c456113c66b222"
-]
-],
-"updates": [
-"KB5020387",
-"KB5020435",
-"KB5020438",
-"KB5019509"
-]
+"retry": [],
+"updates": null
 }
