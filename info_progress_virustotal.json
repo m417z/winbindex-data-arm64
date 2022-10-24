@@ -1,10 +1,55 @@
 {
 "next": [
-"tpmcertresources.dll",
-"c57b71c52eb39ce2c70bec86b2dba636c1e1d6fc2ea93261879ac4d718673c23"
+"uiautomationprovider.resources.dll",
+"9b8d20666f2f1421b010d0372e708f60b4d8e4e5fe4cac8b6e388bfba434a052"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"twinui.dll",
+"e668dd0db6e164fc2f27254e7ae682c521b235700726d572777d25c0fdf2d34a"
+],
+[
+"uiautomationclient.resources.dll",
+"ae38c43f65841caa83fa1f67234ef5ffd4541c37cc28baf2a3de4c72ad7efcc9"
+],
+[
+"uiautomationclient.resources.dll",
+"af872aa2d99b64a426d0f2b0edb56b0c46003a732638fac298ef749fed255b43"
+],
+[
+"uiautomationclient.resources.dll",
+"b7f8a9d8da15475cf2e1d58e8208186e1c040622bbe6a4f33f96c15772402039"
+],
+[
+"uiautomationclient.resources.dll",
+"ba2cc242f704a3bd557868e74cb33fa43f7a54e78c69eef6437bb2a4520f4336"
+],
+[
+"uiautomationclient.resources.dll",
+"bbd49ab8a6c55cab9578e0413534a43b28ac01090bfc096fcddaafb712318d39"
+],
+[
+"uiautomationclient.resources.dll",
+"c4057c07c406f6afc35c55d2572cfe2f8b6822b42110e206c0036fe1fc21bd71"
+],
+[
+"uiautomationclient.resources.dll",
+"df80faa91b01a1f04753f2ee4bea2ba5296cbf0c8a6255d2cf939582f513227c"
+],
+[
+"uiautomationclient.resources.dll",
+"e129141ab2ccee6928d00f7a630e8b529c9e7d9199a9e4a2729fdcee141dc50a"
+],
+[
+"uiautomationclientsideproviders.resources.dll",
+"29b9d4aa8985259f967d71371210998bc5e7cca4a6b9411e7a6a1bba5865f48d"
+],
+[
+"uiautomationclientsideproviders.resources.dll",
+"5194a2d79b8d14ec653bd71035f8320fbea7a4c90ed1073d5eada0545863d3cc"
+]
+],
 "updates": null
 }
