@@ -5,15 +5,6 @@
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"wcmsvc.dll",
-"b8d354ab5d2d0ec339a1155370d4dafc1c248c4c2c47965fba189164b8e48fd7"
-]
-],
-"updates": [
-"KB5018482",
-"KB5018483",
-"KB5018496"
-]
+"retry": [],
+"updates": null
 }
