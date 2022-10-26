@@ -1,11 +1,4 @@
 {
-"next": [
-"imageres.dll",
-"7ab736d422b336439f191d5bd9394e30eab7a6b4295e9261e7c1c7c3fd3a57d7"
-],
-"updates": [
-"KB5018482",
-"KB5018483",
-"KB5018496"
-]
+"next": null,
+"updates": []
 }
