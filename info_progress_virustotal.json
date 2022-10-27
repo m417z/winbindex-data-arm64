@@ -1,43 +1,11 @@
 {
 "next": [
-"windows.security.winmd",
-"74aab85e4b6f6786a1a7316baced96ff07438773b9324510bbd6e4ab88dd0212"
+"windows.ui.search.dll",
+"abf6fc698b250f1e017a8827341a211e45de42e92ac190f97b449b939fef70de"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"win32kfull.sys",
-"495d9a0c8c5092b4f97166ceb6f8b5df1c91a867e95b5c4198967b919a75813c"
-],
-[
-"win32kfull.sys",
-"5ddbe54b1cdef62c116ccef0b5e891d5998fa86fc7e7b590de5ba5c96be79deb"
-],
-[
-"win32kfull.sys",
-"65f036c845d4b26e1d91b12a6b87ede31fe264e29a97d48a825acab661743ebb"
-],
-[
-"win32kfull.sys",
-"66a5f4a80d832de55f203f9276849d5916cdecf1fe773f7df534b830475b6235"
-],
-[
-"win32kfull.sys",
-"6bf5c59e8c8a3cb4e83c7b3feff400095919038aa58c9229de1fb9c5eaf1295b"
-],
-[
-"win32kfull.sys",
-"ab9d95eba7f65eaf968d8040b7e21fae96c57efbc30b565b9312be9a0854d05c"
-],
-[
-"win32kfull.sys",
-"ac769d46058f9dcf614af409022cc73e7b1973252d49ee3c7a248ec24eb385dd"
-],
-[
-"win32kfull.sys",
-"b27366db1008855c43ca7f1a122443d99e3cba493d0df7f72a609788417e5dd5"
-],
 [
 "windows.internal.management.dll",
 "e17076aca352a9007e3ae392de0bc1c45c35ca3818ca7350d7014324b3275853"
