@@ -1,35 +1,10 @@
 {
 "next": [
-"wmvcore.dll",
-"b5f9912b35503f526a374fa6f10705b6c8a1a1db935e1455bbd668d22c52aade"
+"uiautomationcore.dll",
+"fbc7b0d55615360cc0b71c198b8d0c4a6114f241f27432e6ea511fa9d3ead246"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"wldap32.dll",
-"cb9969f19b8e807d8ad1c02d0625bc65e6ef3fec366bf6a400bd963ab7f8e6ee"
-],
-[
-"wlidfdp.dll",
-"1439d2a8880a8dfc94ea05c0966ba8041661a6263a3f5ad2fd539ba4930313b0"
-],
-[
-"wlidfdp.dll",
-"6ee320161f8eb6a61ac4038a8214b838f90ba9e8237e4d7707f2fc9745d8c1af"
-],
-[
-"wlidprov.dll",
-"322ff4915d973b29cfbe6604804fb303679128674b4febc9a2c7026665c540bb"
-],
-[
-"wlidprov.dll",
-"5bb8a4cc2664e45d899b182d8e9c131a877eb4e7473088557615494aaed46288"
-],
-[
-"wlidprov.dll",
-"812cd32280bfb1eb3cef5d67170473117b0e6531ddb5c51f0f8ae821c458b340"
-]
-],
+"retry": [],
 "updates": null
 }
