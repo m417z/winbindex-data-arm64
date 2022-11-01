@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"rmactivate.exe",
-"8d60116f49d5d087f10a2a31dbe11208e31584050516887404030b38e17a87df"
-]
-],
+"retry": [],
 "updates": null
 }
