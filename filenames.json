@@ -8608,6 +8608,7 @@
 "ncprov.dll",
 "ncprov.mof",
 "ncrypt.dll",
+"ncrypt.dll.mui",
 "ncryptprov.dll",
 "ncryptsslp.dll",
 "ncsi.dll",
