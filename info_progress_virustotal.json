@@ -1,7 +1,19 @@
 {
-"next": null,
+"next": [
+"windowsdefenderapplicationguardcsp.dll",
+"8dd6ec5e5b6d823e5f86426cc3b5e33337f86d424d4ebf73b69ac6f98840ed94"
+],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"fveupdateai.dll",
+"55057f297f9471a938aedaf465ebee936fa75284591230144f2772c74a9e694b"
+],
+[
+"msimsg.dll",
+"b037c33368aea588cdee6a40088b12e1831a5c193b629fe286707557dbcb8d78"
+]
+],
 "updates": null
 }
