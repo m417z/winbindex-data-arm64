@@ -2,13 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"deviceaccess.dll",
-"ac613e3c55bd4b3f250744ec896fca267a343d10d332b16cbf19be7d583a4fd6"
-]
-],
-"updates": [
-"KB5021655"
-]
+"retry": [],
+"updates": null
 }
