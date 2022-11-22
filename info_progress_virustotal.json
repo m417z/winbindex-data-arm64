@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"windows.networking.connectivity.dll",
-"1a4d6581fdac4c5ddf71a4178492ddf1a381324938280802cfc97cf29f31a005"
-]
-],
+"retry": [],
 "updates": null
 }
