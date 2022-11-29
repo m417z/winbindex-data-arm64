@@ -2,6 +2,19 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"lpasvc.dll",
+"80788b2eb2cfe40ec256b028f9717e222461691d8dfc263a3a2bd7eba658c635"
+],
+[
+"rdyboost.sys",
+"67b4d1091781c1d0780ac4c756474809f775669a18ff26cedb4f4fd162d6da84"
+],
+[
+"vmbusproxy.sys",
+"21095cf24c28e925df49a420dccb9770384741279152ef3d22ae62211e45b915"
+]
+],
 "updates": null
 }
