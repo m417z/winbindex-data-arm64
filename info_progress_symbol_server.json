@@ -1,12 +1,4 @@
 {
-"next": [
-"mshwchtr.dll",
-"6cc947b8e298e67914141e6c9064eb34d9c6c61e546e7782cc463cc0d135c350"
-],
-"updates": [
-"KB5021233",
-"KB5021234",
-"KB5021237",
-"KB5021255"
-]
+"next": null,
+"updates": []
 }
