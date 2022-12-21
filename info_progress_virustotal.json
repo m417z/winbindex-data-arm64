@@ -2,13 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"aadtb.dll",
-"b6001fb5bf78ba6501ceee8cf3eef48d36561f336f4fbd8dcbee3d776233854c"
-]
-],
-"updates": [
-"KB5022554"
-]
+"retry": [],
+"updates": null
 }
