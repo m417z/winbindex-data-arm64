@@ -2,11 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
-"updates": [
-"KB5022282",
-"KB5022286",
-"KB5022287",
-"KB5022303"
+"retry": [
+[
+"gameinput.dll",
+"bf6d4c009b03b407a03014c3c36412f626fdd947fc2da1829ac1995994ff31ba"
 ]
+],
+"updates": null
 }
