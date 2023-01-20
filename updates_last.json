@@ -3078,6 +3078,16 @@
             "releaseVersion": "19042.2193",
             "updateUrl": "https://support.microsoft.com/help/5018482"
         },
+        "KB5019275": {
+            "heading": "January 19, 2023&#x2014;KB5019275 (OS Builds 19042.2546, 19044.2546, and 19045.2546) Preview",
+            "otherWindowsVersions": [
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2023-01-19",
+            "releaseVersion": "19042.2546",
+            "updateUrl": "https://support.microsoft.com/help/5019275"
+        },
         "KB5019959": {
             "heading": "November 8, 2022&#x2014;KB5019959 (OS Builds 19042.2251, 19043.2251, 19044.2251, and 19045.2251)",
             "otherWindowsVersions": [
