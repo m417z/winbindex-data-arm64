@@ -2,8 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
-"updates": [
-"KB5022360"
+"retry": [
+[
+"shell32.dll",
+"f281660550ea71a593c564331fb9c0a0f4632965453871a24a49c3d58bb9d80c"
+],
+[
+"user32.dll",
+"6c05ab4fa0fed7213f88ab982a0680776d8ef8463d6b36467a5aab103a2be2a2"
 ]
+],
+"updates": null
 }
