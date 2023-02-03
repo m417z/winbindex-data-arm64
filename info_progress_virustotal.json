@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"wermgr.exe",
-"58b3e6007aa06506927cb552abada7502c91650ca6f35bf1ed78c83223842d24"
-]
-],
+"retry": [],
 "updates": null
 }
