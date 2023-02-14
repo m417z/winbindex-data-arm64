@@ -1968,6 +1968,12 @@
             "releaseDate": "2022-12-20",
             "releaseVersion": "17763.3772",
             "updateUrl": "https://support.microsoft.com/help/5022554"
+        },
+        "KB5022840": {
+            "heading": "February 14, 2023&#x2014;KB5022840 (OS Build 17763.4010)",
+            "releaseDate": "2023-02-14",
+            "releaseVersion": "17763.4010",
+            "updateUrl": "https://support.microsoft.com/help/5022840"
         }
     },
     "1903": {
