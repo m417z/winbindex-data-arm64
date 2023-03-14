@@ -317,7 +317,7 @@ def get_virustotal_info(file_hash):
 
     # Handle special cases.
     if attr.get('signature_info', {}).get('description') == 'TCB Launcher':
-        assert first_section['virtual_address'] in [0x3000, 0x4000]
+        assert first_section['virtual_address'] in [0x3000, 0x4000, 0x6000]
         section_alignment = 0x1000
     elif file_hash == 'ede86c8d8c6b9256b926701f4762bd6f71e487f366dfc7db8d74b8af57e79bbb':  # ftdibus.sys
         assert first_section['virtual_address'] == 0x380
