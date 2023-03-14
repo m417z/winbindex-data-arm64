@@ -1998,6 +1998,12 @@
             "releaseDate": "2023-02-14",
             "releaseVersion": "17763.4010",
             "updateUrl": "https://support.microsoft.com/help/5022840"
+        },
+        "KB5023702": {
+            "heading": "March 14, 2023&#x2014;KB5023702 (OS Build 17763.4131)",
+            "releaseDate": "2023-03-14",
+            "releaseVersion": "17763.4131",
+            "updateUrl": "https://support.microsoft.com/help/5023702"
         }
     },
     "1903": {
