@@ -209,6 +209,12 @@
             "releaseDate": "2023-02-21",
             "releaseVersion": "22000.1641",
             "updateUrl": "https://support.microsoft.com/help/5022905"
+        },
+        "KB5023698": {
+            "heading": "March 14, 2023&#x2014;KB5023698 (OS Build 22000.1696)",
+            "releaseDate": "2023-03-14",
+            "releaseVersion": "22000.1696",
+            "updateUrl": "https://support.microsoft.com/help/5023698"
         }
     },
     "11-22H2": {
