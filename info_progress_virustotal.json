@@ -2,19 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"mciavi32.dll",
-"af1dda1daca0cf6394c4b123a88a02ff3e168b0c35d91076f55e35ea693172b2"
-],
-[
-"search.protocolhandler.mapi2.dll",
-"50ea87c24286575c45d338351bf9fd1694fded8ad1e1bdfd4f56bdc72fcd171f"
-],
-[
-"tquery.dll",
-"ec58c2d8f8733c9f6254ba8f1f7af6cda88e9b2a27b5f6d356f1b28636f478ea"
-]
-],
+"retry": [],
 "updates": null
 }
