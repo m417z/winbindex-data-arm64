@@ -3235,6 +3235,16 @@
             "releaseDate": "2023-03-14",
             "releaseVersion": "19042.2728",
             "updateUrl": "https://support.microsoft.com/help/5023696"
+        },
+        "KB5023773": {
+            "heading": "March 21, 2023&#x2014;KB5023773 (OS Builds 19042.2788, 19044.2788, and 19045.2788) Preview",
+            "otherWindowsVersions": [
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2023-03-21",
+            "releaseVersion": "19042.2788",
+            "updateUrl": "https://support.microsoft.com/help/5023773"
         }
     }
 }
