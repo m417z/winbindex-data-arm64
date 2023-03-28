@@ -7,8 +7,6 @@ index_of_hashes_out_path = out_path / 'hashes'
 windows_versions_unsupported = {'1507', '1511', '1607', '1703'}
 
 updates_unsupported = {
-    # Temporarily skip an update which returns 404.
-    'KB4537762',
     # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
     'KB5012643',
 }
