@@ -71,8 +71,7 @@ def get_update(windows_version, update_kb):
         search_query += f' {windows_version}'
         package_windows_version = fr'Windows 10 Version {windows_version}'
 
-    # TODO: more archs?
-    search_query += f' ARM64'
+    search_query += f' {config.updates_architecture}'
 
     found_updates = search_for_updates(search_query)
 
@@ -107,7 +106,8 @@ def get_update(windows_version, update_kb):
         raise Exception(f'Expected one update item, found {len(found_updates)}')
 
     update_uid, update_title = found_updates[0]
-    assert re.fullmatch(rf'(\d{{4}}-\d{{2}} )?(Cumulative|Delta) Update (Preview )?for {package_windows_version} for ARM64-based Systems \({update_kb}\)', update_title), update_title
+    update_title_pattern = rf'(\d{{4}}-\d{{2}} )?(Cumulative|Delta) Update (Preview )?for {package_windows_version} for {config.updates_architecture}-based Systems \({update_kb}\)'
+    assert re.fullmatch(update_title_pattern, update_title), update_title
 
     return update_uid, update_title
 
@@ -249,6 +249,9 @@ def extract_update_files(local_dir: Path, local_path: Path):
 
 
 def get_files_from_update(windows_version: str, update_kb: str):
+    if update_kb in config.updates_unsupported:
+        raise UpdateNotSupported
+
     print(f'[{update_kb}] Downloading update')
 
     download_url, local_dir, local_path = download_update(windows_version, update_kb)
@@ -283,13 +286,6 @@ def main():
         print(f'Processing Windows version {windows_version}')
 
         for update_kb in updates[windows_version]:
-            # Temporarily skip an update which returns 404.
-            if update_kb == 'KB4537762':
-                continue
-            # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
-            if update_kb == 'KB5012643':
-                continue
-
             try:
                 get_files_from_update(windows_version, update_kb)
             except (KeyboardInterrupt, SystemExit):

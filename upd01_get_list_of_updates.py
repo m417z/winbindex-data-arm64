@@ -279,11 +279,8 @@ def main():
     merge_updates(result, updates_from_release_health)
     windows_version_updates_sanity_check(result)
 
-    # Delete Windows 10 versions for which no ARM64 updates are available.
-    del result['1507']
-    del result['1511']
-    del result['1607']
-    del result['1703']
+    for windows_version in config.windows_versions_unsupported:
+        del result[windows_version]
 
     with open(config.out_path.joinpath('updates.json'), 'w') as f:
         json.dump(result, f, indent=4, sort_keys=True)
