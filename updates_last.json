@@ -301,6 +301,12 @@
             "releaseDate": "2023-03-14",
             "releaseVersion": "22621.1413",
             "updateUrl": "https://support.microsoft.com/help/5023706"
+        },
+        "KB5023778": {
+            "heading": "March 28, 2023&#x2014;KB5023778 (OS Build 22621.1485) Preview",
+            "releaseDate": "2023-03-28",
+            "releaseVersion": "22621.1485",
+            "updateUrl": "https://support.microsoft.com/help/5023778"
         }
     },
     "1709": {
