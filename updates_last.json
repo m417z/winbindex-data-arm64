@@ -2028,6 +2028,12 @@
             "releaseDate": "2023-03-14",
             "releaseVersion": "17763.4131",
             "updateUrl": "https://support.microsoft.com/help/5023702"
+        },
+        "KB5025229": {
+            "heading": "April 11, 2023&#x2014;KB5025229 (OS Build 17763.4252)",
+            "releaseDate": "2023-04-11",
+            "releaseVersion": "17763.4252",
+            "updateUrl": "https://support.microsoft.com/help/5025229"
         }
     },
     "1903": {
