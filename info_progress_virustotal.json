@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"msctf.dll",
+"36579a0c5d629ef2ee67cea7ebdba17fa1ec61d1ab4f08120920f84e24933283"
+]
+],
 "updates": null
 }
