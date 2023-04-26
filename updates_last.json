@@ -325,6 +325,12 @@
             "releaseDate": "2023-04-11",
             "releaseVersion": "22621.1555",
             "updateUrl": "https://support.microsoft.com/help/5025239"
+        },
+        "KB5025305": {
+            "heading": "April 25, 2023&#x2014;KB5025305 (OS Build 22621.1635) Preview",
+            "releaseDate": "2023-04-25",
+            "releaseVersion": "22621.1635",
+            "updateUrl": "https://support.microsoft.com/help/5025305"
         }
     },
     "1709": {
