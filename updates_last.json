@@ -3297,6 +3297,16 @@
             "releaseDate": "2023-04-11",
             "releaseVersion": "19042.2846",
             "updateUrl": "https://support.microsoft.com/help/5025221"
+        },
+        "KB5026361": {
+            "heading": "May 9, 2023&#x2014;KB5026361 (OS Builds 19042.2965, 19044.2965, and 19045.2965)",
+            "otherWindowsVersions": [
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2023-05-09",
+            "releaseVersion": "19042.2965",
+            "updateUrl": "https://support.microsoft.com/help/5026361"
         }
     },
     "22H2": {
