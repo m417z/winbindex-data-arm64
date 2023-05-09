@@ -233,6 +233,12 @@
             "releaseDate": "2023-04-25",
             "releaseVersion": "22000.1880",
             "updateUrl": "https://support.microsoft.com/help/5025298"
+        },
+        "KB5026368": {
+            "heading": "May 9, 2023&#x2014;KB5026368 (OS Build 22000.1936)",
+            "releaseDate": "2023-05-09",
+            "releaseVersion": "22000.1936",
+            "updateUrl": "https://support.microsoft.com/help/5026368"
         }
     },
     "11-22H2": {
