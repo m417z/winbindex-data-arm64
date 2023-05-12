@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"consolelogon.dll",
+"7fc347f136ee0c4ff5f4737e75e141d25941c003b6b939096f53ab6c3a041043"
+],
+[
+"msieftp.dll",
+"42f9610dadfff1a31a52e68f24972f8516122c76cbf806bee9042cac37d9f985"
+]
+],
 "updates": null
 }
