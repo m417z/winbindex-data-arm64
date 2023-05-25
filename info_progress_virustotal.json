@@ -2,13 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"appxdeploymentclient.dll",
-"1f9f6d6a89fd0be02f2b7bf13cb60450e72cd68f1270e973b79eea2d3c5bfd1e"
-]
-],
-"updates": [
-"KB5026446"
-]
+"retry": [],
+"updates": null
 }
