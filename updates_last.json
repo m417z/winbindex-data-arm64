@@ -3339,6 +3339,17 @@
             "updateUrl": "https://support.microsoft.com/help/5026361"
         }
     },
+    "21H2": {
+        "KB5027215": {
+            "heading": "June 13, 2023&#x2014;KB5027215 (OS Builds 19044.3086 and 19045.3086)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-06-13",
+            "releaseVersion": "19044.3086",
+            "updateUrl": "https://support.microsoft.com/help/5027215"
+        }
+    },
     "22H2": {
         "KB5025297": {
             "heading": "April 25, 2023&#x2014;KB5025297 (OS Build 19045.2913) Preview",
