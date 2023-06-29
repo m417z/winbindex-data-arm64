@@ -2,13 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"proquota.exe",
-"d27cdaadc310e379e9ec01e3e70cfb1037003e0c52dc5829fead03ccc57b313b"
-]
-],
-"updates": [
-"KB5027292"
-]
+"retry": [],
+"updates": null
 }
