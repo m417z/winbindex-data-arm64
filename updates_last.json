@@ -3378,6 +3378,15 @@
             "releaseDate": "2023-06-13",
             "releaseVersion": "19044.3086",
             "updateUrl": "https://support.microsoft.com/help/5027215"
+        },
+        "KB5028166": {
+            "heading": "July 11, 2023&#x2014;KB5028166 (OS Builds 19044.3208 and 19045.3208)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-07-11",
+            "releaseVersion": "19044.3208",
+            "updateUrl": "https://support.microsoft.com/help/5028166"
         }
     },
     "22H2": {
