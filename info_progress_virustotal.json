@@ -4,14 +4,9 @@
 "pending": {},
 "retry": [
 [
-"win32kfull.sys",
-"0dc891fc3459968354033cb4853d1537402f9b7d5400ebb3e63d08baf718dd2a"
+"iertutil.dll",
+"383c92fe47e9bed37ce5383053b83358d1eaab92ca943fb2495e8e2b56053ac4"
 ]
 ],
-"updates": [
-"KB5028166",
-"KB5028168",
-"KB5028182",
-"KB5028185"
-]
+"updates": null
 }
