@@ -397,6 +397,12 @@
             "releaseDate": "2023-07-11",
             "releaseVersion": "22621.1992",
             "updateUrl": "https://support.microsoft.com/help/5028185"
+        },
+        "KB5028254": {
+            "heading": "July 26, 2023&#x2014;KB5028254 (OS Build 22621.2070) Preview",
+            "releaseDate": "2023-07-26",
+            "releaseVersion": "22621.2070",
+            "updateUrl": "https://support.microsoft.com/help/5028254"
         }
     },
     "1709": {
