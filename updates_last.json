@@ -3417,6 +3417,15 @@
             "releaseDate": "2023-07-11",
             "releaseVersion": "19044.3208",
             "updateUrl": "https://support.microsoft.com/help/5028166"
+        },
+        "KB5029244": {
+            "heading": "August 8, 2023&#x2014;KB5029244 (OS Builds 19044.3324 and 19045.3324)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-08-08",
+            "releaseVersion": "19044.3324",
+            "updateUrl": "https://support.microsoft.com/help/5029244"
         }
     },
     "22H2": {
