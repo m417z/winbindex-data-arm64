@@ -4,6 +4,10 @@ out_path_override = Path('.out_path_override')
 out_path = Path(out_path_override.read_text().strip() if out_path_override.exists() else '.')
 index_of_hashes_out_path = out_path / 'hashes'
 
+deploy_git_email = '69083578+winbindex-deploy-bot@users.noreply.github.com'
+deploy_git_name = 'winbindex-deploy-bot'
+deploy_amend_last_commit = False
+
 # Exclude Windows 10 versions for which no ARM64 updates are available.
 windows_versions_unsupported = {'1507', '1511', '1607', '1703'}
 
