@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"windows.storage.winmd",
+"7758ff4ec5d7395529d39072fb70b092e3f5cffa0e6246e1ebd8e1bb8f7a0ea1"
+]
+],
 "updates": null
 }
