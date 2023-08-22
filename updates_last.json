@@ -275,6 +275,12 @@
             "releaseDate": "2023-08-08",
             "releaseVersion": "22000.2295",
             "updateUrl": "https://support.microsoft.com/help/5029253"
+        },
+        "KB5029332": {
+            "heading": "August 22, 2023&#x2014;KB5029332 (OS Build 22000.2360) Preview",
+            "releaseDate": "2023-08-22",
+            "releaseVersion": "22000.2360",
+            "updateUrl": "https://support.microsoft.com/help/5029332"
         }
     },
     "11-22H2": {
