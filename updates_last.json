@@ -421,6 +421,12 @@
             "releaseDate": "2023-08-08",
             "releaseVersion": "22621.2134",
             "updateUrl": "https://support.microsoft.com/help/5029263"
+        },
+        "KB5029351": {
+            "heading": "August 22, 2023&#x2014;KB5029351 (OS Build 22621.2215) Preview",
+            "releaseDate": "2023-08-22",
+            "releaseVersion": "22621.2215",
+            "updateUrl": "https://support.microsoft.com/help/5029351"
         }
     },
     "1709": {
