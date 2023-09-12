@@ -281,6 +281,12 @@
             "releaseDate": "2023-08-22",
             "releaseVersion": "22000.2360",
             "updateUrl": "https://support.microsoft.com/help/5029332"
+        },
+        "KB5030217": {
+            "heading": "September 12, 2023&#x2014;KB5030217 (OS Build 22000.2416)",
+            "releaseDate": "2023-09-12",
+            "releaseVersion": "22000.2416",
+            "updateUrl": "https://support.microsoft.com/help/5030217"
         }
     },
     "11-22H2": {
@@ -427,6 +433,12 @@
             "releaseDate": "2023-08-22",
             "releaseVersion": "22621.2215",
             "updateUrl": "https://support.microsoft.com/help/5029351"
+        },
+        "KB5030219": {
+            "heading": "September 12, 2023&#x2014;KB5030219 (OS Build 22621.2283)",
+            "releaseDate": "2023-09-12",
+            "releaseVersion": "22621.2283",
+            "updateUrl": "https://support.microsoft.com/help/5030219"
         }
     },
     "1709": {
@@ -2172,6 +2184,12 @@
             "releaseDate": "2023-08-08",
             "releaseVersion": "17763.4737",
             "updateUrl": "https://support.microsoft.com/help/5029247"
+        },
+        "KB5030214": {
+            "heading": "September 12, 2023&#x2014;KB5030214 (OS Build 17763.4851)",
+            "releaseDate": "2023-09-12",
+            "releaseVersion": "17763.4851",
+            "updateUrl": "https://support.microsoft.com/help/5030214"
         }
     },
     "1903": {
@@ -3456,6 +3474,15 @@
             "releaseDate": "2023-08-08",
             "releaseVersion": "19044.3324",
             "updateUrl": "https://support.microsoft.com/help/5029244"
+        },
+        "KB5030211": {
+            "heading": "September 12, 2023&#x2014;KB5030211 (OS Builds 19044.3448 and 19045.3448)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-09-12",
+            "releaseVersion": "19044.3448",
+            "updateUrl": "https://support.microsoft.com/help/5030211"
         }
     },
     "22H2": {
