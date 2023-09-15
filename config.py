@@ -7,6 +7,7 @@ index_of_hashes_out_path = out_path / 'hashes'
 
 deploy_git_email = '69083578+winbindex-deploy-bot@users.noreply.github.com'
 deploy_git_name = 'winbindex-deploy-bot'
+deploy_save_disk_space = True
 deploy_amend_last_commit = True
 
 # Exclude Windows 10 versions for which no ARM64 updates are available.
