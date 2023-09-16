@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"gdi32full.dll",
-"a65cd5ed621c7645edb3a42e11670d5afbd779456212ca8bfc13ec0f1b8ee2a8"
-]
-],
+"retry": [],
 "updates": null
 }
