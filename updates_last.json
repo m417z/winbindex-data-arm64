@@ -287,6 +287,12 @@
             "releaseDate": "2023-09-12",
             "releaseVersion": "22000.2416",
             "updateUrl": "https://support.microsoft.com/help/5030217"
+        },
+        "KB5030301": {
+            "heading": "September 26, 2023&#x2014;KB5030301 (OS Build 22000.2482) Preview",
+            "releaseDate": "2023-09-26",
+            "releaseVersion": "22000.2482",
+            "updateUrl": "https://support.microsoft.com/help/5030301"
         }
     },
     "11-22H2": {
@@ -439,6 +445,12 @@
             "releaseDate": "2023-09-12",
             "releaseVersion": "22621.2283",
             "updateUrl": "https://support.microsoft.com/help/5030219"
+        },
+        "KB5030310": {
+            "heading": "September 26, 2023&#x2014;KB5030310 (OS Build 22621.2361) Preview",
+            "releaseDate": "2023-09-26",
+            "releaseVersion": "22621.2361",
+            "updateUrl": "https://support.microsoft.com/help/5030310"
         }
     },
     "1709": {
@@ -3515,6 +3527,12 @@
             "releaseDate": "2023-08-22",
             "releaseVersion": "19045.3393",
             "updateUrl": "https://support.microsoft.com/help/5029331"
+        },
+        "KB5030300": {
+            "heading": "September 26, 2023&#x2014;KB5030300 (OS Build 19045.3516) Preview",
+            "releaseDate": "2023-09-26",
+            "releaseVersion": "19045.3516",
+            "updateUrl": "https://support.microsoft.com/help/5030300"
         }
     }
 }
