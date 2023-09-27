@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"d3d12sdklayers.dll",
+"ae8cffaea469a318ef7f28d4a196c784807771b693c45cc3be7391a618d75369"
+]
+],
 "updates": null
 }
