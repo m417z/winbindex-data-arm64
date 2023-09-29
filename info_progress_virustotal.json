@@ -2,6 +2,19 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"explorer.exe",
+"f356c85634068eaaff020c8280b8e146cee1a6d29992685627b862009fa5befe"
+],
+[
+"lsass.exe",
+"cc335bb6c105051c8d47c51dc71f4d152ae8aac273fe3768ede40c80c10ee239"
+],
+[
+"searchindexer.exe",
+"08130fd1775a52194cdb08769b1514f2955647b1dd0eea1d5334d6ca75346677"
+]
+],
 "updates": null
 }
