@@ -4,10 +4,6 @@
 "pending": {},
 "retry": [
 [
-"dwrite.dll",
-"7e481a0c33e5671763129a3aab39af230f6141ab2178b440991b23e531009624"
-],
-[
 "qedit.dll",
 "00f89e891efd3359840072f9ad83a4795eef2a9922ff022e3ab70708f56d8827"
 ]
