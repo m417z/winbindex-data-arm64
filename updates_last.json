@@ -463,6 +463,12 @@
             "releaseDate": "2023-10-10",
             "releaseVersion": "22621.2428",
             "updateUrl": "https://support.microsoft.com/help/5031354"
+        },
+        "KB5031455": {
+            "heading": "October 26, 2023&#x2014;KB5031455 (OS Build 22621.2506) Preview",
+            "releaseDate": "2023-10-26",
+            "releaseVersion": "22621.2506",
+            "updateUrl": "https://support.microsoft.com/help/5031455"
         }
     },
     "1709": {
@@ -3560,6 +3566,12 @@
             "releaseDate": "2023-09-26",
             "releaseVersion": "19045.3516",
             "updateUrl": "https://support.microsoft.com/help/5030300"
+        },
+        "KB5031445": {
+            "heading": "October 26, 2023&#x2014;KB5031445 (OS Build 19045.3636) Preview",
+            "releaseDate": "2023-10-26",
+            "releaseVersion": "19045.3636",
+            "updateUrl": "https://support.microsoft.com/help/5031445"
         }
     }
 }
