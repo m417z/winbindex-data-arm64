@@ -4,8 +4,16 @@
 "pending": {},
 "retry": [
 [
-"msmpeg2adec.dll",
-"f466cfeaae81f38d66e50182faf5b7731d7504409686cea5238182c9b0c75067"
+"crypt32.dll",
+"f4d17996929c4253de7bf29c5b79465e6ad99c44eb3a1e48386401ca01292798"
+],
+[
+"microsoft.configci.commands.resources.dll",
+"47e74df131e2f3f9ac5599bddb6d1a1a8e732ec094de5a63a1fff8d6c2b13388"
+],
+[
+"rdpserverbase.dll",
+"70c01308bbd2f1d9e9c4c45201cd2739a55923034df55822f8dfafa12b7a8c90"
 ]
 ],
 "updates": null
