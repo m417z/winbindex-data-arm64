@@ -299,6 +299,12 @@
             "releaseDate": "2023-10-10",
             "releaseVersion": "22000.2538",
             "updateUrl": "https://support.microsoft.com/help/5031358"
+        },
+        "KB5032192": {
+            "heading": "November 14, 2023&#x2014;KB5032192 (OS Build 22000.2600)",
+            "releaseDate": "2023-11-14",
+            "releaseVersion": "22000.2600",
+            "updateUrl": "https://support.microsoft.com/help/5032192"
         }
     },
     "11-22H2": {
@@ -465,10 +471,22 @@
             "updateUrl": "https://support.microsoft.com/help/5031354"
         },
         "KB5031455": {
-            "heading": "October 26, 2023&#x2014;KB5031455 (OS Build 22621.2506) Preview",
-            "releaseDate": "2023-10-26",
+            "heading": "October 31, 2023&#x2014;KB5031455 (OS Builds 22621.2506 and 22631.2506) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2023-10-31",
             "releaseVersion": "22621.2506",
             "updateUrl": "https://support.microsoft.com/help/5031455"
+        },
+        "KB5032190": {
+            "heading": "November 14, 2023&#x2014;KB5032190 (OS Builds 22621.2715 and 22631.2715)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2023-11-14",
+            "releaseVersion": "22621.2715",
+            "updateUrl": "https://support.microsoft.com/help/5032190"
         }
     },
     "1709": {
@@ -2226,6 +2244,12 @@
             "releaseDate": "2023-10-10",
             "releaseVersion": "17763.4974",
             "updateUrl": "https://support.microsoft.com/help/5031361"
+        },
+        "KB5032196": {
+            "heading": "November 14, 2023&#x2014;KB5032196 (OS Build 17763.5122)",
+            "releaseDate": "2023-11-14",
+            "releaseVersion": "17763.5122",
+            "updateUrl": "https://support.microsoft.com/help/5032196"
         }
     },
     "1903": {
@@ -3528,6 +3552,15 @@
             "releaseDate": "2023-10-10",
             "releaseVersion": "19044.3570",
             "updateUrl": "https://support.microsoft.com/help/5031356"
+        },
+        "KB5032189": {
+            "heading": "November 14, 2023&#x2014;KB5032189 (OS Builds 19044.3693 and 19045.3693)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-11-14",
+            "releaseVersion": "19044.3693",
+            "updateUrl": "https://support.microsoft.com/help/5032189"
         }
     },
     "22H2": {
