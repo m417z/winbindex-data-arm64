@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"msinfo32.exe",
+"1077b4ca7e5d94743003f57d2d385a5b45e36d6ec7c6886ecf34e76d6a54066a"
+]
+],
 "updates": null
 }
