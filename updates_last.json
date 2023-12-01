@@ -3605,6 +3605,12 @@
             "releaseDate": "2023-10-26",
             "releaseVersion": "19045.3636",
             "updateUrl": "https://support.microsoft.com/help/5031445"
+        },
+        "KB5032278": {
+            "heading": "November 30, 2023&#x2014;KB5032278 (OS Build 19045.3758) Preview",
+            "releaseDate": "2023-11-30",
+            "releaseVersion": "19045.3758",
+            "updateUrl": "https://support.microsoft.com/help/5032278"
         }
     }
 }
