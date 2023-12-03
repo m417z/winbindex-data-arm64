@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"twinapi.appcore.dll",
+"c3fb2c650205900f297dd4c378ac5fcc0b69646f59cb31e6df43f3a79719552b"
+]
+],
 "updates": null
 }
