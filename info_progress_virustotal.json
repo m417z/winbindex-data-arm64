@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"windows.devices.radios.dll",
+"0675a7788221e2c54d9d236be357b0d44f123c0f90a1ebc239f0e9e04bdd6f1e"
+],
+[
+"windows.globalization.fontgroups.dll",
+"b2db92eeaa492d3e5ff98dc5f40fcdabf67beac927a4aee99d9c1592e46e12d6"
+]
+],
 "updates": null
 }
