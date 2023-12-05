@@ -487,6 +487,15 @@
             "releaseDate": "2023-11-14",
             "releaseVersion": "22621.2715",
             "updateUrl": "https://support.microsoft.com/help/5032190"
+        },
+        "KB5032288": {
+            "heading": "December 4, 2023&#x2014;KB5032288 (OS Builds 22621.2792 and 22631.2792) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2023-12-04",
+            "releaseVersion": "22621.2792",
+            "updateUrl": "https://support.microsoft.com/help/5032288"
         }
     },
     "1709": {
