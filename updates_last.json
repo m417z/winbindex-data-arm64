@@ -305,6 +305,12 @@
             "releaseDate": "2023-11-14",
             "releaseVersion": "22000.2600",
             "updateUrl": "https://support.microsoft.com/help/5032192"
+        },
+        "KB5033369": {
+            "heading": "December 12, 2023&#x2014;KB5033369 (OS Build 22000.2652)",
+            "releaseDate": "2023-12-12",
+            "releaseVersion": "22000.2652",
+            "updateUrl": "https://support.microsoft.com/help/5033369"
         }
     },
     "11-22H2": {
@@ -496,6 +502,15 @@
             "releaseDate": "2023-12-04",
             "releaseVersion": "22621.2792",
             "updateUrl": "https://support.microsoft.com/help/5032288"
+        },
+        "KB5033375": {
+            "heading": "December 12, 2023&#x2014;KB5033375 (OS Builds 22621.2861 and 22631.2861)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2023-12-12",
+            "releaseVersion": "22621.2861",
+            "updateUrl": "https://support.microsoft.com/help/5033375"
         }
     },
     "1709": {
@@ -2259,6 +2274,12 @@
             "releaseDate": "2023-11-14",
             "releaseVersion": "17763.5122",
             "updateUrl": "https://support.microsoft.com/help/5032196"
+        },
+        "KB5033371": {
+            "heading": "December 12, 2023&#x2014;KB5033371 (OS Build 17763.5206)",
+            "releaseDate": "2023-12-12",
+            "releaseVersion": "17763.5206",
+            "updateUrl": "https://support.microsoft.com/help/5033371"
         }
     },
     "1903": {
@@ -3570,6 +3591,15 @@
             "releaseDate": "2023-11-14",
             "releaseVersion": "19044.3693",
             "updateUrl": "https://support.microsoft.com/help/5032189"
+        },
+        "KB5033372": {
+            "heading": "December 12, 2023&#x2014;KB5033372 (OS Builds 19044.3803 and 19045.3803)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2023-12-12",
+            "releaseVersion": "19044.3803",
+            "updateUrl": "https://support.microsoft.com/help/5033372"
         }
     },
     "22H2": {
