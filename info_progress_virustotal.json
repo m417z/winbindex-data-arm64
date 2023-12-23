@@ -1,15 +1,7 @@
 {
-"next": [
-"wmidcom.dll",
-"110fe78c134954a14429854f2e3aa78b9474b3f17d1c30cb830da9ccdb5a9be0"
-],
+"next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"windows.internal.shellcommon.accountscontrolexperience.dll",
-"6a79ce4cdffb6eb1ffaaefc852eee758e5dc681c8fa3b0f4046cc4e465e6f09a"
-]
-],
+"retry": [],
 "updates": null
 }
