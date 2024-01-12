@@ -4,16 +4,8 @@
 "pending": {},
 "retry": [
 [
-"comctl32.dll",
-"755f67d4455d0a7fd0610f3a20bb0ef31d32d5837478d4c6ddf4cf2be5df1985"
-],
-[
-"comctl32.dll",
-"a282977a71da982dbfc5736265b21b5a9067def351a1abe5eaa60a43b87bbf14"
-],
-[
-"comctl32.dll",
-"a7fe5811028b36fa7e5c3f47e2ae45e945b542c2e30739184d03064099570597"
+"voiprt.dll",
+"614b8bbb211c9deff67ae97c8566fae58b8deb5205dcff4368bf99ac88c6c22d"
 ]
 ],
 "updates": null
