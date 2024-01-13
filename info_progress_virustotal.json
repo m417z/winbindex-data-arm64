@@ -4,8 +4,12 @@
 "pending": {},
 "retry": [
 [
-"voiprt.dll",
-"614b8bbb211c9deff67ae97c8566fae58b8deb5205dcff4368bf99ac88c6c22d"
+"msvcrt.dll",
+"d81efd4c778ca616fdebba6c399b3a20ef2275ac341c14c3c2c1271bda6326ee"
+],
+[
+"mswb70804.dll",
+"485bb6884627f6a4d37735a6b0a6bc3d004cfe5ed33bc01fd393051e21ddb5f2"
 ]
 ],
 "updates": null
