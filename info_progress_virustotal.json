@@ -2,15 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"msvcrt.dll",
-"d81efd4c778ca616fdebba6c399b3a20ef2275ac341c14c3c2c1271bda6326ee"
-],
-[
-"mswb70804.dll",
-"485bb6884627f6a4d37735a6b0a6bc3d004cfe5ed33bc01fd393051e21ddb5f2"
-]
-],
+"retry": [],
 "updates": null
 }
