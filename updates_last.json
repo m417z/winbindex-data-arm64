@@ -3680,6 +3680,12 @@
             "releaseDate": "2023-11-30",
             "releaseVersion": "19045.3758",
             "updateUrl": "https://support.microsoft.com/help/5032278"
+        },
+        "KB5034203": {
+            "heading": "January 23, 2024&#x2014;KB5034203 (OS Build 19045.3996) Preview",
+            "releaseDate": "2024-01-23",
+            "releaseVersion": "19045.3996",
+            "updateUrl": "https://support.microsoft.com/help/5034203"
         }
     }
 }
