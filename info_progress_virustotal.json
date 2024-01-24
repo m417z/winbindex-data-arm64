@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"wwahost.exe",
+"d363a069aa1196cad09989cad10a9016fc6fd412c81f0feafd7fb31b56cc17db"
+]
+],
 "updates": null
 }
