@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"ole32.dll",
+"e347711bdbcb0e9175a4e213db2a362183bc7e7343817a4fa480f034dff598b6"
+]
+],
 "updates": null
 }
