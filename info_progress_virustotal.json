@@ -1,15 +1,7 @@
 {
 "next": null,
-"next_updates": [
-"appxdeploymentclient.dll",
-"41a89a149d092ea3c2e734c1cb848aa7bcbd5c760a5e2280e399beceee127a57"
-],
+"next_updates": null,
 "pending": {},
 "retry": [],
-"updates": [
-"KB5034768",
-"KB5034763",
-"KB5034766",
-"KB5034765"
-]
+"updates": null
 }
