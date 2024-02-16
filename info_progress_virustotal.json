@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"appidsvc.dll",
-"915d8c7a1789e15fc140fa2fbe4966482183fef4ad3d5a644feaa82c98d3a5cc"
-]
-],
+"retry": [],
 "updates": null
 }
