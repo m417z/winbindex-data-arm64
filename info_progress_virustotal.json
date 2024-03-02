@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"wintypes.dll",
-"5a3e8989c1ee939319918cf17e6bca9192e313fc860b8267ece6f98871984ef6"
-]
-],
+"retry": [],
 "updates": null
 }
