@@ -1,5 +1,8 @@
 {
-"next": null,
+"next": [
+"wbemcomn.dll",
+"ed093dd2506890241cdc2df591276c1bd4e64a827ee7c63521234c0502ff72f2"
+],
 "next_updates": null,
 "pending": {},
 "retry": [],
