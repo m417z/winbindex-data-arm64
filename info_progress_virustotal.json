@@ -1,7 +1,15 @@
 {
 "next": null,
-"next_updates": null,
+"next_updates": [
+"advapi32.dll",
+"8982eed9e875d652dd16b5535421d0236b0395ae2e3ef5ac7ee1fcd5716054df"
+],
 "pending": {},
 "retry": [],
-"updates": null
+"updates": [
+"KB5035849",
+"KB5035845",
+"KB5035854",
+"KB5035853"
+]
 }
