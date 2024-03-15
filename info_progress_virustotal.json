@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"gdiplus.dll",
+"2c116b5be0ba02b337f8e76119e40a72e0d0fc016f8b99268f6563b1bbc8ca1f"
+]
+],
 "updates": null
 }
