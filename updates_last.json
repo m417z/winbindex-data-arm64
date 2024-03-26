@@ -2361,6 +2361,12 @@
             "releaseDate": "2024-03-12",
             "releaseVersion": "17763.5576",
             "updateUrl": "https://support.microsoft.com/help/5035849"
+        },
+        "KB5037425": {
+            "heading": "March 25, 2024&#x2014;KB5037425 (OS Build 17763.5579) Out-of-band",
+            "releaseDate": "2024-03-25",
+            "releaseVersion": "17763.5579",
+            "updateUrl": "https://support.microsoft.com/help/5037425"
         }
     },
     "1903": {
