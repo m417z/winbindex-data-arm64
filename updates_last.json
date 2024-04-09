@@ -329,6 +329,12 @@
             "releaseDate": "2024-03-12",
             "releaseVersion": "22000.2836",
             "updateUrl": "https://support.microsoft.com/help/5035854"
+        },
+        "KB5036894": {
+            "heading": "April 9, 2024&#x2014;KB5036894 (OS Build 22000.2899)",
+            "releaseDate": "2024-04-09",
+            "releaseVersion": "22000.2899",
+            "updateUrl": "https://support.microsoft.com/help/5036894"
         }
     },
     "11-22H2": {
@@ -583,6 +589,15 @@
             "releaseDate": "2024-03-26",
             "releaseVersion": "22621.3374",
             "updateUrl": "https://support.microsoft.com/help/5035942"
+        },
+        "KB5036893": {
+            "heading": "April 9, 2024&#x2014;KB5036893 (OS Builds 22621.3447 and 22631.3447)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2024-04-09",
+            "releaseVersion": "22621.3447",
+            "updateUrl": "https://support.microsoft.com/help/5036893"
         }
     },
     "1709": {
@@ -2371,6 +2386,12 @@
             "releaseVersion": "17763.5576",
             "updateUrl": "https://support.microsoft.com/help/5035849"
         },
+        "KB5036896": {
+            "heading": "April 9, 2024&#x2014;KB5036896 (OS Build 17763.5696)",
+            "releaseDate": "2024-04-09",
+            "releaseVersion": "17763.5696",
+            "updateUrl": "https://support.microsoft.com/help/5036896"
+        },
         "KB5037425": {
             "heading": "March 25, 2024&#x2014;KB5037425 (OS Build 17763.5579) Out-of-band",
             "releaseDate": "2024-03-25",
@@ -3723,6 +3744,15 @@
             "releaseDate": "2024-03-12",
             "releaseVersion": "19044.4170",
             "updateUrl": "https://support.microsoft.com/help/5035845"
+        },
+        "KB5036892": {
+            "heading": "April 9, 2024&#x2014;KB5036892 (OS Builds 19044.4291 and 19045.4291)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2024-04-09",
+            "releaseVersion": "19044.4291",
+            "updateUrl": "https://support.microsoft.com/help/5036892"
         }
     },
     "22H2": {
