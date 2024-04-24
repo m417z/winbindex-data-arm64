@@ -598,6 +598,15 @@
             "releaseDate": "2024-04-09",
             "releaseVersion": "22621.3447",
             "updateUrl": "https://support.microsoft.com/help/5036893"
+        },
+        "KB5036980": {
+            "heading": "April 23, 2024&#x2014;KB5036980 (OS Builds 22621.3527 and 22631.3527) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2024-04-23",
+            "releaseVersion": "22621.3527",
+            "updateUrl": "https://support.microsoft.com/help/5036980"
         }
     },
     "1709": {
