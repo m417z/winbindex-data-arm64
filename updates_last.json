@@ -3821,6 +3821,12 @@
             "releaseDate": "2024-03-26",
             "releaseVersion": "19045.4239",
             "updateUrl": "https://support.microsoft.com/help/5035941"
+        },
+        "KB5036979": {
+            "heading": "April 23, 2024&#x2014;KB5036979 (OS Build 19045.4355) Preview",
+            "releaseDate": "2024-04-23",
+            "releaseVersion": "19045.4355",
+            "updateUrl": "https://support.microsoft.com/help/5036979"
         }
     }
 }
