@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"dxptasksync.dll",
+"52854179c0825f7f7e36f39d2325ad2ab938e6bd5e8d3e84ea89eeeb44cab093"
+],
+[
+"ntdll.dll",
+"13166b6072d5d2a3a082dcef617a507962efb179059b7e6a866b812bd546ef68"
+]
+],
 "updates": null
 }
