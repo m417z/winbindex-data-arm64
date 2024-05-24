@@ -2427,6 +2427,12 @@
             "releaseDate": "2024-05-14",
             "releaseVersion": "17763.5820",
             "updateUrl": "https://support.microsoft.com/help/5037765"
+        },
+        "KB5039705": {
+            "heading": "May 23, 2024&#x2014;KB5039705 (OS Build 17763.5830) Out-of-band",
+            "releaseDate": "2024-05-23",
+            "releaseVersion": "17763.5830",
+            "updateUrl": "https://support.microsoft.com/help/5039705"
         }
     },
     "1903": {
