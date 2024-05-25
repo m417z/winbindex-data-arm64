@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"windows.applicationmodel.dll",
+"2ef7b3773363e01e8368561c99445a1d02abd40e434a6288f3fef96bc9d605aa"
+]
+],
 "updates": null
 }
