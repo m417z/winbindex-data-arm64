@@ -6,6 +6,22 @@
 [
 "drupdate.dll",
 "df265646f11506180531d9a8284c0d3cb8ecc2a4f5a31f7a7d3bffee573d1748"
+],
+[
+"rpchttp.dll",
+"36e9192cce2ef561ee463c2d9dd15f9e181488547ba6b0182d953f5946124809"
+],
+[
+"spp.dll",
+"96c6daafb9999ef7de968a76d0d4ff6a5d48169b5ce54b332fa687e2306a1f2d"
+],
+[
+"weretw.dll",
+"d4d8408d29576bedc4b86a5cfc10cc595ec6d70f94ee8cbb5c7e1f00ad644320"
+],
+[
+"windows.graphics.printing.workflow.dll",
+"b903f7b6391cb3102ede1b8193ce00c0d0bd4109d09c365635f861c11f5124bd"
 ]
 ],
 "updates": null
