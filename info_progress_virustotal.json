@@ -2,6 +2,19 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"windows.gaming.input.dll",
+"6f424be7628713e8bc1dc7355d5b48d6539ede381aed9517c5e84f99164938e3"
+],
+[
+"windows.management.moderndeployment.configproviders.dll",
+"6460f5389d86ce014060073db2300f6ac3a8d6dfdac09eb15e75ab4ccf457a95"
+],
+[
+"windows.speech.dictation.dll",
+"002e50513104520f070c8331f0db2551fbace6eafafd8aec901387f4d8e9d762"
+]
+],
 "updates": null
 }
