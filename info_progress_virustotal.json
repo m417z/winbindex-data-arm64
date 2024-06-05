@@ -2,15 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"sqloledb.dll",
-"b7fefc053e1000f59ed48c15063e7ed510a35f7e6d42fc855c767246b7c9d23b"
-],
-[
-"tpmcoreprovisioning.dll",
-"c157e0baee35e2757c8d9cf051adb18c2f2bee832212ce80f57193a518fb8b7b"
-]
-],
+"retry": [],
 "updates": null
 }
