@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"updateagent.dll",
-"75e31f1306d7b55bbf2c862db2b965d04d478ef53e0fc803783e72af54f168fb"
-]
-],
+"retry": [],
 "updates": null
 }
