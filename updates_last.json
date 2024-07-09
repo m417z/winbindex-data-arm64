@@ -347,6 +347,12 @@
             "releaseDate": "2024-06-11",
             "releaseVersion": "22000.3019",
             "updateUrl": "https://support.microsoft.com/help/5039213"
+        },
+        "KB5040431": {
+            "heading": "July 9, 2024&#x2014;KB5040431 (OS Build 22000.3079)",
+            "releaseDate": "2024-07-09",
+            "releaseVersion": "22000.3079",
+            "updateUrl": "https://support.microsoft.com/help/5040431"
         }
     },
     "11-22H2": {
@@ -655,6 +661,15 @@
             "releaseDate": "2024-06-25",
             "releaseVersion": "22621.3810",
             "updateUrl": "https://support.microsoft.com/help/5039302"
+        },
+        "KB5040442": {
+            "heading": "July 9, 2024&#x2014;KB5040442 (OS Builds 22621.3880 and 22631.3880)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2024-07-09",
+            "releaseVersion": "22621.3880",
+            "updateUrl": "https://support.microsoft.com/help/5040442"
         }
     },
     "1709": {
@@ -2472,6 +2487,12 @@
             "releaseDate": "2024-05-23",
             "releaseVersion": "17763.5830",
             "updateUrl": "https://support.microsoft.com/help/5039705"
+        },
+        "KB5040430": {
+            "heading": "July 9, 2024&#x2014;KB5040430 (OS Build 17763.6054)",
+            "releaseDate": "2024-07-09",
+            "releaseVersion": "17763.6054",
+            "updateUrl": "https://support.microsoft.com/help/5040430"
         }
     },
     "1903": {
@@ -3846,6 +3867,15 @@
             "releaseDate": "2024-06-11",
             "releaseVersion": "19044.4529",
             "updateUrl": "https://support.microsoft.com/help/5039211"
+        },
+        "KB5040427": {
+            "heading": "July 9, 2024&#x2014;KB5040427 (OS Builds 19044.4651 and 19045.4651)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2024-07-09",
+            "releaseVersion": "19044.4651",
+            "updateUrl": "https://support.microsoft.com/help/5040427"
         }
     },
     "22H2": {
