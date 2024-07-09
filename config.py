@@ -16,6 +16,9 @@ windows_versions_unsupported = {'1507', '1511', '1607', '1703'}
 updates_unsupported = {
     # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
     'KB5012643',
+
+    # Missing for ARM64 for some reason.
+    'KB5040430',
 }
 
 updates_architecture = 'ARM64'
