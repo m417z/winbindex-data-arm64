@@ -3962,6 +3962,12 @@
             "releaseDate": "2024-06-25",
             "releaseVersion": "19045.4598",
             "updateUrl": "https://support.microsoft.com/help/5039299"
+        },
+        "KB5040525": {
+            "heading": "July 23, 2024&#x2014;KB5040525 (OS Build 19045.4717) Preview",
+            "releaseDate": "2024-07-23",
+            "releaseVersion": "19045.4717",
+            "updateUrl": "https://support.microsoft.com/help/5040525"
         }
     }
 }
