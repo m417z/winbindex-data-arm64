@@ -670,6 +670,15 @@
             "releaseDate": "2024-07-09",
             "releaseVersion": "22621.3880",
             "updateUrl": "https://support.microsoft.com/help/5040442"
+        },
+        "KB5040527": {
+            "heading": "July 25, 2024&#x2014;KB5040527 (OS Builds 22621.3958 and 22631.3958) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2024-07-25",
+            "releaseVersion": "22621.3958",
+            "updateUrl": "https://support.microsoft.com/help/5040527"
         }
     },
     "1709": {
