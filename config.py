@@ -10,15 +10,18 @@ deploy_git_name = 'winbindex-deploy-bot'
 deploy_save_disk_space = True
 deploy_amend_last_commit = True
 
-# Exclude Windows 10 versions for which no ARM64 updates are available.
-windows_versions_unsupported = {'1507', '1511', '1607', '1703'}
+# Exclude Windows versions for which no ARM64 updates are available from a specific date.
+windows_versions_unsupported = {
+    '1507': None,
+    '1511': None,
+    '1607': None,
+    '1703': None,
+    '1809': '2024-07-09',
+}
 
 updates_unsupported = {
     # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
     'KB5012643',
-
-    # Missing for ARM64 for some reason.
-    'KB5040430',
 }
 
 updates_architecture = 'ARM64'
