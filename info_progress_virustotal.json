@@ -2,19 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"enrollmentapi.dll",
-"cc114b66e19c7219962cbc91a58ac7538b44c40a3f6b097f59a91eb32812be78"
-],
-[
-"windowsudk.shellcommon.dll",
-"a4fdd1262292f58862e1196ed390acfcc0d6f7414ad284a5a91b8f34d490bbf2"
-]
-],
-"updates": [
-"KB5043064",
-"KB5043067",
-"KB5043076"
-]
+"retry": [],
+"updates": null
 }
