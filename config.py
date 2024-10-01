@@ -46,6 +46,7 @@ delta_machine_type_values_supported = {
 
 delta_data_without_rift_table_names = {
     '*.mui',
+    'powershell_ise.exe',
 }
 delta_data_without_rift_table_manifests = {
     'arm64_microsoft-nxt-boottocloud-windows365-app_*',
