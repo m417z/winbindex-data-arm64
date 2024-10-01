@@ -2,14 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
-"updates": [
-"KB5039239",
-"KB5039304",
-"KB5040435",
-"KB5040529",
-"KB5041571",
-"KB5041865",
-"KB5043080"
+"retry": [
+[
+"xtajit64.dll",
+"99de1312f50edb5ebf551a6e003e88052d9e254e36b326e78125bbd795b939c8"
 ]
+],
+"updates": null
 }
