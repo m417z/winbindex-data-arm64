@@ -3,5 +3,9 @@
 "next_updates": null,
 "pending": {},
 "retry": [],
-"updates": null
+"updates": [
+"KB5039239",
+"KB5039304",
+"KB5040435"
+]
 }
