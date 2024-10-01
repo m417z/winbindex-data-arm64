@@ -759,6 +759,18 @@
             "releaseDate": "2024-08-13",
             "releaseVersion": "26100.1457",
             "updateUrl": "https://support.microsoft.com/help/5041571"
+        },
+        "KB5041865": {
+            "heading": "August 27, 2024&#x2014;KB5041865 (OS Build 26100.1591) Preview",
+            "releaseDate": "2024-08-27",
+            "releaseVersion": "26100.1591",
+            "updateUrl": "https://support.microsoft.com/help/5041865"
+        },
+        "KB5043080": {
+            "heading": "September 10, 2024&#x2014;KB5043080 (OS Build 26100.1742)",
+            "releaseDate": "2024-09-10",
+            "releaseVersion": "26100.1742",
+            "updateUrl": "https://support.microsoft.com/help/5043080"
         }
     },
     "1709": {
