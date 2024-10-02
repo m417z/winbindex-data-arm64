@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"xtajit64.dll",
-"99de1312f50edb5ebf551a6e003e88052d9e254e36b326e78125bbd795b939c8"
-]
-],
+"retry": [],
 "updates": null
 }
