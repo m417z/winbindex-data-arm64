@@ -3995,6 +3995,15 @@
             "releaseDate": "2024-09-10",
             "releaseVersion": "19044.4894",
             "updateUrl": "https://support.microsoft.com/help/5043064"
+        },
+        "KB5044273": {
+            "heading": "October 8, 2024&#x2014;KB5044273 (OS Builds 19044.5011 and 19045.5011)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2024-10-08",
+            "releaseVersion": "19044.5011",
+            "updateUrl": "https://support.microsoft.com/help/5044273"
         }
     },
     "22H2": {
