@@ -77,6 +77,92 @@
             "releaseDate": "2022-04-12",
             "releaseVersion": "22000.613",
             "updateUrl": "https://support.microsoft.com/help/5012592"
+        },
+        "KB5012643": {
+            "heading": "April 25, 2022&#x2014;KB5012643 (OS Build 22000.652) Preview",
+            "releaseDate": "2022-04-25",
+            "releaseVersion": "22000.652",
+            "updateUrl": "https://support.microsoft.com/help/5012643"
+        },
+        "KB5013943": {
+            "heading": "May 10, 2022&#x2014;KB5013943 (OS Build 22000.675)",
+            "releaseDate": "2022-05-10",
+            "releaseVersion": "22000.675",
+            "updateUrl": "https://support.microsoft.com/help/5013943"
+        },
+        "KB5014019": {
+            "heading": "May 24, 2022&#x2014;KB5014019 (OS Build 22000.708) Preview",
+            "releaseDate": "2022-05-24",
+            "releaseVersion": "22000.708",
+            "updateUrl": "https://support.microsoft.com/help/5014019"
+        },
+        "KB5014668": {
+            "heading": "June 23, 2022&#x2014;KB5014668 (OS Build 22000.778) Preview",
+            "releaseDate": "2022-06-23",
+            "releaseVersion": "22000.778",
+            "updateUrl": "https://support.microsoft.com/help/5014668"
+        },
+        "KB5014697": {
+            "heading": "June 14, 2022&#x2014;KB5014697 (OS Build 22000.739)",
+            "releaseDate": "2022-06-14",
+            "releaseVersion": "22000.739",
+            "updateUrl": "https://support.microsoft.com/help/5014697"
+        },
+        "KB5015814": {
+            "heading": "July 12, 2022&#x2014;KB5015814 (OS Build 22000.795)",
+            "releaseDate": "2022-07-12",
+            "releaseVersion": "22000.795",
+            "updateUrl": "https://support.microsoft.com/help/5015814"
+        },
+        "KB5015882": {
+            "heading": "July 21, 2022&#x2014;KB5015882 (OS Build 22000.832) Preview",
+            "releaseDate": "2022-07-21",
+            "releaseVersion": "22000.832",
+            "updateUrl": "https://support.microsoft.com/help/5015882"
+        },
+        "KB5016138": {
+            "heading": "June 20, 2022&#x2014;KB5016138 (OS Build 22000.740) Out-of-band",
+            "releaseDate": "2022-06-20",
+            "releaseVersion": "22000.740",
+            "updateUrl": "https://support.microsoft.com/help/5016138"
+        },
+        "KB5016629": {
+            "heading": "August 9, 2022&#x2014;KB5016629 (OS Build 22000.856)",
+            "releaseDate": "2022-08-09",
+            "releaseVersion": "22000.856",
+            "updateUrl": "https://support.microsoft.com/help/5016629"
+        },
+        "KB5016691": {
+            "heading": "August 25, 2022&#x2014;KB5016691 (OS Build 22000.918) Preview",
+            "releaseDate": "2022-08-25",
+            "releaseVersion": "22000.918",
+            "updateUrl": "https://support.microsoft.com/help/5016691"
+        },
+        "KB5017328": {
+            "heading": "September 13, 2022&#x2014;KB5017328 (OS Build 22000.978)",
+            "releaseDate": "2022-09-13",
+            "releaseVersion": "22000.978",
+            "updateUrl": "https://support.microsoft.com/help/5017328"
+        },
+        "KB5017383": {
+            "heading": "September 20, 2022&#x2014;KB5017383 (OS Build 22000.1042) Preview",
+            "releaseDate": "2022-09-20",
+            "releaseVersion": "22000.1042",
+            "updateUrl": "https://support.microsoft.com/help/5017383"
+        }
+    },
+    "11-22H2": {
+        "KB5017389": {
+            "heading": "September 30, 2022&#x2014;KB5017389 (OS Build 22621.608) Preview",
+            "releaseDate": "2022-09-30",
+            "releaseVersion": "22621.608",
+            "updateUrl": "https://support.microsoft.com/help/5017389"
+        },
+        "KB5019311": {
+            "heading": "September 27, 2022&#x2014;KB5019311 (OS Build 22621.525) Out-of-band",
+            "releaseDate": "2022-09-27",
+            "releaseVersion": "22621.525",
+            "updateUrl": "https://support.microsoft.com/help/5019311"
         }
     },
     "1709": {
@@ -1672,6 +1758,78 @@
             "releaseDate": "2022-04-12",
             "releaseVersion": "17763.2803",
             "updateUrl": "https://support.microsoft.com/help/5012647"
+        },
+        "KB5013941": {
+            "heading": "May 10, 2022&#x2014;KB5013941 (OS Build 17763.2928)",
+            "releaseDate": "2022-05-10",
+            "releaseVersion": "17763.2928",
+            "updateUrl": "https://support.microsoft.com/help/5013941"
+        },
+        "KB5014022": {
+            "heading": "May 24, 2022&#x2014;KB5014022 (OS Build 17763.2989) Preview",
+            "releaseDate": "2022-05-24",
+            "releaseVersion": "17763.2989",
+            "updateUrl": "https://support.microsoft.com/help/5014022"
+        },
+        "KB5014669": {
+            "heading": "June 23, 2022&#x2014;KB5014669 (OS Build 17763.3113) Preview",
+            "releaseDate": "2022-06-23",
+            "releaseVersion": "17763.3113",
+            "updateUrl": "https://support.microsoft.com/help/5014669"
+        },
+        "KB5014692": {
+            "heading": "June 14, 2022&#x2014;KB5014692 (OS Build 17763.3046)",
+            "releaseDate": "2022-06-14",
+            "releaseVersion": "17763.3046",
+            "updateUrl": "https://support.microsoft.com/help/5014692"
+        },
+        "KB5015018": {
+            "heading": "May 19, 2022&#x2014;KB5015018 (OS Build 17763.2931) Out-of-band",
+            "releaseDate": "2022-05-19",
+            "releaseVersion": "17763.2931",
+            "updateUrl": "https://support.microsoft.com/help/5015018"
+        },
+        "KB5015811": {
+            "heading": "July 12, 2022&#x2014;KB5015811 (OS Build 17763.3165)",
+            "releaseDate": "2022-07-12",
+            "releaseVersion": "17763.3165",
+            "updateUrl": "https://support.microsoft.com/help/5015811"
+        },
+        "KB5015880": {
+            "heading": "July 21, 2022&#x2014;KB5015880 (OS Build 17763.3232) Preview",
+            "releaseDate": "2022-07-21",
+            "releaseVersion": "17763.3232",
+            "updateUrl": "https://support.microsoft.com/help/5015880"
+        },
+        "KB5016623": {
+            "heading": "August 9, 2022&#x2014;KB5016623 (OS Build 17763.3287)",
+            "releaseDate": "2022-08-09",
+            "releaseVersion": "17763.3287",
+            "updateUrl": "https://support.microsoft.com/help/5016623"
+        },
+        "KB5016690": {
+            "heading": "August 23, 2022&#x2014;KB5016690 (OS Build 17763.3346) Preview",
+            "releaseDate": "2022-08-23",
+            "releaseVersion": "17763.3346",
+            "updateUrl": "https://support.microsoft.com/help/5016690"
+        },
+        "KB5017315": {
+            "heading": "September 13, 2022&#x2014;KB5017315 (OS Build 17763.3406)",
+            "releaseDate": "2022-09-13",
+            "releaseVersion": "17763.3406",
+            "updateUrl": "https://support.microsoft.com/help/5017315"
+        },
+        "KB5017379": {
+            "heading": "September 20, 2022&#x2014;KB5017379 (OS Build 17763.3469) Preview",
+            "releaseDate": "2022-09-20",
+            "releaseVersion": "17763.3469",
+            "updateUrl": "https://support.microsoft.com/help/5017379"
+        },
+        "KB5018419": {
+            "heading": "October 11, 2022&#x2014;KB5018419 (OS Build 17763.3532)",
+            "releaseDate": "2022-10-11",
+            "releaseVersion": "17763.3532",
+            "updateUrl": "https://support.microsoft.com/help/5018419"
         }
     },
     "1903": {
@@ -2182,6 +2340,12 @@
             "releaseDate": "2022-04-12",
             "releaseVersion": "18363.2212",
             "updateUrl": "https://support.microsoft.com/help/5012591"
+        },
+        "KB5013945": {
+            "heading": "May 10, 2022&#x2014;KB5013945 (OS Build 18363.2274)",
+            "releaseDate": "2022-05-10",
+            "releaseVersion": "18363.2274",
+            "updateUrl": "https://support.microsoft.com/help/5013945"
         }
     },
     "2004": {
@@ -2628,6 +2792,16 @@
             "releaseVersion": "19042.1620",
             "updateUrl": "https://support.microsoft.com/help/5011543"
         },
+        "KB5011831": {
+            "heading": "April 25, 2022&#x2014;KB5011831 (OS Builds 19042.1682, 19043.1682, and 19044.1682) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-04-25",
+            "releaseVersion": "19042.1682",
+            "updateUrl": "https://support.microsoft.com/help/5011831"
+        },
         "KB5012599": {
             "heading": "April 12, 2022&#x2014;KB5012599 (OS Builds 19042.1645, 19043.1645, and 19044.1645)",
             "otherWindowsVersions": [
@@ -2637,6 +2811,126 @@
             "releaseDate": "2022-04-12",
             "releaseVersion": "19042.1645",
             "updateUrl": "https://support.microsoft.com/help/5012599"
+        },
+        "KB5013942": {
+            "heading": "May 10, 2022&#x2014;KB5013942 (OS Builds 19042.1706, 19043.1706, and 19044.1706)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-05-10",
+            "releaseVersion": "19042.1706",
+            "updateUrl": "https://support.microsoft.com/help/5013942"
+        },
+        "KB5014023": {
+            "heading": "June 2, 2022&#x2014;KB5014023 (OS Builds 19042.1741, 19043.1741, and 19044.1741) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-06-02",
+            "releaseVersion": "19042.1741",
+            "updateUrl": "https://support.microsoft.com/help/5014023"
+        },
+        "KB5014666": {
+            "heading": "June 28, 2022&#x2014;KB5014666 (OS Builds 19042.1806, 19043.1806, and 19044.1806) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-06-28",
+            "releaseVersion": "19042.1806",
+            "updateUrl": "https://support.microsoft.com/help/5014666"
+        },
+        "KB5014699": {
+            "heading": "June 14, 2022&#x2014;KB5014699 (OS Builds 19042.1766, 19043.1766, and 19044.1766)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-06-14",
+            "releaseVersion": "19042.1766",
+            "updateUrl": "https://support.microsoft.com/help/5014699"
+        },
+        "KB5015020": {
+            "heading": "May 19, 2022&#x2014;KB5015020 (OS Builds 19042.1708, 19043.1708, and 19044.1708) Out-of-band",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-05-19",
+            "releaseVersion": "19042.1708",
+            "updateUrl": "https://support.microsoft.com/help/5015020"
+        },
+        "KB5015807": {
+            "heading": "July 12, 2022&#x2014;KB5015807 (OS Builds 19042.1826, 19043.1826, and 19044.1826)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-07-12",
+            "releaseVersion": "19042.1826",
+            "updateUrl": "https://support.microsoft.com/help/5015807"
+        },
+        "KB5015878": {
+            "heading": "July 26, 2022&#x2014;KB5015878 (OS Builds 19042.1865, 19043.1865, and 19044.1865) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-07-26",
+            "releaseVersion": "19042.1865",
+            "updateUrl": "https://support.microsoft.com/help/5015878"
+        },
+        "KB5016139": {
+            "heading": "June 20, 2022&#x2014;KB5016139 (OS Builds 19042.1767, 19043.1767, and 19044.1767) Out-of-band",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-06-20",
+            "releaseVersion": "19042.1767",
+            "updateUrl": "https://support.microsoft.com/help/5016139"
+        },
+        "KB5016616": {
+            "heading": "August 9, 2022&#x2014;KB5016616 (OS Builds 19042.1889, 19043.1889, and 19044.1889)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-08-09",
+            "releaseVersion": "19042.1889",
+            "updateUrl": "https://support.microsoft.com/help/5016616"
+        },
+        "KB5016688": {
+            "heading": "August 26, 2022&#x2014;KB5016688 (OS Builds 19042.1949, 19043.1949, and 19044.1949) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-08-26",
+            "releaseVersion": "19042.1949",
+            "updateUrl": "https://support.microsoft.com/help/5016688"
+        },
+        "KB5017308": {
+            "heading": "September 13, 2022&#x2014;KB5017308 (OS Builds 19042.2006, 19043.2006, and 19044.2006)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-09-13",
+            "releaseVersion": "19042.2006",
+            "updateUrl": "https://support.microsoft.com/help/5017308"
+        },
+        "KB5017380": {
+            "heading": "September 20, 2022&#x2014;KB5017380 (OS Builds 19042.2075, 19043.2075, and 19044.2075) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-09-20",
+            "releaseVersion": "19042.2075",
+            "updateUrl": "https://support.microsoft.com/help/5017380"
         }
     }
 }
