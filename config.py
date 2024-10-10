@@ -17,9 +17,13 @@ windows_versions_unsupported = {
     '1809': '2024-07-09',
 }
 
-updates_unsupported = {
-    # Temporarily skip an update which returns "The website has encountered a problem", "Error number: 8DDD0024".
-    'KB5012643',
+updates_unsupported = set()
+
+updates_alternative_links = {
+    # The update server returns "The website has encountered a problem", "Error number: 8DDD0024".
+    ('11-21H2', 'KB5012643'): 'https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/04/windows10.0-kb5012643-arm64_26ae3882c036a817235c8e9be57407dae7f957ec.msu',
+    # The update server returns "The update requested could not be found", "Error number: 8DDD0024".
+    ('20H2', 'KB5018410'): 'https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows10.0-kb5018410-arm64_a0d4c6caf83af34442728052eb3e1002add312fb.msu',
 }
 
 updates_architecture = 'ARM64'
