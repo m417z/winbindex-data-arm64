@@ -162,6 +162,18 @@
             "releaseVersion": "22000.1165",
             "updateUrl": "https://support.microsoft.com/help/5018483"
         },
+        "KB5019157": {
+            "heading": "November 15, 2022&#x2014;KB5019157 (OS Build 22000.1281) Preview",
+            "releaseDate": "2022-11-15",
+            "releaseVersion": "22000.1281",
+            "updateUrl": "https://support.microsoft.com/help/5019157"
+        },
+        "KB5019961": {
+            "heading": "November 8, 2022&#x2014;KB5019961 (OS Build 22000.1219)",
+            "releaseDate": "2022-11-08",
+            "releaseVersion": "22000.1219",
+            "updateUrl": "https://support.microsoft.com/help/5019961"
+        },
         "KB5020387": {
             "heading": "October 17, 2022&#x2014;KB5020387 (OS Build 22000.1100) Out-of-band",
             "releaseDate": "2022-10-17",
@@ -199,6 +211,12 @@
             "releaseDate": "2022-10-18",
             "releaseVersion": "22621.675",
             "updateUrl": "https://support.microsoft.com/help/5019509"
+        },
+        "KB5019980": {
+            "heading": "November 8, 2022&#x2014;KB5019980 (OS Build 22621.819)",
+            "releaseDate": "2022-11-08",
+            "releaseVersion": "22621.819",
+            "updateUrl": "https://support.microsoft.com/help/5019980"
         }
     },
     "1709": {
@@ -1867,11 +1885,23 @@
             "releaseVersion": "17763.3532",
             "updateUrl": "https://support.microsoft.com/help/5018419"
         },
+        "KB5019966": {
+            "heading": "November 8, 2022&#x2014;KB5019966 (OS Build 17763.3650)",
+            "releaseDate": "2022-11-08",
+            "releaseVersion": "17763.3650",
+            "updateUrl": "https://support.microsoft.com/help/5019966"
+        },
         "KB5020438": {
             "heading": "October 17, 2022&#x2014;KB5020438 (OS Build 17763.3534) Out-of-band",
             "releaseDate": "2022-10-17",
             "releaseVersion": "17763.3534",
             "updateUrl": "https://support.microsoft.com/help/5020438"
+        },
+        "KB5021655": {
+            "heading": "November 17, 2022&#x2014;KB5021655 (OS Build 17763.3653) Out-of-band",
+            "releaseDate": "2022-11-17",
+            "releaseVersion": "17763.3653",
+            "updateUrl": "https://support.microsoft.com/help/5021655"
         }
     },
     "1903": {
@@ -2994,6 +3024,28 @@
             "releaseVersion": "19042.2193",
             "updateUrl": "https://support.microsoft.com/help/5018482"
         },
+        "KB5019959": {
+            "heading": "November 8, 2022&#x2014;KB5019959 (OS Builds 19042.2251, 19043.2251, 19044.2251, and 19045.2251)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2022-11-08",
+            "releaseVersion": "19042.2251",
+            "updateUrl": "https://support.microsoft.com/help/5019959"
+        },
+        "KB5020030": {
+            "heading": "November 15, 2022&#x2014;KB5020030 (OS Builds 19042.2311, 19043.2311, 19044.2311, and 19045.2311) Preview",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2022-11-15",
+            "releaseVersion": "19042.2311",
+            "updateUrl": "https://support.microsoft.com/help/5020030"
+        },
         "KB5020435": {
             "heading": "October 17, 2022&#x2014;KB5020435 (OS Builds 19042.2132, 19043.2132, and 19044.2132) Out-of-band",
             "otherWindowsVersions": [
@@ -3003,6 +3055,17 @@
             "releaseDate": "2022-10-17",
             "releaseVersion": "19042.2132",
             "updateUrl": "https://support.microsoft.com/help/5020435"
+        },
+        "KB5020953": {
+            "heading": "October 28, 2022&#x2014;KB5020953 (OS Builds 19042.2194, 19043.2194, 19044.2194, and 19045.2194) Out-of-band",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2",
+                "22H2"
+            ],
+            "releaseDate": "2022-10-28",
+            "releaseVersion": "19042.2194",
+            "updateUrl": "https://support.microsoft.com/help/5020953"
         }
     }
 }
