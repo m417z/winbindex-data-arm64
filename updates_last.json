@@ -78,6 +78,12 @@
             "releaseVersion": "22000.613",
             "updateUrl": "https://support.microsoft.com/help/5012592"
         },
+        "KB5012643": {
+            "heading": "April 25, 2022&#x2014;KB5012643 (OS Build 22000.652) Preview",
+            "releaseDate": "2022-04-25",
+            "releaseVersion": "22000.652",
+            "updateUrl": "https://support.microsoft.com/help/5012643"
+        },
         "KB5013943": {
             "heading": "May 10, 2022&#x2014;KB5013943 (OS Build 22000.675)",
             "releaseDate": "2022-05-10",
@@ -143,6 +149,12 @@
             "releaseDate": "2022-09-20",
             "releaseVersion": "22000.1042",
             "updateUrl": "https://support.microsoft.com/help/5017383"
+        },
+        "KB5018418": {
+            "heading": "October 11, 2022&#x2014;KB5018418 (OS Build 22000.1098)",
+            "releaseDate": "2022-10-11",
+            "releaseVersion": "22000.1098",
+            "updateUrl": "https://support.microsoft.com/help/5018418"
         }
     },
     "11-22H2": {
@@ -151,6 +163,12 @@
             "releaseDate": "2022-09-30",
             "releaseVersion": "22621.608",
             "updateUrl": "https://support.microsoft.com/help/5017389"
+        },
+        "KB5018427": {
+            "heading": "October 11, 2022&#x2014;KB5018427 (OS Build 22621.674)",
+            "releaseDate": "2022-10-11",
+            "releaseVersion": "22621.674",
+            "updateUrl": "https://support.microsoft.com/help/5018427"
         },
         "KB5019311": {
             "heading": "September 27, 2022&#x2014;KB5019311 (OS Build 22621.525) Out-of-band",
@@ -1824,6 +1842,12 @@
             "releaseDate": "2022-10-11",
             "releaseVersion": "17763.3532",
             "updateUrl": "https://support.microsoft.com/help/5018419"
+        },
+        "KB5020438": {
+            "heading": "October 17, 2022&#x2014;KB5020438 (OS Build 17763.3534) Out-of-band",
+            "releaseDate": "2022-10-17",
+            "releaseVersion": "17763.3534",
+            "updateUrl": "https://support.microsoft.com/help/5020438"
         }
     },
     "1903": {
@@ -2925,6 +2949,26 @@
             "releaseDate": "2022-09-20",
             "releaseVersion": "19042.2075",
             "updateUrl": "https://support.microsoft.com/help/5017380"
+        },
+        "KB5018410": {
+            "heading": "October 11, 2022&#x2014;KB5018410 (OS Builds 19042.2130, 19043.2130, and 19044.2130)",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-10-11",
+            "releaseVersion": "19042.2130",
+            "updateUrl": "https://support.microsoft.com/help/5018410"
+        },
+        "KB5020435": {
+            "heading": "October 17, 2022&#x2014;KB5020435 (OS Builds 19042.2132, 19043.2132, and 19044.2132) Out-of-band",
+            "otherWindowsVersions": [
+                "21H1",
+                "21H2"
+            ],
+            "releaseDate": "2022-10-17",
+            "releaseVersion": "19042.2132",
+            "updateUrl": "https://support.microsoft.com/help/5020435"
         }
     }
 }
