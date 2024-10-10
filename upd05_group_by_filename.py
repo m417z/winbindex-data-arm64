@@ -340,29 +340,7 @@ def add_file_info_from_update(data, *,
     if 'updateInfo' not in x:
         x['updateInfo'] = update_info
     else:
-        # Temporary. TODO: remove.
-        if x['updateInfo'] == {
-            'heading': (
-                'October 28, 2022&#x2014;KB5020953 (OS Builds 19042.2194, 19043.2194,'
-                ' and 19044.2194) Out-of-band'
-            ),
-            'otherWindowsVersions': ['21H1', '21H2'],
-            'releaseDate': '2022-10-28',
-            'releaseVersion': '19042.2194',
-            'updateUrl': 'https://support.microsoft.com/help/5020953',
-        } and update_info == {
-            'heading': (
-                'October 28, 2022&#x2014;KB5020953 (OS Builds 19042.2194, 19043.2194,'
-                ' 19044.2194, and 19045.2194) Out-of-band'
-            ),
-            'otherWindowsVersions': ['21H1', '21H2', '22H2'],
-            'releaseDate': '2022-10-28',
-            'releaseVersion': '19042.2194',
-            'updateUrl': 'https://support.microsoft.com/help/5020953',
-        }:
-            x['updateInfo'] = update_info
-        else:
-            assert x['updateInfo'] == update_info
+        assert x['updateInfo'] == update_info
 
     x = x.setdefault('assemblies', {})
     x = x.setdefault(manifest_name, {})
