@@ -2,31 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"geolocation.dll",
-"35018a5fd38098ffba7cda3a10ac0bcf7fc33a5ec7e6277d1c30b113bbbdf6ea"
-],
-[
-"iertutil.dll",
-"7d220a1358e5076abc09fcae5095ed240962b37e6f90c7c7fbdfca94b7bd054a"
-],
-[
-"ieunatt.exe",
-"abf169ca19c1402c3af5bfc51990df95d12c4c5034951cfbf63679fa40aca3a4"
-],
-[
-"ntdll.dll",
-"3c555c1f10a2c8ff7b90f9fa7bcac72948db25443a19bb48db7f4add3aba5ed9"
-],
-[
-"searchprotocolhost.exe",
-"7204eac9ae1d944db44f54f3b74b2740be680ded1153c33ec70f04f23f7caaf5"
-],
-[
-"updatedeploy.dll",
-"6a6fe79d7289d0cb5a0b63dcb32d24a59f16652462ed16d85d516096a8d7681b"
-]
-],
+"retry": [],
 "updates": null
 }
