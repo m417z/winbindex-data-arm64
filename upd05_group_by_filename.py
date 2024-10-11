@@ -170,36 +170,7 @@ def assert_file_info_close_enough(file_info_1, file_info_2):
     file_info_1 = canonical_file_info(file_info_1)
     file_info_2 = canonical_file_info(file_info_2)
 
-    # assert file_info_1.keys() - {'signingDate'} == file_info_2.keys() - {'signingDate'}, (file_info_1, file_info_2)
-
-    # temp {
-    if file_info_1.keys() - {'signingDate'} != file_info_2.keys() - {'signingDate'}:
-        if file_info_1['sha256'] not in [
-            # rdpnano.dll
-            '7176609b6566e8a0b89ba9cbe11885c1671e5f52d8faebb6311228462338fb77',
-            '9fa5702259410c1db7dcbfd6df2ef912f8983be2849b6b812b73f64425761343',
-            '151db3fc124b84f8242405c77f61e292ba048b6e45582b672184b7fbc121ea57',
-            '53613af87c69d61bc9acfb1a922d5073cc99541c8b621cc0286340baa46ce3db',
-            'e4896c48fb58b2f442d276978f4c23f386a1f4279650c1dd81f291c3974d9593',
-
-            # msttsengine_onecore.dll
-            'bffbe22ee6a60b2937ec0000c211d01f05fb7d74cddb7b58fea1ba4c6288bd15',
-            '42841fa76a617cf6844bc6633cb39ded4e44618c10dc8901986797d9d8ce5d84',
-
-            # msttsloc_onecore.dll
-            'fa549bc04592a7dfbfaaaa7b29f454ab2d008733c54be029e74b17e5c3ef370d',
-            'e7e5b66090eb9238946024db9596c3f2082db4e78055190de632e9dd366547be',
-            '42bc1acd8dbea042e4a618cd819ded0972487a8d61eb03a5efa3d58e77c7272c',
-            '8c29ff4fb5c5ca3e56556bf3c9acf97c11289eb61fa626ffffdc4022f87c07ac',
-            'b909d09a16b2e1ae8bbef6b7a33b4db8847f3d4f487f00f7a00e047d58200042',
-
-            # dsreg.dll
-            'a3d43bed63b163649155ccabca6daf07e19100fe31764f350b34707614f9b4ef',
-        ]:
-            assert file_info_1.keys() - {'signingDate'} == file_info_2.keys() - {'signingDate'}, (file_info_1, file_info_2)
-        else:
-            assert file_info_1.keys() - {'signingDate', 'version', 'description'} == file_info_2.keys() - {'signingDate', 'version', 'description'}, (file_info_1, file_info_2)
-    # }
+    assert file_info_1.keys() - {'signingDate'} == file_info_2.keys() - {'signingDate'}, (file_info_1, file_info_2)
 
     for key in file_info_1.keys() - {'signingStatus', 'signingDate'}:
         assert file_info_1[key] == file_info_2[key], (file_info_1, file_info_2)
