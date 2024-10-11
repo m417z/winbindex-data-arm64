@@ -339,8 +339,8 @@ def add_file_info_from_update(data, *,
 
     if 'updateInfo' not in x or (
         # Temporary. TODO: remove.
-        x['updateInfo'] == {'heading': 'January 26, 2023&#x2014;KB5022360 (OS Build 22621.1194) Preview ', 'releaseDate': '2023-01-26', 'releaseVersion': '22621.1194', 'updateUrl': 'https://support.microsoft.com/help/5022360'}
-        and update_info == {'heading': 'January 26, 2023&#x2014;KB5022360 (OS Build 22621.1194) Preview', 'releaseDate': '2023-01-26', 'releaseVersion': '22621.1194', 'updateUrl': 'https://support.microsoft.com/help/5022360'}
+        x['updateInfo'] == {'heading': 'October 26, 2023&#x2014;KB5031455 (OS Build 22621.2506) Preview', 'releaseDate': '2023-10-26', 'releaseVersion': '22621.2506', 'updateUrl': 'https://support.microsoft.com/help/5031455'}
+        and update_info == {'heading': 'October 31, 2023&#x2014;KB5031455 (OS Builds 22621.2506 and 22631.2506) Preview', 'otherWindowsVersions': ['11-23H2'], 'releaseDate': '2023-10-31', 'releaseVersion': '22621.2506', 'updateUrl': 'https://support.microsoft.com/help/5031455'}
     ):
         x['updateInfo'] = update_info
     else:
