@@ -5,7 +5,15 @@
 "ad04782b8c4a948c4848698a3cdd5f55e59c6702b0ace9ace0725d1f9112dd8c"
 ],
 "pending": {},
-"retry": [],
+"retry": [
+    ["rdpnano.dll","9fa5702259410c1db7dcbfd6df2ef912f8983be2849b6b812b73f64425761343"],
+    ["rdpnano.dll","151db3fc124b84f8242405c77f61e292ba048b6e45582b672184b7fbc121ea57"],
+    ["rdpnano.dll","53613af87c69d61bc9acfb1a922d5073cc99541c8b621cc0286340baa46ce3db"],
+    ["rdpnano.dll","e4896c48fb58b2f442d276978f4c23f386a1f4279650c1dd81f291c3974d9593"]
+    ,
+    ["msttsloc_onecore.dll","8c29ff4fb5c5ca3e56556bf3c9acf97c11289eb61fa626ffffdc4022f87c07ac"],
+    ["msttsloc_onecore.dll","b909d09a16b2e1ae8bbef6b7a33b4db8847f3d4f487f00f7a00e047d58200042"]
+],
 "updates": [
 "KB4043961",
 "KB4052314",
