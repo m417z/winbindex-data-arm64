@@ -213,29 +213,6 @@ def update_file_info(existing_file_info, new_file_info, new_file_info_source):
     if new_file_info is None:
         return existing_file_info
 
-    # temp {
-    sha256 = new_file_info.get('sha256')
-    if sha256 in [
-        '9fa5702259410c1db7dcbfd6df2ef912f8983be2849b6b812b73f64425761343',
-        '151db3fc124b84f8242405c77f61e292ba048b6e45582b672184b7fbc121ea57',
-        '53613af87c69d61bc9acfb1a922d5073cc99541c8b621cc0286340baa46ce3db',
-        'e4896c48fb58b2f442d276978f4c23f386a1f4279650c1dd81f291c3974d9593',
-        '8c29ff4fb5c5ca3e56556bf3c9acf97c11289eb61fa626ffffdc4022f87c07ac',
-        'b909d09a16b2e1ae8bbef6b7a33b4db8847f3d4f487f00f7a00e047d58200042',
-    ]:
-        assert sha256 == existing_file_info['sha256']
-        if new_file_info == existing_file_info:
-            return existing_file_info
-
-        assert 'version' not in existing_file_info
-        assert 'description' not in existing_file_info
-        assert new_file_info == existing_file_info | {
-            'version': new_file_info['version'],
-            'description': new_file_info['description'],
-        }
-        return new_file_info
-    # }
-
     assert_file_info_close_enough(existing_file_info, new_file_info)
 
     if new_file_info_source == 'iso':
