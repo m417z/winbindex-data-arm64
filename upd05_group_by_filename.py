@@ -213,6 +213,24 @@ def update_file_info(existing_file_info, new_file_info, new_file_info_source):
     if new_file_info is None:
         return existing_file_info
 
+    # temp {
+    sha256 = new_file_info.get('sha256')
+    if sha256 in [
+        'd12b4a5e31db3752bf6a5324da9219ff06d4e004c9d25cb39eb99cde5aa54d8e',
+    ]:
+        assert sha256 == existing_file_info['sha256']
+        if new_file_info == existing_file_info:
+            return existing_file_info
+
+        assert 'version' not in existing_file_info
+        assert 'description' not in existing_file_info
+        assert new_file_info == existing_file_info | {
+            'version': new_file_info['version'],
+            'description': new_file_info['description'],
+        }
+        return new_file_info
+    # }
+
     assert_file_info_close_enough(existing_file_info, new_file_info)
 
     if new_file_info_source == 'iso':
