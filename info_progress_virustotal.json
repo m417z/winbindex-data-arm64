@@ -1,14 +1,14 @@
 {
 "next": null,
 "next_updates": [
-"mpazsubmit.dll",
-"592c1007e1a8159ef697d674727c4ba6f589850ff7982adba723279810c53d89"
+"onecoreuapcommonproxystub.dll",
+"faff4f57930fbb60a4e79cea7853dd4aecf980ddedea79eeecf9b2d93451586a"
 ],
 "pending": {},
 "retry": [
 [
-"miracastreceiver.dll",
-"d12b4a5e31db3752bf6a5324da9219ff06d4e004c9d25cb39eb99cde5aa54d8e"
+"odbc32.dll",
+"5ba7cba6aa279fc0b9f03c8c01a96c4bdda99eb0b37dc4beedc34a67bd6edd54"
 ]
 ],
 "updates": [
