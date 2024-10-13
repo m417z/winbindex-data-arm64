@@ -1,11 +1,16 @@
 {
 "next": null,
 "next_updates": [
-"installservicetasks.dll",
-"7cfd7584e064d5c2295d46f5f3d429990c95be8f24fe8701e143a2dd1e23c17a"
+"mpazsubmit.dll",
+"592c1007e1a8159ef697d674727c4ba6f589850ff7982adba723279810c53d89"
 ],
 "pending": {},
-"retry": [],
+"retry": [
+[
+"miracastreceiver.dll",
+"d12b4a5e31db3752bf6a5324da9219ff06d4e004c9d25cb39eb99cde5aa54d8e"
+]
+],
 "updates": [
 "KB4043961",
 "KB4052314",
