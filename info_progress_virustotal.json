@@ -1,16 +1,11 @@
 {
 "next": null,
 "next_updates": [
-"onecoreuapcommonproxystub.dll",
-"faff4f57930fbb60a4e79cea7853dd4aecf980ddedea79eeecf9b2d93451586a"
+"storageusage.dll",
+"0b77739b4d6fb4b74ed4e9c903e4e381c0ae5877ae64de429726c265514b592a"
 ],
 "pending": {},
-"retry": [
-[
-"odbc32.dll",
-"5ba7cba6aa279fc0b9f03c8c01a96c4bdda99eb0b37dc4beedc34a67bd6edd54"
-]
-],
+"retry": [],
 "updates": [
 "KB4043961",
 "KB4052314",
