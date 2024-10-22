@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"winnat.sys",
-"d646e1dec86b915d47814a786864989aa9be811558ec65a63cd756db7fef487f"
-]
-],
+"retry": [],
 "updates": null
 }
