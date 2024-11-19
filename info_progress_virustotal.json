@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"icm32.dll",
+"3f81e98c86e9572d799f098c20f441a70dcffebd7604227e1f013153f3b77038"
+],
+[
+"wmiutils.dll",
+"2ebe566c98df7665e38b0b3915d6b8e65e82502866cd68b83e7f609638c5477c"
+]
+],
 "updates": null
 }
