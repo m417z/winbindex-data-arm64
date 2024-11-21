@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"cldflt.sys",
+"f211563783279c00cb779768edc159752f2c216ac8f859148b208abd4dd80e45"
+],
+[
+"hvservice.sys",
+"7b889d4cdcd3cc5f9ccb46e6982f8d84d943c00a6ec9569017622c90feb52719"
+]
+],
 "updates": null
 }
