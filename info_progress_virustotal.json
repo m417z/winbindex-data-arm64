@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"wuaucltcore.exe",
+"3e62ba9b1545c51d3806d94c514ae4697ebc3bfbc769725cb66658faf6b9e6b5"
+]
+],
 "updates": null
 }
