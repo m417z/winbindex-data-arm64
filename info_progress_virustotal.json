@@ -4,8 +4,24 @@
 "pending": {},
 "retry": [
 [
-"wuaucltcore.exe",
-"3e62ba9b1545c51d3806d94c514ae4697ebc3bfbc769725cb66658faf6b9e6b5"
+"aadtb.dll",
+"c3f22f432ad89c05ec220d89de8113bfce04b2532621d634445981fa5d7bd520"
+],
+[
+"windows.globalization.dll",
+"2e4552f6effcd22ea3ac98a04be6e547871bc7d5d2de72846975293bee10fef9"
+],
+[
+"windows.storage.search.dll",
+"8a0365669ef6defe778744f16d876323531bb49978bf828cc2391e34995a461e"
+],
+[
+"windows.ui.dll",
+"eaaedaac4feb5d048ba4b7964c8795e9d97d37b40983f75c077b4a4966dbf4c3"
+],
+[
+"windowsudk.shellcommon.dll",
+"a208aa0db96eefb5541ac9d000e1f1fbe4a0ae942279febefe7b6068f50e2bd9"
 ]
 ],
 "updates": null
