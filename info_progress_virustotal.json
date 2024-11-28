@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"netsetupsvc.dll",
-"7cfe22417f5e5abe22b4626b60a390d12797698aee7ba7ed6f1020f9ad3624af"
-]
-],
+"retry": [],
 "updates": null
 }
