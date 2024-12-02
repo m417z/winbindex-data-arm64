@@ -2,6 +2,11 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"basecsp.dll",
+"d6a3ea2acba2224c8e25565968bab070941ead2746b9c933914af00388e1982d"
+]
+],
 "updates": null
 }
