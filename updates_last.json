@@ -4079,6 +4079,15 @@
             "releaseDate": "2024-11-12",
             "releaseVersion": "19044.5131",
             "updateUrl": "https://support.microsoft.com/help/5046613"
+        },
+        "KB5048652": {
+            "heading": "December 10, 2024&#x2014;KB5048652 (OS Builds 19044.5247 and 19045.5247)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2024-12-10",
+            "releaseVersion": "19044.5247",
+            "updateUrl": "https://support.microsoft.com/help/5048652"
         }
     },
     "22H2": {
