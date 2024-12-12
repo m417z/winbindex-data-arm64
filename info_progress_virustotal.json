@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"containerworker.exe",
-"e881b39b71234a422b19b8aa9c2200464d1b478740630d77447f5917020c248d"
-]
-],
+"retry": [],
 "updates": null
 }
