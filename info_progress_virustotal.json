@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"credprovs.dll",
+"eb7aeec4a0ac16b8dfc58a54d09f53f2e330620f434a9d57356056ff7c97cfd9"
+],
+[
+"gameinputsvc.exe",
+"5878afc9ece97cf3335b69659a4023e3848dd6266e84d36d40134ea5d6cba78a"
+]
+],
 "updates": null
 }
