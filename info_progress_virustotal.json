@@ -2,6 +2,27 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"dmwappushsvc.dll",
+"1d47b47f808be806ee3405fe0f2c1682c1a5d3934485e549c588ecafdd416855"
+],
+[
+"lmhsvc.dll",
+"521f005381c57652063075ee037af460c6af1b3cd59ed9193760b5f0dee38f09"
+],
+[
+"ncasvc.dll",
+"f6ff75351e8ab9ef7bdd9466faba62521b58715b7f0a645c0376e7112592a320"
+],
+[
+"tsworkspace.dll",
+"cd65b0009e5c1689fc5d2576b32ef5dbe97681082e87f587abc967bf83ba74ba"
+],
+[
+"ucrtbase.dll",
+"a245ae66a53fc8a70a354f587d2e43306fa592147ae3ca29db4ea8c13b24ca2b"
+]
+],
 "updates": null
 }
