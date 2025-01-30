@@ -4,24 +4,8 @@
 "pending": {},
 "retry": [
 [
-"compact.exe",
-"35c60ddb6c7b8dd067d3224f0cbc58b96a3ba29966745edfb2d11118bce6533d"
-],
-[
-"imesearch.exe",
-"5c750370eba989f3e73c52242445d020fe9b6b850daf9871e01aee99506c04fe"
-],
-[
-"inputswitchtoasthandler.exe",
-"aae39459456a634b13d69d4a1268611dde31064e25889d9181a7e0d3bcaf1359"
-],
-[
-"mcbuilder.exe",
-"50642d21b79816b983b9a6c0c2c1338cdd18eb47fb8acdc1e9a7fc816cd7c366"
-],
-[
-"searchprotocolhost.exe",
-"bc9e14760d12a491e59b406910e695725bfa9a9bc3ec4b9fc3c5eb039ca8dd08"
+"openwith.exe",
+"d9fa8f52e3c72ccf6c6075d3d823325e88cb7279b7873655330b93f1fd9618dc"
 ]
 ],
 "updates": null

@@ -787,6 +787,15 @@
             "releaseDate": "2025-01-14",
             "releaseVersion": "22621.4751",
             "updateUrl": "https://support.microsoft.com/help/5050021"
+        },
+        "KB5050092": {
+            "heading": "January 29, 2025&#x2014;KB5050092 (OS Builds 22621.4830 and 22631.4830) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-01-29",
+            "releaseVersion": "22621.4830",
+            "updateUrl": "https://support.microsoft.com/help/5050092"
         }
     },
     "11-24H2": {
