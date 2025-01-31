@@ -4,8 +4,20 @@
 "pending": {},
 "retry": [
 [
-"openwith.exe",
-"d9fa8f52e3c72ccf6c6075d3d823325e88cb7279b7873655330b93f1fd9618dc"
+"rdpcredentialprovider.dll",
+"056189c56d7acf72191c9addd29b89ce65f3e10914c0e44db1dfe295f3c3ca9c"
+],
+[
+"shdocvw.dll",
+"bc637f2bd70c855e1ab0a90545df8237819ccb2c81c4d5f45eca26ec0c8c68a7"
+],
+[
+"smartactionplatform.dll",
+"2738f71de11cebdaca2dccfb205f886cc60262a5d51588341a2e1c8b07274c42"
+],
+[
+"tabsvc.dll",
+"f4a3270c25cbc2efdce4007a0867335d9bfd76ae67daf1c4a8b09e092d0a6214"
 ]
 ],
 "updates": null
