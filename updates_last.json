@@ -796,6 +796,15 @@
             "releaseDate": "2025-01-29",
             "releaseVersion": "22621.4830",
             "updateUrl": "https://support.microsoft.com/help/5050092"
+        },
+        "KB5051989": {
+            "heading": "February 11, 2025&#x2014;KB5051989 (OS Builds 22621.4890 and 22631.4890)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-02-11",
+            "releaseVersion": "22621.4890",
+            "updateUrl": "https://support.microsoft.com/help/5051989"
         }
     },
     "11-24H2": {
@@ -888,6 +897,12 @@
             "releaseDate": "2025-01-28",
             "releaseVersion": "26100.3037",
             "updateUrl": "https://support.microsoft.com/help/5050094"
+        },
+        "KB5051987": {
+            "heading": "February 11, 2025&#x2014;KB5051987 (OS Build 26100.3194)",
+            "releaseDate": "2025-02-11",
+            "releaseVersion": "26100.3194",
+            "updateUrl": "https://support.microsoft.com/help/5051987"
         }
     },
     "1709": {
@@ -4142,6 +4157,15 @@
             "releaseDate": "2025-01-14",
             "releaseVersion": "19044.5371",
             "updateUrl": "https://support.microsoft.com/help/5049981"
+        },
+        "KB5051974": {
+            "heading": "February 11, 2025&#x2014;KB5051974 (OS Builds 19044.5487 and 19045.5487)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-02-11",
+            "releaseVersion": "19044.5487",
+            "updateUrl": "https://support.microsoft.com/help/5051974"
         }
     },
     "22H2": {
