@@ -2,11 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"windows.foundation.winmd",
-"5357a1fdd1d9dc29530f64ae28d895b58abd78828afcad0f4d87832f8330bcc9"
-]
-],
+"retry": [],
 "updates": null
 }
