@@ -2,43 +2,6 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"ole32.dll",
-"cf6ba566dd82a5b6f85245b5ebf60ed279f2456745f509b7db37577b02bf971c"
-],
-[
-"oleaut32.dll",
-"617c35a8a922a767dc74f103cdd99e5f7d2ec1e9cf05f8f776ab6be57ebfc90b"
-],
-[
-"pcasvc.dll",
-"f6052c6141f9f73a14f8b3bf27518bcd3f784e400854be94fbf106a70707bb5e"
-],
-[
-"psmsrv.dll",
-"0904f5d4fa040fb11157a174c0327610b84537bb64899fd4e57ec2a946b5b558"
-],
-[
-"sechost.dll",
-"fd9ad409bff7d6599f427b56bd388c1206d81770b21d13af2ad180d254b8ab2f"
-],
-[
-"shcore.dll",
-"251a3a61c0c2cc14ab871600076ccbfec85927be2b083f1f0e44e09317422a00"
-],
-[
-"shell32.dll",
-"dd361d39555d9adc5b7351f4c37a06d1b2511e20c3579ee41301967bb9ee2bfd"
-],
-[
-"stobject.dll",
-"3e1501406de5e7fab9d0f25e9bb3665becac1cde65c9407971da5a56723eedbc"
-],
-[
-"twext.dll",
-"f2806e69726351c3b3745a232648a32d1e52bc386181841c9ae7e4dad5248fbf"
-]
-],
+"retry": [],
 "updates": null
 }
