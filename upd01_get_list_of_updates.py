@@ -228,12 +228,13 @@ def get_updates_from_release_health_for_version(windows_major_version, url):
             r'<td>(.*?)</td>\s*'
             r'<td>(.*?)</td>\s*'
             r'<td>(.*?)</td>\s*'
+            r'<td>(.*?)</td>\s*'
             r'</tr>'
         )
         update_row_match = re.findall(p, updates_table)
 
         windows_version_updates = {}
-        for servicing_option, availability_date, os_build, kb_article in update_row_match:
+        for servicing_option, update_type, availability_date, os_build, kb_article in update_row_match:
             if kb_article == '':
                 continue
 
