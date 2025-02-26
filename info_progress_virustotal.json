@@ -2,9 +2,19 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
-"updates": [
-"KB5052077",
-"KB5052094"
+"retry": [
+[
+"explorer.exe",
+"6a7044af3dc433f5e813ee341febe7e010b200751f32185c37505c5384c6e7b1"
+],
+[
+"mmc.exe",
+"613f56ec795dea8e9806c6ae197061302640e485e4bfba78b6070caf8839c08f"
+],
+[
+"taskmgr.exe",
+"614e517e26a10d57877fa2fd3fb1ff868a3c8c5eb91ca80ed1e6a4bcf3e4f451"
 ]
+],
+"updates": null
 }

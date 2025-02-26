@@ -912,6 +912,12 @@
             "releaseDate": "2025-02-11",
             "releaseVersion": "26100.3194",
             "updateUrl": "https://support.microsoft.com/help/5051987"
+        },
+        "KB5052093": {
+            "heading": "February 25, 2025&#x2014;KB5052093 (OS Build 26100.3323) Preview",
+            "releaseDate": "2025-02-25",
+            "releaseVersion": "26100.3323",
+            "updateUrl": "https://support.microsoft.com/help/5052093"
         }
     },
     "1709": {
