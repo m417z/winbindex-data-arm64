@@ -2,6 +2,15 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"bfsvc.dll",
+"633b4abba29449de42100bbca47b5774c821e58341d53b456acb8fafb5f00912"
+],
+[
+"fastprox.dll",
+"2d5324f87420bf8e2ce7d6d76b0a1431a93b4fada64bd456f6d36ac4e43ce641"
+]
+],
 "updates": null
 }
