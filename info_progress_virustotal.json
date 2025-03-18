@@ -2,6 +2,31 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"agentactivationruntime.dll",
+"3941cbb2d859d3e951860197ea17068f923ded87d81c1c29de02905b8fd641cc"
+],
+[
+"microsoft.windows.management.deployment.winmd",
+"2ab5676fe3d652ec44db6f6c4fab1ce874fd830e42a41a35a5d4e23f7b9feb2c"
+],
+[
+"microsoft.windows.security.accesscontrol.winmd",
+"15e19642d69a45d752e58089669a873f1c18b4a628ec55ffdb1ceff07bae0f45"
+],
+[
+"ps5ui.dll",
+"298cea6e687c7b5ebb9d7d60baa42cbfac49bc731af42921930cf7b050e68239"
+],
+[
+"pscript5.dll",
+"87a805b35a9152988fd45c71b33c94102de18b16c34ed14b5a65a8886b08e300"
+],
+[
+"windows.media.winmd",
+"3d33525335c582a495d85701bba7cbd44d1d637c8ddfa5f8bcfb966bcbe250ad"
+]
+],
 "updates": null
 }
