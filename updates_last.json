@@ -4333,6 +4333,12 @@
             "releaseDate": "2025-02-25",
             "releaseVersion": "19045.5555",
             "updateUrl": "https://support.microsoft.com/help/5052077"
+        },
+        "KB5053643": {
+            "heading": "March 25, 2025&#x2014;KB5053643 (OS Build 19045.5679) Preview",
+            "releaseDate": "2025-03-25",
+            "releaseVersion": "19045.5679",
+            "updateUrl": "https://support.microsoft.com/help/5053643"
         }
     }
 }
