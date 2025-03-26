@@ -823,6 +823,15 @@
             "releaseDate": "2025-03-11",
             "releaseVersion": "22621.5039",
             "updateUrl": "https://support.microsoft.com/help/5053602"
+        },
+        "KB5053657": {
+            "heading": "March 25, 2025&#x2014;KB5053657 (OS Builds 22621.5126 and 22631.5126) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-03-25",
+            "releaseVersion": "22621.5126",
+            "updateUrl": "https://support.microsoft.com/help/5053657"
         }
     },
     "11-24H2": {
