@@ -4,8 +4,8 @@
 "pending": {},
 "retry": [
 [
-"dsreg.dll",
-"5444b0804908e26f2a7465a797a81d97835ac76f5568f942e98282b13cd0a010"
+"dcsvc.dll",
+"f1d318d9505dd24e4bf0f62c19c120b2b033dd941d741af38e993ac93a2d63c8"
 ],
 [
 "vc_redist.arm64.exe",
