@@ -53,7 +53,11 @@ delta_data_without_rift_table_names = {
 delta_data_without_rift_table_manifests = {
     'arm64_microsoft-nxt-boottocloud-windows365-app_*',
 }
-delta_data_without_rift_table_hashes = set()
+delta_data_without_rift_table_hashes = {
+    # Microsoft.GroupPolicy.Interop.dll
+    # arm64_microsoft.grouppolicy.interop_31bf3856ad364e35_10.0.26100.3624_none_5d89a5346d2721f0.manifest
+    '6002a1cca83236256f0a76a7aa1c95a35a318cf4acf21a9d9718adefce79e8ee',
+}
 
 # Non-PE files (very rare).
 file_hashes_non_pe = {
