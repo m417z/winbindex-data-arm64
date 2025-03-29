@@ -2,6 +2,19 @@
 "next": null,
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"dsreg.dll",
+"5444b0804908e26f2a7465a797a81d97835ac76f5568f942e98282b13cd0a010"
+],
+[
+"vc_redist.arm64.exe",
+"8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
+],
+[
+"windows.applicationmodel.dll",
+"b0c6fd377be4e2baaddcec2cacc37d3568b4d8e14944850511dff81f5fee92c0"
+]
+],
 "updates": null
 }

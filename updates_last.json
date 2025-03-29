@@ -942,6 +942,12 @@
             "releaseDate": "2025-03-11",
             "releaseVersion": "26100.3476",
             "updateUrl": "https://support.microsoft.com/help/5053598"
+        },
+        "KB5053656": {
+            "heading": "March 27, 2025&#x2014;KB5053656 (OS Build 26100.3624) Preview",
+            "releaseDate": "2025-03-27",
+            "releaseVersion": "26100.3624",
+            "updateUrl": "https://support.microsoft.com/help/5053656"
         }
     },
     "1709": {
