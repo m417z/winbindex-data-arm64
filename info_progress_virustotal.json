@@ -4,16 +4,8 @@
 "pending": {},
 "retry": [
 [
-"cryptsp.dll",
-"f777f77657d1aa689f653b9e3d53357d522d2b8b2b719dc91ba793703e6d35b2"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
-],
-[
-"w32tm.exe",
-"5cdf4de85a3852510781180df974fea233dcb3183eb9b9349d9ddbea918af8dd"
 ]
 ],
 "updates": null
