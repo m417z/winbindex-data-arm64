@@ -4,6 +4,14 @@
 "pending": {},
 "retry": [
 [
+"fsutilext.dll",
+"8e1505bcae585af2d2939ada206edbc0847452498db16e12395f2f57c7997f72"
+],
+[
+"fwbase.dll",
+"6e65c1be765a3b900b9a246ecca4b0a03630a439724c488965fb5d0dcf6756fa"
+],
+[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
