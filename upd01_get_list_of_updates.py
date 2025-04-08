@@ -29,7 +29,12 @@ def consolidate_overlapping_updates(updates):
                 ], (update_kb, seen_windows_version, windows_version)
 
                 assert update['updateUrl'] == seen_update['updateUrl']
-                if update_kb not in ['KB5003173']:  # KB5003173 was released later for 21H1
+                if update_kb not in [
+                    # Different release dates:
+                    # - 2004, 20H2: 2021-05-11
+                    # - 21H1: 2021-05-18
+                    'KB5003173',
+                ]:
                     assert update['releaseDate'] == seen_update['releaseDate']
                 p = r'^\d+\.'
                 assert re.sub(p, '', update['releaseVersion']) == re.sub(p, '', seen_update['releaseVersion'])
@@ -109,6 +114,13 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
         assert windows_version not in all_updates
 
         # Specific title fixes.
+        if windows_version in '21H2':
+            # Likely a mistake, the page says build 19044.5737, and the release
+            # health page says so too.
+            updates_section = updates_section.replace(
+                'KB5055518 (OS Builds 19044.5736 and 19045.5736)',
+                'KB5055518 (OS Builds 19044.5737 and 19045.5737)')
+
         if windows_version in ['21H2', '21H1', '20H2']:
             updates_section = updates_section.replace('KB5012599(OS Builds', 'KB5012599 (OS Builds')
 
