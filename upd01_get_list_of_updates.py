@@ -37,7 +37,9 @@ def consolidate_overlapping_updates(updates):
                 ]:
                     assert update['releaseDate'] == seen_update['releaseDate']
                 p = r'^\d+\.'
-                assert re.sub(p, '', update['releaseVersion']) == re.sub(p, '', seen_update['releaseVersion'])
+                assert re.sub(p, '', update['releaseVersion']) == re.sub(p, '', seen_update['releaseVersion']), (
+                    update_kb, update['releaseVersion'], seen_update['releaseVersion']
+                )
 
                 if 'otherWindowsVersions' not in seen_update:
                     seen_update['otherWindowsVersions'] = []
@@ -114,6 +116,14 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
         assert windows_version not in all_updates
 
         # Specific title fixes.
+        if windows_version in '11-22H2':
+            # Likely a mistake, the page says build 22621.5189, and the release
+            # health page says so too.
+            # https://answers.microsoft.com/en-us/windows/forum/all/inconsistency-in-kb5055528-release-note-os-build/ea9d36a0-8a28-444f-819f-f50a4cd36c19
+            updates_section = updates_section.replace(
+                'KB5055528 (OS Builds 22621.5191 and 22631.5191)',
+                'KB5055528 (OS Builds 22621.5189 and 22631.5189)')
+
         if windows_version in '21H2':
             # Likely a mistake, the page says build 19044.5737, and the release
             # health page says so too.
