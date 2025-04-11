@@ -4,12 +4,8 @@
 "pending": {},
 "retry": [
 [
-"authz.dll",
-"d2ced72d0f6cb6dc1683174fa36652fafb39ec91576f3293d2c5c90a03d62a9c"
-],
-[
-"userinit.exe",
-"1c84538a023cbf642a04dc86a656fd9c2c118c900811b5d32378fb893c928811"
+"searchprotocolhost.exe",
+"f706ba892c5015f6a671a8af35f6f5351cb3efe7d505e16e140cac2dc25f3488"
 ],
 [
 "vc_redist.arm64.exe",
