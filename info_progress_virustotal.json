@@ -4,10 +4,6 @@
 "pending": {},
 "retry": [
 [
-"searchprotocolhost.exe",
-"f706ba892c5015f6a671a8af35f6f5351cb3efe7d505e16e140cac2dc25f3488"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
