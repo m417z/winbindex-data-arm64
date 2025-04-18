@@ -1,11 +1,15 @@
 {
 "next": [
-"speechmodeldownload.exe",
-"76d40deb2195de49cfd4d21fef011221585921515ab1b1b166ed40eba315c748"
+"acpi.sys",
+"1906e3eeb5cd92b3eebbb3ad326ae5e2798dc50aab114f5d5bec86b5368487fc"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
+[
+"usbmon.dll",
+"21ef2e21ecec84a4abab2fd4bb15e4b95773c294846201c74a766b4ac4858452"
+],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
