@@ -1,15 +1,11 @@
 {
 "next": [
-"hvsievaluator.exe",
-"ec0f1b4c658bc4f15fd0b35243f68583d30694772a1b92eb3788b5fe13b36451"
+"printconfig.dll",
+"b39882dd0c0cc8dd5ad3e6e6f1490807a74b122bd00b83825043e33c4e3a70f9"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"usbmon.dll",
-"21ef2e21ecec84a4abab2fd4bb15e4b95773c294846201c74a766b4ac4858452"
-],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
