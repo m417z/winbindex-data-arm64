@@ -842,6 +842,15 @@
             "releaseVersion": "22621.5189",
             "updateUrl": "https://support.microsoft.com/help/5055528"
         },
+        "KB5055629": {
+            "heading": "April 22, 2025&#x2014;KB5055629 (OS Builds 22621.5262 and 22631.5262) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-04-22",
+            "releaseVersion": "22621.5262",
+            "updateUrl": "https://support.microsoft.com/help/5055629"
+        },
         "KB5058919": {
             "heading": "April 11, 2025&#x2014;KB5058919 (OS Builds 22621.5192 and 22631.5192) Out-of-band",
             "otherWindowsVersions": [
