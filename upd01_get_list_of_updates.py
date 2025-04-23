@@ -116,7 +116,12 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
         assert windows_version not in all_updates
 
         # Specific title fixes.
-        if windows_version in '11-22H2':
+        if windows_version in ['11-23H2', '11-22H2']:
+            updates_section = updates_section.replace(
+                '(OS 22621.5262 and 22631.5262)',
+                '(OS Builds 22621.5262 and 22631.5262)')
+
+        if windows_version == '11-22H2':
             # Likely a mistake, the page says build 22621.5189, and the release
             # health page says so too.
             # https://answers.microsoft.com/en-us/windows/forum/all/inconsistency-in-kb5055528-release-note-os-build/ea9d36a0-8a28-444f-819f-f50a4cd36c19
@@ -124,7 +129,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 'KB5055528 (OS Builds 22621.5191 and 22631.5191)',
                 'KB5055528 (OS Builds 22621.5189 and 22631.5189)')
 
-        if windows_version in '21H2':
+        if windows_version == '21H2':
             # Likely a mistake, the page says build 19044.5737, and the release
             # health page says so too.
             updates_section = updates_section.replace(
@@ -152,7 +157,11 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
 
         p = r'<a class="supLeftNavLink" data-bi-slot="\d+" href="/en-us(/help/\d+)">((\w+) (\d+), (\d+) ?(?:&#x2014;|-) ?KB(\d{7})(?: Update for Windows 10 Mobile)? \(OS Builds? .+?\).*?)</a>'
         items = re.findall(p, updates_section)
-        assert len(items) == len(re.findall('<a ', updates_section))
+        assert len(items) == len(re.findall('<a ', updates_section)), (
+            len(items),
+            len(re.findall('<a ', updates_section)),
+            windows_version,
+        )
 
         windows_version_updates = {}
         windows_version_update_urls = []
