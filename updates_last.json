@@ -982,6 +982,12 @@
             "releaseVersion": "26100.3775",
             "updateUrl": "https://support.microsoft.com/help/5055523"
         },
+        "KB5055627": {
+            "heading": "April 25, 2025&#x2014;KB5055627 (OS Build 26100.3915) Preview",
+            "releaseDate": "2025-04-25",
+            "releaseVersion": "26100.3915",
+            "updateUrl": "https://support.microsoft.com/help/5055627"
+        },
         "KB5059087": {
             "releaseDate": "2025-04-16",
             "releaseVersion": "26100.3781",
