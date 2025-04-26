@@ -116,6 +116,9 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
         assert windows_version not in all_updates
 
         # Specific title fixes.
+        if windows_version == '11-24H2':
+            updates_section = updates_section.replace('KB5055627(OS Build', 'KB5055627 (OS Build')
+
         if windows_version in ['11-23H2', '11-22H2']:
             updates_section = updates_section.replace(
                 '(OS 22621.5262 and 22631.5262)',
@@ -157,11 +160,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
 
         p = r'<a class="supLeftNavLink" data-bi-slot="\d+" href="/en-us(/help/\d+)">((\w+) (\d+), (\d+) ?(?:&#x2014;|-) ?KB(\d{7})(?: Update for Windows 10 Mobile)? \(OS Builds? .+?\).*?)</a>'
         items = re.findall(p, updates_section)
-        assert len(items) == len(re.findall('<a ', updates_section)), (
-            len(items),
-            len(re.findall('<a ', updates_section)),
-            windows_version,
-        )
+        assert len(items) == len(re.findall('<a ', updates_section)), windows_version
 
         windows_version_updates = {}
         windows_version_update_urls = []
