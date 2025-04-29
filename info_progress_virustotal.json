@@ -7,6 +7,14 @@
 "pending": {},
 "retry": [
 [
+"mssprxy.dll",
+"95e0b4110a0317696fe754872a1b75f667a12e87bc48574125545027424de650"
+],
+[
+"reagentc.exe",
+"1c5b4f127f87284d371115b32a12fc97e1c8ef40b98d37ca8e919724fa7875ff"
+],
+[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
