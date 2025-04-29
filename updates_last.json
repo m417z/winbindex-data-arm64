@@ -842,15 +842,6 @@
             "releaseVersion": "22621.5189",
             "updateUrl": "https://support.microsoft.com/help/5055528"
         },
-        "KB5055629": {
-            "heading": "April 22, 2025&#x2014;KB5055629 (OS Builds 22621.5262 and 22631.5262) Preview",
-            "otherWindowsVersions": [
-                "11-23H2"
-            ],
-            "releaseDate": "2025-04-22",
-            "releaseVersion": "22621.5262",
-            "updateUrl": "https://support.microsoft.com/help/5055629"
-        },
         "KB5058919": {
             "heading": "April 11, 2025&#x2014;KB5058919 (OS Builds 22621.5192 and 22631.5192) Out-of-band",
             "otherWindowsVersions": [
@@ -981,17 +972,6 @@
             "releaseDate": "2025-04-08",
             "releaseVersion": "26100.3775",
             "updateUrl": "https://support.microsoft.com/help/5055523"
-        },
-        "KB5055627": {
-            "heading": "April 25, 2025&#x2014;KB5055627 (OS Build 26100.3915) Preview",
-            "releaseDate": "2025-04-25",
-            "releaseVersion": "26100.3915",
-            "updateUrl": "https://support.microsoft.com/help/5055627"
-        },
-        "KB5059087": {
-            "releaseDate": "2025-04-16",
-            "releaseVersion": "26100.3781",
-            "updateUrl": "https://support.microsoft.com/help/5059087"
         }
     },
     "1709": {
@@ -4407,12 +4387,6 @@
             "releaseDate": "2025-03-25",
             "releaseVersion": "19045.5679",
             "updateUrl": "https://support.microsoft.com/help/5053643"
-        },
-        "KB5055612": {
-            "heading": "April 22, 2025&#x2014;KB5055612 (OS Build 19045.5796) Preview",
-            "releaseDate": "2025-04-22",
-            "releaseVersion": "19045.5796",
-            "updateUrl": "https://support.microsoft.com/help/5055612"
         }
     }
 }
