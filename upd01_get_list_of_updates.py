@@ -104,6 +104,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 windows_version = '1507'
             else:
                 match = re.match(r'Windows 10, version (\w+)(?:(?:, Windows Server| and Windows Server).*)? update history$', windows_version_title, re.IGNORECASE)
+                assert match
                 windows_version = match[1]
         else:
             assert windows_major_version == 11
@@ -111,6 +112,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 windows_version = '11-21H2'
             else:
                 match = re.match(r'Windows 11, version (\w+)$', windows_version_title, re.IGNORECASE)
+                assert match
                 windows_version = '11-' + match[1]
 
         assert windows_version not in all_updates
@@ -177,6 +179,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             update_kb = 'KB' + kb_number
 
             match = re.search(r'\(OS Builds? ([\d\.]+)', heading)
+            assert match
             os_build = match[1]
 
             update_to_append = {
@@ -235,12 +238,25 @@ def get_updates_from_release_health_for_version(windows_major_version, url):
 
     html = request.text
 
+    target_subtitle = f'<h2 id="windows-{windows_major_version}-release-history">Windows {windows_major_version} release history</h2>'
+    index = html.find(target_subtitle)
+    assert index != -1
+    release_history = html[index + len(target_subtitle):]
+
+    # Remove the hotpatch calendar section for Windows 11.
+    if windows_major_version == 11:
+        p = r'<h2[^>]*>.*?</h2>*'
+        match = re.search(p, release_history)
+        assert match
+        assert match.group(0) == '<h2 id="windows-11-hotpatch-calendar">Windows 11 hotpatch calendar</h2>'
+        release_history = release_history[:match.start()]
+
     p = (
         r'<strong>Version (\w+)(?: \(RTM\)| \(original release\))? \(OS build \d+\)</strong>'
         r'[\s\S]*?'
         r'(<table[\s\S]*?</table>)'
     )
-    updates_table_match = re.findall(p, html)
+    updates_table_match = re.findall(p, release_history)
     assert len(updates_table_match) > 0
 
     all_updates = {}
@@ -269,6 +285,7 @@ def get_updates_from_release_health_for_version(windows_major_version, url):
                 continue
 
             match = re.match(r'<a href="([^"]*)"[^>]*>KB(\d+)</a>$', kb_article)
+            assert match
             update_kb = 'KB' + match[2]
             update_url = match[1]
 
