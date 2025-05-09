@@ -1,12 +1,11 @@
 {
-"next": null,
+"next": [
+"wwahost.exe",
+"5048eda76ce5e07293f7a8372846d2df88bfda30c5e419e1a18eb933c610731f"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"kernel32.dll",
-"e6c46885f83e5371e01446b6f35a379bf3b08450ef210ab643207d7970f5eef9"
-],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
