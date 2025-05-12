@@ -1,5 +1,8 @@
 {
-"next": null,
+"next": [
+"wevtutil.exe",
+"3610b45934674c8e321a88c49077c43de21a84ef6604f3087ed139901b7966cb"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
