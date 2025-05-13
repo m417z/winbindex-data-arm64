@@ -4268,6 +4268,14 @@
             "releaseDate": "2025-04-08",
             "releaseVersion": "19044.5737",
             "updateUrl": "https://support.microsoft.com/help/5055518"
+        },
+        "KB5058379": {
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-05-13",
+            "releaseVersion": "19044.5854",
+            "updateUrl": "https://support.microsoft.com/help/5058379"
         }
     },
     "22H2": {
