@@ -134,6 +134,13 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 'KB5055528 (OS Builds 22621.5191 and 22631.5191)',
                 'KB5055528 (OS Builds 22621.5189 and 22631.5189)')
 
+        if windows_version == '22H2':
+            # Likely a mistake, the page says build 19044.5854, and the release
+            # health page says so too.
+            updates_section = updates_section.replace(
+                'KB5058379 (OS Builds 19044.5852 and 19045.5852)',
+                'KB5058379 (OS Builds 19044.5854 and 19045.5854)')
+
         if windows_version == '21H2':
             # Likely a mistake, the page says build 19044.5737, and the release
             # health page says so too.
@@ -205,6 +212,13 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 "releaseDate": "2018-07-10",
                 "releaseVersion": "15254.490",
                 "updateUrl": "https://support.microsoft.com/help/4341235"
+            }
+        elif windows_version == '21H2' and 'KB5058379' not in windows_version_updates:
+            windows_version_updates['KB5058379'] = {
+                "heading": "May 13, 2025&#x2014;KB5058379 (OS Builds 19044.5854 and 19045.5854)",
+                "releaseDate": "2025-05-13",
+                "releaseVersion": "19044.5854",
+                "updateUrl": "https://support.microsoft.com/help/5058379"
             }
         elif windows_version == '11-22H2' and 'KB5019311' not in windows_version_updates:
             windows_version_updates['KB5019311'] = {
