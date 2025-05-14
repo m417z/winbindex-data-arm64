@@ -1,15 +1,11 @@
 {
 "next": [
-"printui.dll",
-"6a1d6d7a08587587882be30129f79136cfb7864e32cd279850c77e074d5cade7"
+"dxdiagn.dll",
+"287f7e77e70769dd427eeda3812ab9f6ddce22b6f7d1db92a2f1bae5d0e83718"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"poqexec.exe",
-"21b737cac22ffb99c1e4a2ee873663a981018fdc1b8b3e12df9374493e88775d"
-],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
