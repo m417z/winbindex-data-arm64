@@ -1,30 +1,14 @@
 {
 "next": [
-"comdlg32.dll",
-"8eb998ba92336863b3d6353865c02b95cc9ed3edca65146765e65a541bd58dd0"
+"updatepolicy.dll",
+"2d60b76dc261aff7f6af87f253655b47517d57377ad79d5f64ce9c2764522327"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"cameracaptureui.dll",
-"109fc0b2011f021ab25ded3a2a283f7275cf0a681a213335c9531675e61b6f58"
-],
-[
-"efswrt.dll",
-"494ac20080d96850765be6005b7c8daffaa4782387187de35a1c1c98d11b32fa"
-],
-[
-"jscript9legacy.dll",
-"9c9cc9851bdc2bd205861a9adce45d7e218dbbf33dbbf3bfff370fbb706d8438"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
-],
-[
-"windows.devices.background.dll",
-"38af9d6f37c449200e9755f24d052b5db8617d60807c8d7ec34194256afc15e5"
 ]
 ],
 "updates": null
