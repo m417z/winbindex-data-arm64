@@ -134,22 +134,12 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 'KB5055528 (OS Builds 22621.5191 and 22631.5191)',
                 'KB5055528 (OS Builds 22621.5189 and 22631.5189)')
 
-        if windows_version == '22H2':
-            # Likely a mistake, the page says build 19044.5854, and the release
-            # health page says so too.
-            updates_section = updates_section.replace(
-                'KB5058379 (OS Builds 19044.5852 and 19045.5852)',
-                'KB5058379 (OS Builds 19044.5854 and 19045.5854)')
-
         if windows_version == '21H2':
             # Likely a mistake, the page says build 19044.5737, and the release
             # health page says so too.
             updates_section = updates_section.replace(
                 'KB5055518 (OS Builds 19044.5736 and 19045.5736)',
                 'KB5055518 (OS Builds 19044.5737 and 19045.5737)')
-
-        if windows_version in ['21H2', '21H1', '20H2']:
-            updates_section = updates_section.replace('KB5012599(OS Builds', 'KB5012599 (OS Builds')
 
         if windows_version == '1809':
             updates_section = updates_section.replace('(OS Build OS 17763.529)', '(OS Build 17763.529)')
@@ -213,13 +203,6 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
                 "releaseVersion": "15254.490",
                 "updateUrl": "https://support.microsoft.com/help/4341235"
             }
-        elif windows_version == '21H2' and 'KB5058379' not in windows_version_updates:
-            windows_version_updates['KB5058379'] = {
-                "heading": "May 13, 2025&#x2014;KB5058379 (OS Builds 19044.5854 and 19045.5854)",
-                "releaseDate": "2025-05-13",
-                "releaseVersion": "19044.5854",
-                "updateUrl": "https://support.microsoft.com/help/5058379"
-            }
         elif windows_version == '11-22H2' and 'KB5019311' not in windows_version_updates:
             windows_version_updates['KB5019311'] = {
                 "heading": "September 27, 2022&#x2014;KB5019311 (OS Build 22621.525) Out-of-band",
@@ -229,6 +212,20 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             }
 
         all_updates[windows_version] = windows_version_updates
+
+    # Starting with 2025-05-13, 22H2 updates are no longer listed in the 21H2
+    # section, although they are still available for 21H2 as well. They are
+    # still listed in both sections in the health release page, though. Add them
+    # to have both sources match.
+    for update_kb, update in all_updates.get('22H2', {}).items():
+        if update['heading'].endswith('Preview'):
+            continue
+
+        if update_kb not in all_updates['21H2']:
+            release_date = update['releaseDate']
+            assert release_date >= '2025-05-13', release_date
+            all_updates['21H2'][update_kb] = update
+            print(f'WARNING: Added {update_kb} to 21H2')
 
     return all_updates
 
