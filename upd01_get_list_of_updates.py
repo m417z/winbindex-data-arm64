@@ -123,6 +123,9 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
 
         if windows_version in ['11-23H2', '11-22H2']:
             updates_section = updates_section.replace(
+                '(OS 22621.5413 and 22631.5413)',
+                '(OS Builds 22621.5413 and 22631.5413)')
+            updates_section = updates_section.replace(
                 '(OS 22621.5262 and 22631.5262)',
                 '(OS Builds 22621.5262 and 22631.5262)')
 
