@@ -1,11 +1,19 @@
 {
 "next": [
-"cbscore.dll",
-"8b6eece6257006c0f354ee5fe56e9a3584d2aff399d2e5fabd29012b5dfc8093"
+"msinfo32.exe",
+"82604db731dd801876342e20ce938c06440966f23010d1e6cba7ff66dae248e2"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
+[
+"mfsvr.dll",
+"9f46015fae6a8ec3b08fba88085622067be0accac1b570b5b4e8cef26e359828"
+],
+[
+"mosstorage.dll",
+"6fe189147d5be0ec05b3962f7a56748dcf55bb72722a878c229e8af455edc0c4"
+],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
