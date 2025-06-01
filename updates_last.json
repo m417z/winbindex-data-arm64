@@ -877,6 +877,15 @@
             "releaseDate": "2025-04-11",
             "releaseVersion": "22621.5192",
             "updateUrl": "https://support.microsoft.com/help/5058919"
+        },
+        "KB5062170": {
+            "heading": "May 31, 2025&#x2014;KB5062170 (OS Builds 22621.5415 and 22631.5415) Out-of-band",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-05-31",
+            "releaseVersion": "22621.5415",
+            "updateUrl": "https://support.microsoft.com/help/5062170"
         }
     },
     "11-24H2": {

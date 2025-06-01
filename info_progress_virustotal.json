@@ -7,18 +7,6 @@
 "pending": {},
 "retry": [
 [
-"mstsc.exe",
-"69f16d2285a6c558f4f6de18242f753860a1ad3b3bd946c329abe70075d8e4cb"
-],
-[
-"pcaui.exe",
-"490152440e80330082c188b3444bbc6f15eefe06b1a476fe2f47dc3062d17e85"
-],
-[
-"sfc.exe",
-"a3f6077b9cafe110ae1421be93059ad9890bb2555b0dbd96ade56e9b2e821124"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
