@@ -4,6 +4,10 @@
 "pending": {},
 "retry": [
 [
+"adprovider.dll",
+"8f26c5bacf8f655ae5f1ad60bcb6eee10958cbe99a2c2945d4a39c8f9b25d23a"
+],
+[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
