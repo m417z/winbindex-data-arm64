@@ -878,6 +878,15 @@
             "releaseVersion": "22621.5192",
             "updateUrl": "https://support.microsoft.com/help/5058919"
         },
+        "KB5060999": {
+            "heading": "June 10, 2025&#x2014;KB5060999 (OS Builds 22621.5472 and 22631.5472)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-06-10",
+            "releaseVersion": "22621.5472",
+            "updateUrl": "https://support.microsoft.com/help/5060999"
+        },
         "KB5062170": {
             "heading": "May 31, 2025&#x2014;KB5062170 (OS Builds 22621.5415 and 22631.5415) Out-of-band",
             "otherWindowsVersions": [
@@ -1026,6 +1035,12 @@
             "releaseDate": "2025-05-28",
             "releaseVersion": "26100.4202",
             "updateUrl": "https://support.microsoft.com/help/5058499"
+        },
+        "KB5060842": {
+            "heading": "June 10, 2025&#x2014;KB5060842 (OS Build 26100.4349)",
+            "releaseDate": "2025-06-10",
+            "releaseVersion": "26100.4349",
+            "updateUrl": "https://support.microsoft.com/help/5060842"
         },
         "KB5061977": {
             "heading": "May 27, 2025&#x2014;KB5061977 (OS Build 26100.4066) Out-of-band",
@@ -4323,6 +4338,15 @@
             "releaseVersion": "19044.5854",
             "updateUrl": "https://support.microsoft.com/help/5058379"
         },
+        "KB5060533": {
+            "heading": "June 10, 2025&#x2014;KB5060533 (OS Builds 19044.5965 and 19045.5965)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-06-10",
+            "releaseVersion": "19044.5965",
+            "updateUrl": "https://support.microsoft.com/help/5060533"
+        },
         "KB5061768": {
             "heading": "May 19, 2025&#x2014;KB5061768 (OS Builds 19044.5856 and 19045.5856) Out-of-band",
             "otherWindowsVersions": [
@@ -4482,7 +4506,6 @@
             "updateUrl": "https://support.microsoft.com/help/5055612"
         },
         "KB5058481": {
-            "heading": "May 28, 2025&#x2014;KB5058481 (OS Build 19045.5917) Preview",
             "releaseDate": "2025-05-28",
             "releaseVersion": "19045.5917",
             "updateUrl": "https://support.microsoft.com/help/5058481"
