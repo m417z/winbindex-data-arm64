@@ -1,11 +1,18 @@
 {
-"next": null,
+"next": [
+"windows.system.profile.systemmanufacturers.dll",
+"e0eff678baaa9282c6af0263b267dea5b544d4be1059bfa454ecb3a86710fc3a"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"adprovider.dll",
-"8f26c5bacf8f655ae5f1ad60bcb6eee10958cbe99a2c2945d4a39c8f9b25d23a"
+"certpoleng.dll",
+"53235791b6a2eaf877739b0e6158cc5019795f65f734fa60e56778ca1c65ebb2"
+],
+[
+"d2d1debug3.dll",
+"31c2a0c2757d224ca14c93aacb1a9c43fd1d8457fa9865a026f8749115534943"
 ],
 [
 "vc_redist.arm64.exe",
