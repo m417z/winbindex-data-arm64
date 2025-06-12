@@ -1047,6 +1047,12 @@
             "releaseDate": "2025-05-27",
             "releaseVersion": "26100.4066",
             "updateUrl": "https://support.microsoft.com/help/5061977"
+        },
+        "KB5063060": {
+            "heading": "June 11, 2025&#x2014;KB5063060 (OS Build 26100.4351) Out-of-band",
+            "releaseDate": "2025-06-11",
+            "releaseVersion": "26100.4351",
+            "updateUrl": "https://support.microsoft.com/help/5063060"
         }
     },
     "1709": {
@@ -4506,6 +4512,7 @@
             "updateUrl": "https://support.microsoft.com/help/5055612"
         },
         "KB5058481": {
+            "heading": "May 28, 2025&#x2014;KB5058481 (OS Build 19045.5917) Preview",
             "releaseDate": "2025-05-28",
             "releaseVersion": "19045.5917",
             "updateUrl": "https://support.microsoft.com/help/5058481"

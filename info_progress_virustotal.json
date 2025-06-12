@@ -7,14 +7,6 @@
 "pending": {},
 "retry": [
 [
-"microsoft.certificateservices.pkiclient.cmdlets.dll",
-"dc5c749569a427753618e1ef42926a22755c163dd6948813b63fd20291696791"
-],
-[
-"mscand20.dll",
-"f6d05647716786d50092ce06b4a4021a3f8f701367e5528699c9176b90b38bf9"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
