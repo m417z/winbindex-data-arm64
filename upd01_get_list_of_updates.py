@@ -317,14 +317,6 @@ def get_updates_from_release_health_for_version(windows_major_version, url):
                 'releaseVersion': os_build
             }
 
-        # Add missing entries.
-        if windows_version == '11-22H2' and 'KB5060999' not in windows_version_updates:
-            windows_version_updates['KB5060999'] = {
-                "releaseDate": "2025-06-10",
-                "releaseVersion": "22621.5472",
-                "updateUrl": "https://support.microsoft.com/help/5060999"
-            }
-
         if len(windows_version_updates) > 0:
             all_updates[windows_version] = windows_version_updates
 
