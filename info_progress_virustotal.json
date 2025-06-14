@@ -1,7 +1,7 @@
 {
 "next": [
-"msdarem.dll",
-"a1ce844286608269078a8d27feeb6ca74e6415d9f03c49eb5be979dbbc5f9229"
+"microsoft.keydistributionservice.cmdlets.dll",
+"fd0685126bfd562e0b3650ae19ce9ef3dc1556f7bdecb7a67c74041037e04ef5"
 ],
 "next_updates": null,
 "pending": {},
@@ -9,10 +9,6 @@
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
-],
-[
-"windows.devices.lights.dll",
-"104067e137fb15f0b0e196bc799222a7409b08c017b4f866258b262ee76d31bb"
 ]
 ],
 "updates": null
