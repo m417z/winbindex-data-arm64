@@ -94,6 +94,7 @@ file_hashes_unsigned_with_overlay = {
     '9eec7e5188d1a224325281e4d0e6e1d5f9f034f02bd1fadeb792d3612c72319e',  # libpdcurses.dll
     'f9b385e19b9d57a1d1831e744ed2d1c3bb8396d28f48d10120cecfe72595b222',  # libpdcursesu.dll
     '787d5c07ab0bb782dede7564840e86c468e3728e81266dae23eb8ad614bcee95',  # libpdcursesw.dll
+    '1b0f75b69e127f341f8d72a1cd3e16e5484d35cfd7abbe9e35ef6511d1746be9',  # woftasks.dll
 }
 
 file_details_unsigned_with_overlay = []
