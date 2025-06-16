@@ -1,15 +1,11 @@
 {
 "next": [
-"hnswfpdriver.sys",
-"dfee635eca7617e43621f9bb38aee00ddec93656db8b7ba865949586c6423649"
+"fastprox.dll",
+"6033472f76506d95879dd185951711a31070d39e0701d17d57cfec5d3e1805c8"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"diagtrack.dll",
-"a5bbd3ca3546a51e9393edcbb0b5076b4aa2c1656f235f958b7701c0c6b769ee"
-],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
