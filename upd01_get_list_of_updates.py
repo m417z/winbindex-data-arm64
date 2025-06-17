@@ -224,7 +224,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
     # still listed in both sections in the health release page, though. Add them
     # to have both sources match.
     for update_kb, update in all_updates.get('22H2', {}).items():
-        if update['heading'].endswith('Preview'):
+        if update['heading'].endswith('Preview') or update_kb in ['KB5063159']:
             continue
 
         if update_kb not in all_updates['21H2']:
