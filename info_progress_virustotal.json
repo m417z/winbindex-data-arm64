@@ -4,36 +4,12 @@
 "pending": {},
 "retry": [
 [
-"repdrvfs.dll",
-"79e29757dbed2afa83ebf1c7ae49a399eb37366812f14e101a64e92d21e869e4"
-],
-[
-"smiengine.dll",
-"2857d8452565cf7a1c13dba9b06e7b886fc9bfa16a245a4b1d8fefbcec0ca834"
-],
-[
-"turbostack.dll",
-"a31d1665e50f82f1f7c30536d3610f559d9e24cef22180984736854dd6500b04"
-],
-[
-"updateagent.dll",
-"35cbb38182244f64801d56a834eb7fa96b7a94a0334b1f68f560a627eb2f68d5"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ],
 [
-"vmhostai.dll",
-"445dabf57f771271b841c85655c610233befec8946aa8a917c3f3820b115baf8"
-],
-[
-"wcp.dll",
-"b3807c49673a3072db5ada55a5f747da2a98d14a3f455b9b60b0826c80546717"
-],
-[
-"wrpint.dll",
-"62912cf68d7c18fa41dd112931d487741793554e3f9b811ff3267413787d27c7"
+"wuaucltcore.exe",
+"3782bf2a582d0cf341f58091bd917d3a5869f65bcdba58ff2ba1560dd84af328"
 ]
 ],
 "updates": null
