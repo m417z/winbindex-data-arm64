@@ -878,6 +878,15 @@
             "releaseVersion": "22621.5192",
             "updateUrl": "https://support.microsoft.com/help/5058919"
         },
+        "KB5060826": {
+            "heading": "June 26, 2025&#x2014;KB5060826 (OS Builds 22621.5549 and 22631.5549) Preview",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-06-26",
+            "releaseVersion": "22621.5549",
+            "updateUrl": "https://support.microsoft.com/help/5060826"
+        },
         "KB5060999": {
             "heading": "June 10, 2025&#x2014;KB5060999 (OS Builds 22621.5472 and 22631.5472)",
             "otherWindowsVersions": [
@@ -1035,6 +1044,12 @@
             "releaseDate": "2025-05-28",
             "releaseVersion": "26100.4202",
             "updateUrl": "https://support.microsoft.com/help/5058499"
+        },
+        "KB5060829": {
+            "heading": "June 26, 2025&#x2014;KB5060829 (OS Build 26100.4484) Preview",
+            "releaseDate": "2025-06-26",
+            "releaseVersion": "26100.4484",
+            "updateUrl": "https://support.microsoft.com/help/5060829"
         },
         "KB5060842": {
             "heading": "June 10, 2025&#x2014;KB5060842 (OS Build 26100.4349)",
