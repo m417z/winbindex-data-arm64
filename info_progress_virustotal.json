@@ -1,7 +1,7 @@
 {
 "next": [
-"uimanagerbrokerps.dll",
-"b0177c2082c1c9cc88bf7586f9732010c538b74f3fdeffaa477a6be2e8a85ecf"
+"setupplatform.dll",
+"667270546a36b622a51177a23689dbd0126e2670b820d738554d436656b26715"
 ],
 "next_updates": null,
 "pending": {},
@@ -9,6 +9,10 @@
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
+],
+[
+"windows.storage.winmd",
+"c1cb02ef7730b8c32caac2897b01ebb9ffea174348c5e887bb82c3f87c1c0d7b"
 ]
 ],
 "updates": null
