@@ -1,8 +1,15 @@
 {
-"next": null,
+"next": [
+"wldap32.dll",
+"592b98e734cd0e80a01181de6a26ea7c0b70314e8a5c2cddcf7554c599597386"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
+[
+"kernel32.dll",
+"d35145232cadbca325802706b194552eb472616dc9cb105e69dd4bb6c0598f73"
+],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
