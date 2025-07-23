@@ -57,6 +57,12 @@ def get_update_download_urls(update_uid: str):
 def get_update(windows_version: str, update_kb: str):
     search_query = update_kb
 
+    if update_kb == 'KB5062663':
+        # Normally, identical update packages are available for both 22H2 and
+        # 23H2. For this update, however, the 22H2 package is not available.
+        assert windows_version == '11-22H2'
+        windows_version = '11-23H2'
+
     if windows_version == '11-21H2':
         package_windows_version = fr'Windows 11'  # first Windows 11 version, no suffix
     elif '-' in windows_version:
