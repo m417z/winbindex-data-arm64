@@ -4568,6 +4568,12 @@
             "releaseVersion": "19045.6036",
             "updateUrl": "https://support.microsoft.com/help/5061087"
         },
+        "KB5062649": {
+            "heading": "July 22, 2025&#x2014;KB5062649 (OS Build 19045.6159) Preview",
+            "releaseDate": "2025-07-22",
+            "releaseVersion": "19045.6159",
+            "updateUrl": "https://support.microsoft.com/help/5062649"
+        },
         "KB5063159": {
             "heading": "June 16, 2025&#x2014;KB5063159 (OS Build 19045.5968) Out-of-band",
             "releaseDate": "2025-06-16",
