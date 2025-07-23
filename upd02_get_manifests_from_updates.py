@@ -108,7 +108,7 @@ def get_update(windows_version: str, update_kb: str):
         raise Exception(f'Expected one update item, found {len(found_updates)}')
 
     update_uid, update_title = found_updates[0]
-    update_title_pattern = rf'(\d{{4}}-\d{{2}} )?(Cumulative|Delta) Update (Preview )?for {package_windows_version} for (?i:{config.updates_architecture})-based Systems \({update_kb}\)'
+    update_title_pattern = rf'(\d{{4}}-\d{{2}} )?(Cumulative|Delta) Update (Preview )?for {package_windows_version} for (?i:{config.updates_architecture})-based Systems \({update_kb}\)( \(\d+\.\d+\))?'
     assert re.fullmatch(update_title_pattern, update_title), update_title
 
     return update_uid, update_title
