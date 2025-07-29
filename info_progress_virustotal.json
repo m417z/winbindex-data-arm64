@@ -1,7 +1,7 @@
 {
 "next": [
-"windows.security.authentication.onlineid.dll",
-"efd0d43acc60e03daaddfc74025b5e57235db8e6b21bc3566404fc611c2b0234"
+"windows.networking.connectivity.dll",
+"2dcbc4a5226febf9a007e39d970c8507b59163fea6845e06ca2ddf510f365f6c"
 ],
 "next_updates": null,
 "pending": {},
