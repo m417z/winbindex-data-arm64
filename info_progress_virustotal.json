@@ -6,6 +6,10 @@
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
+],
+[
+"wmiprvsex64.exe",
+"50422484dd87899bf1974e2a676b6dbedb89ab828e2092e72b30f1f745b977a9"
 ]
 ],
 "updates": null
