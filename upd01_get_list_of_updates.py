@@ -121,18 +121,10 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
         if windows_version == '11-24H2':
             updates_section = updates_section.replace('KB5055627(OS Build', 'KB5055627 (OS Build')
 
-        if windows_version in ['11-23H2', '11-22H2']:
-            updates_section = updates_section.replace(
-                '(OS Builds OS Builds 22621.5472 and 22631.5472)',
-                '(OS Builds 22621.5472 and 22631.5472)')
-            updates_section = updates_section.replace(
-                '(OS 22621.5413 and 22631.5413)',
-                '(OS Builds 22621.5413 and 22631.5413)')
-            updates_section = updates_section.replace(
-                '(OS 22621.5262 and 22631.5262)',
-                '(OS Builds 22621.5262 and 22631.5262)')
-
         if windows_version == '11-22H2':
+            updates_section = updates_section.replace(
+                '(OS Builds OS 22621.5472 and 22631.5472)',
+                '(OS Builds 22621.5472 and 22631.5472)')
             # Likely a mistake, the page says build 22621.5189, and the release
             # health page says so too.
             # https://answers.microsoft.com/en-us/windows/forum/all/inconsistency-in-kb5055528-release-note-os-build/ea9d36a0-8a28-444f-819f-f50a4cd36c19
@@ -149,7 +141,6 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
 
         if windows_version == '1809':
             updates_section = updates_section.replace('(OS Build OS 17763.529)', '(OS Build 17763.529)')
-            updates_section = updates_section.replace('KB5012647(OS Build', 'KB5012647 (OS Build')
 
         if windows_version == '1709':
             updates_section = updates_section.replace('KB4509104 Update for Windows 10 Mobile  (', 'KB4509104 Update for Windows 10 Mobile (')
@@ -182,7 +173,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             update_kb = 'KB' + kb_number
 
             match = re.search(r'\(OS Builds? ([\d\.]+)', heading)
-            assert match
+            assert match, heading
             os_build = match[1]
 
             update_to_append = {
