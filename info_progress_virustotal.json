@@ -1,5 +1,8 @@
 {
-"next": null,
+"next": [
+"wlidcli.dll",
+"ee433e4f404063611e672fbd5ed233d113c8abd80b36b1bb3b4fe4bc8351c5dc"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
