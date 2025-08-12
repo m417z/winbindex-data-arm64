@@ -915,13 +915,22 @@
             "updateUrl": "https://support.microsoft.com/help/5062552"
         },
         "KB5062663": {
-            "heading": "July 22, 2025&#x2014;KB5062663 (OS Builds 22621.5699 and 22631.5699) Preview",
+            "heading": "July 22, 2025&#x2014;KB5062663 (OS Builds 22621.5699) Preview",
             "otherWindowsVersions": [
                 "11-23H2"
             ],
             "releaseDate": "2025-07-22",
             "releaseVersion": "22621.5699",
             "updateUrl": "https://support.microsoft.com/help/5062663"
+        },
+        "KB5063875": {
+            "heading": "August 12, 2025&#x2014;KB5063875 (OS Builds 22621.5768 and 22631.5768)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-08-12",
+            "releaseVersion": "22621.5768",
+            "updateUrl": "https://support.microsoft.com/help/5063875"
         }
     },
     "11-24H2": {
@@ -1098,6 +1107,12 @@
             "releaseDate": "2025-06-11",
             "releaseVersion": "26100.4351",
             "updateUrl": "https://support.microsoft.com/help/5063060"
+        },
+        "KB5063878": {
+            "heading": "August 12, 2025&#x2014;KB5063878 (OS Build 26100.4946)",
+            "releaseDate": "2025-08-12",
+            "releaseVersion": "26100.4946",
+            "updateUrl": "https://support.microsoft.com/help/5063878"
         },
         "KB5064489": {
             "heading": "July 13, 2025&#x2014;KB5064489 (OS Build 26100.4656) Out-of-band",
@@ -4430,6 +4445,15 @@
             "releaseDate": "2025-07-08",
             "releaseVersion": "19044.6093",
             "updateUrl": "https://support.microsoft.com/help/5062554"
+        },
+        "KB5063709": {
+            "heading": "August 12, 2025&#x2014;KB5063709 (OS Builds 19044.6216 and 19045.6216)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-08-12",
+            "releaseVersion": "19044.6216",
+            "updateUrl": "https://support.microsoft.com/help/5063709"
         }
     },
     "22H2": {
