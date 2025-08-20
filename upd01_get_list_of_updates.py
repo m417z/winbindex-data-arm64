@@ -210,6 +210,20 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
 
         all_updates[windows_version] = windows_version_updates
 
+    # Starting with 2025-05-13, 22H2 updates are no longer listed in the 21H2
+    # section, although they are still available for 21H2 as well. They are
+    # still listed in both sections in the health release page, though. Add them
+    # to have both sources match.
+    for update_kb, update in all_updates.get('22H2', {}).items():
+        if update['heading'].endswith('Preview') or update_kb in ['KB5063159']:
+            continue
+
+        if update_kb not in all_updates['21H2']:
+            release_date = update['releaseDate']
+            assert release_date >= '2025-05-13', release_date
+            all_updates['21H2'][update_kb] = update
+            print(f'WARNING: Added {update_kb} to 21H2')
+
     return all_updates
 
 
