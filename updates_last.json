@@ -942,6 +942,14 @@
             "updateUrl": "https://support.microsoft.com/help/5066189"
         }
     },
+    "11-23H2": {
+        "KB5064080": {
+            "heading": "August 26, 2025&#x2014;KB5064080 (OS Build 22621.5840) Preview",
+            "releaseDate": "2025-08-26",
+            "releaseVersion": "22621.5840",
+            "updateUrl": "https://support.microsoft.com/help/5064080"
+        }
+    },
     "11-24H2": {
         "KB5039239": {
             "heading": "June 15, 2024&#x2014;KB5039239 (OS Build 26100.863)",
@@ -4636,6 +4644,12 @@
             "releaseDate": "2025-06-16",
             "releaseVersion": "19045.5968",
             "updateUrl": "https://support.microsoft.com/help/5063159"
+        },
+        "KB5063842": {
+            "heading": "August 26, 2025&#x2014;KB5063842 (OS Build 19045.6282) Preview",
+            "releaseDate": "2025-08-26",
+            "releaseVersion": "19045.6282",
+            "updateUrl": "https://support.microsoft.com/help/5063842"
         }
     }
 }
