@@ -50,6 +50,7 @@ delta_data_without_rift_table_names = {
     '*.mui',
     'stdole32.tlb',
     'powershell_ise.exe',
+    'microsoft.grouppolicy.interop.dll',
 }
 delta_data_without_rift_table_manifests = {
     'arm64_microsoft-nxt-boottocloud-windows365-app_*',
