@@ -9,6 +9,10 @@
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
+],
+[
+"wintrust.dll",
+"23ef5aeba10c1f890156750ef12d3e63fd4f5c66d55527f0b4a63d582b80f99a"
 ]
 ],
 "updates": null
