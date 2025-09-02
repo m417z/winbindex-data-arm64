@@ -78,6 +78,8 @@ file_hashes_unusual_section_alignment = {
 file_hashes_zero_timestamp = {
     '18dd945c04ce0fbe882cd3f234c2da2d0faa12b23bd6df7b1edc31faecf51c69',  # brlapi-0.8.dll
     '7a9113d00a274c075c58b22a3ebacf1754e7da7cfb4d3334b90367b602158d78',  # brltty.exe
+    '51ceb27c1c5cec81a8eda5f81607b5a4f2e099b0b703e8cad3ab026b11bf1866',  # microsoft.ink.dll
+    'de7c16afa5d0134036471fbb66133601db7c33d3742e202b1172c7270c5fd401',  # microsoft.ink.dll
 }
 
 file_hashes_small_non_signature_overlay = {
