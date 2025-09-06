@@ -1,7 +1,7 @@
 {
 "next": [
-"windows.storage.search.dll",
-"86a3152a8502876b008cb7e03a37b3f9baa2b03fd1e8bf7096ca06f85a4cb2c1"
+"windows.devices.enumeration.dll",
+"5dd57a48415535b5aeecc7fd7a96384e04433836d763e5f158ad578334c52aa4"
 ],
 "next_updates": null,
 "pending": {},
