@@ -932,12 +932,21 @@
             "releaseVersion": "22621.5768",
             "updateUrl": "https://support.microsoft.com/help/5063875"
         },
-        "KB5066189": {
-            "heading": "August 18, 2025&#x2014;KB5066189 (OS Builds 22621.5771 and 22631.5771) Out-of-band",
+        "KB5065431": {
+            "heading": "September 9, 2025&#x2014;KB5065431 (OS Builds 22621.5909 and 22631.5909)",
             "otherWindowsVersions": [
                 "11-23H2"
             ],
-            "releaseDate": "2025-08-18",
+            "releaseDate": "2025-09-09",
+            "releaseVersion": "22621.5909",
+            "updateUrl": "https://support.microsoft.com/help/5065431"
+        },
+        "KB5066189": {
+            "heading": "August 19, 2025&#x2014;KB5066189 (OS Builds 22621.5771 and 22631.5771) Out-of-band",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-08-19",
             "releaseVersion": "22621.5771",
             "updateUrl": "https://support.microsoft.com/help/5066189"
         }
@@ -1142,6 +1151,12 @@
             "releaseDate": "2025-07-13",
             "releaseVersion": "26100.4656",
             "updateUrl": "https://support.microsoft.com/help/5064489"
+        },
+        "KB5065426": {
+            "heading": "September 9, 2025&#x2014;KB5065426 (OS Build 26100.6584)",
+            "releaseDate": "2025-09-09",
+            "releaseVersion": "26100.6584",
+            "updateUrl": "https://support.microsoft.com/help/5065426"
         }
     },
     "1709": {
@@ -4477,6 +4492,15 @@
             "releaseDate": "2025-08-12",
             "releaseVersion": "19044.6216",
             "updateUrl": "https://support.microsoft.com/help/5063709"
+        },
+        "KB5065429": {
+            "heading": "September 9, 2025&#x2014;KB5065429 (OS Builds 19044.6332 and 19045.6332)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-09-09",
+            "releaseVersion": "19044.6332",
+            "updateUrl": "https://support.microsoft.com/help/5065429"
         },
         "KB5066188": {
             "heading": "August 19, 2025&#x2014;KB5066188 (OS Builds 19044.6218 and 19045.6218) Out-of-band",
