@@ -1,11 +1,12 @@
 {
-"next": [
-"wlanhlp.dll",
-"91c9f93e30e6fc0ee31aa12a21a20258ec009077f4bd51bc91277c5a3e90c289"
-],
+"next": null,
 "next_updates": null,
 "pending": {},
 "retry": [
+[
+"curl.exe",
+"a644db1bb57691ceada21e47f48aead79fa91ef5cddf1a231b5d886a989158c0"
+],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
