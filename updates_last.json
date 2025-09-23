@@ -1157,6 +1157,12 @@
             "releaseDate": "2025-09-09",
             "releaseVersion": "26100.6584",
             "updateUrl": "https://support.microsoft.com/help/5065426"
+        },
+        "KB5068221": {
+            "heading": "September 22, 2025&#x2014;KB5068221 (OS Build 26100.6588) Out-of-band",
+            "releaseDate": "2025-09-22",
+            "releaseVersion": "26100.6588",
+            "updateUrl": "https://support.microsoft.com/help/5068221"
         }
     },
     "1709": {
