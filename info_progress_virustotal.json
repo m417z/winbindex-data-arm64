@@ -1,15 +1,8 @@
 {
-"next": [
-"windows.ui.creddialogcontroller.dll",
-"b916a67a5ce296b2ca23886c7a92f1f1a90cd243cf17d40f0fd3c5421fd0c40f"
-],
+"next": null,
 "next_updates": null,
 "pending": {},
 "retry": [
-[
-"rdpidd.dll",
-"c4df28f11fb0ff5eb17dea0542b54b8784791ac87abc16a354e149f9fd2c4abb"
-],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
