@@ -4692,6 +4692,12 @@
             "releaseDate": "2025-08-26",
             "releaseVersion": "19045.6282",
             "updateUrl": "https://support.microsoft.com/help/5063842"
+        },
+        "KB5066198": {
+            "heading": "September 25, 2025&#x2014;KB5066198 (OS Build 19045.6396) Preview",
+            "releaseDate": "2025-09-25",
+            "releaseVersion": "19045.6396",
+            "updateUrl": "https://support.microsoft.com/help/5066198"
         }
     }
 }
