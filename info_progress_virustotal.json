@@ -7,14 +7,6 @@
 "pending": {},
 "retry": [
 [
-"actioncentercpl.dll",
-"ae8b29aea6da9868714caa4a36897223236f1675d06c343eda0ef7847d922d4b"
-],
-[
-"userdeviceregistration.ngc.dll",
-"39af461f730dda4382ecb2d950a70bb159c06d5d0c526999318de4b4606c6db5"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
 ]
