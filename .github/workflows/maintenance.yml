@@ -8,7 +8,7 @@ on:
 concurrency: winbindex-maintenance
 
 jobs:
-  run:
+  squash:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
@@ -44,3 +44,41 @@ jobs:
             git tag -d "_temp_tag_for_squash_$i"
             git push origin -d "_temp_tag_for_squash_$i"
           done
+  update_updateinfo:
+    runs-on: ubuntu-latest
+    needs: squash
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+      - name: Override out_path
+        run: |
+          echo ./gh-pages > .out_path_override
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+          cache-dependency-path: '.github/requirements.txt'
+      - name: Install Python dependencies
+        run: python -m pip install -r .github/requirements.txt
+      - name: Update updateInfo in by_filename_compressed files
+        run: |
+          python -u upd01_get_list_of_updates.py
+          python -u maintenance_update_updateinfo.py --output "${{ runner.temp }}/commit_message.txt"
+      - name: Delete updates.json
+        run: rm gh-pages/updates.json
+      - name: Commit and push changes
+        run: |
+          cd gh-pages
+          git add .
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff-index --quiet HEAD || git commit --file "${{ runner.temp }}/commit_message.txt"
+          git push
