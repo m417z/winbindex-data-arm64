@@ -1,8 +1,15 @@
 {
-"next": null,
+"next": [
+"wlgpclnt.dll",
+"61b4a8d60d24d72d9f5aa6142b6b54dff0d37e58ebe36b48fa9ad910bf2dc184"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
+[
+"setup.exe",
+"e11ef2d45df0feace07fea24d2915e701ca29660ec7b8f761f091876493258dc"
+],
 [
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
