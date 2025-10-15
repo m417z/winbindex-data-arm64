@@ -152,8 +152,13 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             updates_section = updates_section.replace('KB 3216755', 'KB3216755')
 
         updates_section = re.sub(r'<a [^>]*>Windows.*? update history</a>', '', updates_section, flags=re.IGNORECASE)
-        updates_section = re.sub(r'<a [^>]*>End of service statement</a>', '', updates_section, flags=re.IGNORECASE)
-        updates_section = re.sub(r'<a [^>]*>Windows 11, version \w+\s*</a>', '', updates_section, flags=re.IGNORECASE)
+
+        if windows_major_version == 10:
+            updates_section = re.sub(r'<a [^>]*>Windows 10 Extended Security Updates \(ESU\) program</a>', '', updates_section, flags=re.IGNORECASE)
+            updates_section = re.sub(r'<a [^>]*>Support for Windows Server \d+ will end in .*?</a>', '', updates_section, flags=re.IGNORECASE)
+            updates_section = re.sub(r'<a [^>]*>End of service statement</a>', '', updates_section, flags=re.IGNORECASE)
+        elif windows_major_version == 11:
+            updates_section = re.sub(r'<a [^>]*>Windows 11, version \w+\s*</a>', '', updates_section, flags=re.IGNORECASE)
 
         p = r'<a class="supLeftNavLink" data-bi-slot="\d+" href="/en-us(/help/\d+)">((\w+) (\d+), (\d+) ?(?:&#x2014;|-) ?KB(\d{7})(?: Update for Windows 10 Mobile)? \(OS Builds? .+?\).*?)</a>'
         items = re.findall(p, updates_section)
