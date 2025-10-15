@@ -949,6 +949,15 @@
             "releaseDate": "2025-08-19",
             "releaseVersion": "22621.5771",
             "updateUrl": "https://support.microsoft.com/help/5066189"
+        },
+        "KB5066793": {
+            "heading": "October 14, 2025&#x2014;KB5066793 (OS Builds 22621.6060 and 22631.6060)",
+            "otherWindowsVersions": [
+                "11-23H2"
+            ],
+            "releaseDate": "2025-10-14",
+            "releaseVersion": "22621.6060",
+            "updateUrl": "https://support.microsoft.com/help/5066793"
         }
     },
     "11-23H2": {
@@ -1166,9 +1175,21 @@
         },
         "KB5065789": {
             "heading": "September 29, 2025&#x2014;KB5065789 (OS Build 26100.6725) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
             "releaseDate": "2025-09-29",
             "releaseVersion": "26100.6725",
             "updateUrl": "https://support.microsoft.com/help/5065789"
+        },
+        "KB5066835": {
+            "heading": "October 14, 2025&#x2014;KB5066835 (OS Builds 26200.6899 and 26100.6899)",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2025-10-14",
+            "releaseVersion": "26200.6899",
+            "updateUrl": "https://support.microsoft.com/help/5066835"
         },
         "KB5068221": {
             "heading": "September 22, 2025&#x2014;KB5068221 (OS Build 26100.6588) Out-of-band",
@@ -4528,6 +4549,15 @@
             "releaseDate": "2025-08-19",
             "releaseVersion": "19044.6218",
             "updateUrl": "https://support.microsoft.com/help/5066188"
+        },
+        "KB5066791": {
+            "heading": "October 14, 2025&#x2014;KB5066791 (OS Builds 19044.6456 and 19045.6456)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2025-10-14",
+            "releaseVersion": "19044.6456",
+            "updateUrl": "https://support.microsoft.com/help/5066791"
         }
     },
     "22H2": {
