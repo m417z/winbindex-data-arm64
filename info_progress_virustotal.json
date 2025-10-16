@@ -1,23 +1,14 @@
 {
-"next": null,
+"next": [
+"wldp.dll",
+"1b229aa03ae68722b2a406ab61476212290be7556023221437e419a17de74461"
+],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"nsi.dll",
-"8db3dc4f454e78119591394438b2f42aae4645a68d2a8660138c512fe72bd680"
-],
-[
-"urlmon.dll",
-"40d4bfca3a0ab23167515db89b4d61ec151d00bd7609460961b83e6975d9598f"
-],
-[
 "vc_redist.arm64.exe",
 "8a81a52b7ff6b194cb88e1bb48d597b6588d2b840552909359f286fb1699235c"
-],
-[
-"wintypes.dll",
-"862a7ef274723761e62bbcefcffda1ecaeec7248449da84186a279d445732e6a"
 ]
 ],
 "updates": null
