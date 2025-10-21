@@ -1196,6 +1196,15 @@
             "releaseDate": "2025-09-22",
             "releaseVersion": "26100.6588",
             "updateUrl": "https://support.microsoft.com/help/5068221"
+        },
+        "KB5070773": {
+            "heading": "October 20, 2025&#x2014;KB5070773 (OS Builds 26200.6901 and 26100.6901) Out-of-band",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2025-10-20",
+            "releaseVersion": "26200.6901",
+            "updateUrl": "https://support.microsoft.com/help/5070773"
         }
     },
     "1709": {
