@@ -17,7 +17,12 @@ windows_versions_unsupported = {
     '1809': '2024-07-09',
 }
 
-updates_unsupported = set()
+updates_unsupported = {
+    # Windows Server only.
+    'KB5070881',
+    'KB5070882',
+    'KB5070883',
+}
 
 updates_alternative_links = {
     # The update server returns "The website has encountered a problem", "Error number: 8DDD0024".
