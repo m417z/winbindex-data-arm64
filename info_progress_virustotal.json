@@ -1,30 +1,18 @@
 {
 "next": [
-"provpackageapi.dll",
-"a6091e0810aab9bdb4f66e954b9aadc2414517188f6d9425ad194c9028c0e835"
+"libpdcurses.dll",
+"faea2e16f9b6fb0cf9e6f05f4b0c2df08f6c7c175b5df7faef340e473ef35f78"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"certenc.dll",
-"fab5edd3633090b872e221ca8ac2be82a273f542de80c08409685035093fc134"
+"pscript5.dll",
+"8fa66165d7db50355d496060819b5d25b1aee92c70bd8414c3b45575085a625f"
 ],
 [
-"certenrollui.dll",
-"3da49e4c707197364753dd58db11185d23fc021ba11d299bbaaa90c8a712360d"
-],
-[
-"dxptasksync.dll",
-"d420bcb00db3daadc36fb182b329b798be1fe0030ac9a1e006f2fde4d2c03502"
-],
-[
-"easwrt.dll",
-"32b4bc74638ddc1b2afa52b45a6aa086e352c18f49ddc8b19c2c2174b5121b5d"
-],
-[
-"netsetupapi.dll",
-"9ed45d5211ed1433ff59568fe236b3d0254dcb8851618e4b7dbdb444fa9d0e38"
+"updateagent.dll",
+"3567e3b629433491b23e26db5bc20a0390628f8bab97252b532ade11f79ad2ad"
 ]
 ],
 "updates": null
