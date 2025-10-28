@@ -303,6 +303,10 @@ def get_updates_from_release_health_for_version(windows_major_version, url):
             update_kb = 'KB' + match[2]
             update_url = match[1]
 
+            # Skip bogus entry.
+            if windows_version == '11-25H2' and update_kb == 'KB4321':
+                continue
+
             # Adjust date to fix an inconsistency.
             if windows_version == '11-22H2' and update_kb == 'KB5031455':
                 assert availability_date == '2023-10-26'
