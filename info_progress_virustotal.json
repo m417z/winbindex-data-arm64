@@ -7,12 +7,8 @@
 "pending": {},
 "retry": [
 [
-"pscript5.dll",
-"8fa66165d7db50355d496060819b5d25b1aee92c70bd8414c3b45575085a625f"
-],
-[
-"updateagent.dll",
-"3567e3b629433491b23e26db5bc20a0390628f8bab97252b532ade11f79ad2ad"
+"wevtutil.exe",
+"31b256a3c6f4d4a53e9fc5f4dc8f87e3e4d5db240f59dcb9277be77057ca7154"
 ]
 ],
 "updates": null
