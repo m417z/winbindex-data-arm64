@@ -1,14 +1,18 @@
 {
 "next": [
-"libpdcurses.dll",
-"faea2e16f9b6fb0cf9e6f05f4b0c2df08f6c7c175b5df7faef340e473ef35f78"
+"httpapi.dll",
+"4d2ee0f26fabc80ff095e593f086bc8f47363ee7162689bc700f120a2681563d"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"wevtutil.exe",
-"31b256a3c6f4d4a53e9fc5f4dc8f87e3e4d5db240f59dcb9277be77057ca7154"
+"conhost.exe",
+"901ee6b5b95932c359bd5d652c7dddf659ade578a4b8648edc2dc6ff3801f70e"
+],
+[
+"explorer.exe",
+"6505d78fd46865715752c2466c69534cb340db3dd2f7200ab42cfa8a664cd009"
 ]
 ],
 "updates": null
