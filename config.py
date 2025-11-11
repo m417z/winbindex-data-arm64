@@ -22,6 +22,9 @@ updates_unsupported = {
     'KB5070881',
     'KB5070882',
     'KB5070883',
+
+    # Missing on the Update Catalog.
+    'KB5071959',
 }
 
 updates_alternative_links = {
