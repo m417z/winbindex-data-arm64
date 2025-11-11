@@ -152,15 +152,15 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             updates_section = updates_section.replace('KB 3216755', 'KB3216755')
 
         updates_section = re.sub(r'<a [^>]*>Windows.*? update history</a>', '', updates_section, flags=re.IGNORECASE)
+        updates_section = re.sub(r'<a [^>]*>End of (service|servicing) statement</a>', '', updates_section, flags=re.IGNORECASE)
 
         if windows_major_version == 10:
             updates_section = re.sub(r'<a [^>]*>Windows 10 Extended Security Updates \(ESU\) program</a>', '', updates_section, flags=re.IGNORECASE)
             updates_section = re.sub(r'<a [^>]*>Support for Windows Server \d+ will end in .*?</a>', '', updates_section, flags=re.IGNORECASE)
-            updates_section = re.sub(r'<a [^>]*>End of service statement</a>', '', updates_section, flags=re.IGNORECASE)
         elif windows_major_version == 11:
             updates_section = re.sub(r'<a [^>]*>Windows 11, version \w+\s*</a>', '', updates_section, flags=re.IGNORECASE)
 
-        p = r'<a class="supLeftNavLink" data-bi-slot="\d+" href="/en-us(/help/\d+)">((\w+) (\d+), (\d+) ?(?:&#x2014;|-) ?KB(\d{7})(?: Update for Windows 10 Mobile)? \(OS Builds? .+?\).*?)</a>'
+        p = r'<a class="supLeftNavLink" data-bi-slot="\d+" href="/en-us(/help/\d+)">((\w+) (\d+), (\d+) ?(?:&#x2014;|-) ?KB(\d{7})(?: Update for Windows 10 Mobile|: Windows 10, version \w+)? \(OS Builds? .+?\).*?)</a>'
         items = re.findall(p, updates_section)
         assert len(items) == len(re.findall('<a ', updates_section)), windows_version
 
@@ -221,7 +221,10 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
     # still listed in both sections in the health release page, though. Add them
     # to have both sources match.
     for update_kb, update in all_updates.get('22H2', {}).items():
-        if update['heading'].endswith('Preview') or update_kb in ['KB5063159']:
+        if update['heading'].endswith('Preview') or update_kb in [
+            'KB5063159',
+            'KB5071959',
+        ]:
             continue
 
         if update_kb not in all_updates['21H2']:
@@ -350,11 +353,31 @@ def windows_version_updates_sanity_check(updates):
             update_kbs[update_kb] = update_kbs.get(update_kb, 0) + 1
             update_urls[update_url] = update_urls.get(update_url, 0) + 1
 
+    def get_items_with_url(url):
+        result = []
+        for windows_version in updates:
+            for update_kb in updates[windows_version]:
+                update = updates[windows_version][update_kb]
+                if update['updateUrl'] == url:
+                    result.append((windows_version, update_kb, update))
+        return result
+
     # Assert no two entries with the same URL.
-    assert not any(x != 1 for x in update_urls.values()), [x for x in update_urls.items() if x[1] != 1]
+    assert not any(x != 1 for x in update_urls.values()), [
+        (x, get_items_with_url(x[0])) for x in update_urls.items() if x[1] != 1]
+
+    def get_items_with_kb(kb):
+        result = []
+        for windows_version in updates:
+            for update_kb in updates[windows_version]:
+                if update_kb == kb:
+                    update = updates[windows_version][update_kb]
+                    result.append((windows_version, update_kb, update))
+        return result
 
     # Assert no two entries with the same KB.
-    assert not any(x != 1 for x in update_kbs.values()), [x for x in update_kbs.items() if x[1] != 1]
+    assert not any(x != 1 for x in update_kbs.values()), [
+        (x, get_items_with_kb(x[0])) for x in update_kbs.items() if x[1] != 1]
 
 
 def merge_updates(updates_a, updates_b):
