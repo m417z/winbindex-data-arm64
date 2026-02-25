@@ -5,6 +5,11 @@ out_path = Path(out_path_override.read_text().strip() if out_path_override.exist
 index_of_hashes_title = 'Winbindex ARM64 Hashes'
 index_of_hashes_out_path = out_path / 'hashes'
 
+
+def compressed_filename_path(filename: str) -> Path:
+    return out_path / 'by_filename_compressed' / (filename + '.json.gz')
+
+
 deploy_save_disk_space = True
 deploy_amend_last_commit = True
 
