@@ -259,8 +259,8 @@ def extract_update_files(local_dir: Path, local_path: Path, windows_version: str
                     # Ignore files in root folder which have different non-identical copies with the same name.
                     if source_dir == extract_dir:
                         if name in ['update.cat', 'update.mum'] or name.endswith('.dll'):
-                           ignore.append(name)
-                           continue
+                            ignore.append(name)
+                            continue
 
                     # Ignore files which already exist as long as they're identical.
                     destination_file = destination_dir.joinpath(name)
@@ -279,7 +279,15 @@ def extract_update_files(local_dir: Path, local_path: Path, windows_version: str
         shutil.rmtree(extract_dir)
 
     # Make sure there are no archive files left.
-    archives_left = [p for p in local_dir.glob('*') if p.suffix in {'.cab', '.psf', '.wim', '.msu', '.esd'}]
+    archives_left = [
+        p
+        for p in local_dir.glob('*')
+        if p.suffix in {'.cab', '.psf', '.wim', '.msu', '.esd'}
+        # Ignore the new mumx.esd files, they seem to contain the same manifest
+        # files. Mentioned here:
+        # https://forums.mydigitallife.net/threads/windows-11-hotfix-repository.83741/page-192#post-1900085
+        and not p.name.endswith('.mumx.esd')
+    ]
     if archives_left:
         raise Exception(f'Unexpected archive files left: {archives_left}')
 
