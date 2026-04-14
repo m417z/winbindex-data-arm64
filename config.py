@@ -108,6 +108,7 @@ file_hashes_small_non_signature_overlay = {
     '69f83db2fda7545ab0a1c60056aee472bf3c70a0af7454c51e1cd449b5c7f43b',  # brltty.exe
     '7a9113d00a274c075c58b22a3ebacf1754e7da7cfb4d3334b90367b602158d78',  # brltty.exe
     'b4cc93cf4d7c2906c1929c079cd98ef00c7a33832e132ac57adde71857082e36',  # libgcc_s_dw2-1.dll
+    'f6f4951f98185ba8ddcdaa43f13b8106b9b667bb7f5ee027dc51b4bca4556adc',  # crtdll.dll
 }
 
 file_hashes_unsigned_with_overlay = {
