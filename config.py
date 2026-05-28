@@ -90,6 +90,7 @@ file_hashes_unusual_section_alignment = {
 
 file_names_zero_timestamp = {
     '*.interop.dll',
+    'windows.*.winmd',
 }
 
 file_hashes_zero_timestamp = {
