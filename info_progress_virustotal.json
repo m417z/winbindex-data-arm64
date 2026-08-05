@@ -1,10 +1,15 @@
 {
 "next": [
-"ncobjapi.dll",
-"bc31093508c8f2e6a2c4976564b08605d9d527c26529e7118d1a916d412d6e2e"
+"vsmkeymigplugin.dll",
+"cecec211881973de4dd8b1983f007c08aea01ba60f8a5514c0ea6be266723719"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"powershell.exe",
+"1bb4f06af87421547bc0506826812cd646dafd7b81072ae9c1fd85ba66c516ee"
+]
+],
 "updates": null
 }
