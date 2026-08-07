@@ -1307,7 +1307,7 @@
 "6db32bdf0b6f936dcb0aef1112e7ce81004891e9b5e1b1940101bacbf4bdd26d": "delta+",
 "82f7a41fb388af818eb8da117fd0b617d82fa3737a60c028e9bc3978290fe7bf": "vt",
 "c057a07766e6972249af5713ee1adedbceef8bc3ba20d3a12f685af4cf4a0c2a": "vt",
-"cfe39149d820a35a3e1fc2ffb7b7ee0fd55ae6cf30a7cd9f159e8dea7a1973b1": "delta+",
+"cfe39149d820a35a3e1fc2ffb7b7ee0fd55ae6cf30a7cd9f159e8dea7a1973b1": "vt",
 "e69fc3f19bdca1598bc194999e6c2eb3e24b4a631627cb93bc7b52b01e47b3e0": "vt",
 "fc07a612ba5764c31499e24341529e41b7dfad1865c1bea6ba0ce8b012dd003d": "delta+"
 },
@@ -1682,7 +1682,7 @@
 "fc7f3793e56fffdf7da6fd94597405003531b1abd2a4667bc7f142b9599da702": "delta+"
 },
 "systempropertiesremote.exe": {
-"5d696fe56124ed6d17a73c288ea79919ea5c6db1f031c154bfd69cefd4c20f57": "delta+",
+"5d696fe56124ed6d17a73c288ea79919ea5c6db1f031c154bfd69cefd4c20f57": "vt",
 "7704e758b9b3c188e609bd653aed56a10aba2d98fe34eb12218e8d7d3e4239a8": "delta+"
 },
 "tpmvscmgrsvr.exe": {
