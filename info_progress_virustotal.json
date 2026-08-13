@@ -1,18 +1,18 @@
 {
 "next": [
-"twain_32.dll",
-"404eee7a3ac9f6a385cad6d93f85204c20e1620f3014cc5ab20c9c3f5fa21691"
+"hvsimachinepolicies.dll",
+"61a436a87b530167746c83fd335f6c5f7c4c0325727bc777c7adb7371b1e5618"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"microsoft.ink.dll",
-"4903e1497f4b45ab24054aa1d1678f078884a4459ae0abf2a23f426f20cdacc2"
+"dafmigplugin.dll",
+"ba6447cf3ba3e03fedf589585f7e25c023c3a3dc4a97f4cb33695b76527598c0"
 ],
 [
-"trustedinstaller.exe",
-"f78eebdba6b67a8b18d80d61eec3699b3d47336fc06e24d262dfca8047f4e63f"
+"upnphost.dll",
+"a9aea156565ad903fdf9dd72c9b1c2c73fa5126472f016d2b77aea8a5c76116f"
 ]
 ],
 "updates": null
