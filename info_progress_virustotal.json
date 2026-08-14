@@ -1,18 +1,14 @@
 {
 "next": [
-"hvsimachinepolicies.dll",
-"61a436a87b530167746c83fd335f6c5f7c4c0325727bc777c7adb7371b1e5618"
+"wiminterop.dll",
+"1f579439723a95b79c996b49a73f7e1b22eed0d7abc099a4881552648e3fe0c1"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"dafmigplugin.dll",
-"ba6447cf3ba3e03fedf589585f7e25c023c3a3dc4a97f4cb33695b76527598c0"
-],
-[
-"upnphost.dll",
-"a9aea156565ad903fdf9dd72c9b1c2c73fa5126472f016d2b77aea8a5c76116f"
+"netsetupapi.dll",
+"166a0db50b2e173cafd7da3f900c7843221d781698844f3f5b602f75628e7677"
 ]
 ],
 "updates": null
