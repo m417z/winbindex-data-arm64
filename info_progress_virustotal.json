@@ -1,10 +1,19 @@
 {
 "next": [
-"facefoduninstaller.exe",
-"ecb5bf809c4ca8d37258369500b84b8edad75529a344e0bbb1cddab97367d51b"
+"sppc.dll",
+"4580813a38ef7834573e84afda701916d1683c2d38a1305ee87e6b9d809299b4"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"fastprox.dll",
+"1593a23999abeabcae71b93e4ec9ee13a0c184a5f778924178adf42e94f61315"
+],
+[
+"msiso.dll",
+"85c75e6bd733274239c1efbbe7a88991c6a72e6f1e32eee83dfd7de24836169e"
+]
+],
 "updates": null
 }
