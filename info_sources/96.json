@@ -1893,7 +1893,7 @@
 },
 "microsoft.powershell.editor.resources.dll": {
 "00fb1a1b581f54e8f1918f190657e2100bd8176230f4b74a5d257afcaa14342a": "pe",
-"8417f22a7eafe12493bb2743702870d086eba035bcb5ac5ada5e8988ca118729": "pe",
+"8417f22a7eafe12493bb2743702870d086eba035bcb5ac5ada5e8988ca118729": "vt",
 "947e9b4eace30b82721fe7d7028e5fc5c6c7a2b9ae48a461d257a181d330559a": "vt"
 },
 "microsoft.windows.ai.search.experimental.dll": {
