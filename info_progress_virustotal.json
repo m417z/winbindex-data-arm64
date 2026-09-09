@@ -1,34 +1,22 @@
 {
 "next": [
-"turbocontainer.dll",
-"8a4142bfeead26911184a812386cc0a36fc6c98a67cbec79ad3cac23ba89b610"
+"credprovs.dll",
+"20e75b88fac58e7138379b744c9a1a0e22f7287e38bc7160551f5584365cce7c"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"autochk.exe",
-"34ab0e00ea1a53ba4586f9674168fbdc8add085b5471b3534be38ed640728314"
+"chakra.dll",
+"7f404d8d024bb968e77f8b2fc2c6beb901fb74aefd1e1a4d073b3195f5b20fdf"
 ],
 [
-"autofmt.exe",
-"e53b81cc866705cb1f549c244750394ec12c249b0af1cae63331a837329ffc36"
+"windows.applicationmodel.lockscreen.dll",
+"aad7f6ca128dc3b8cdf8b602bf97ebe47b46d06af09ef851be623e6614852049"
 ],
 [
-"fontdrvhost.exe",
-"1cbe07dad566caaf7fea639bb1e2a9529f28993e373bd6e550f50573df09ea0f"
-],
-[
-"smphost.dll",
-"9e63fb79e134ffc23cc411a30f1f9a3039c4dcacfad30d00ffaca5e70fa4b7d8"
-],
-[
-"wermgr.exe",
-"c4a2752a8d72dd5c99f0c2f9ea908ccbf6dd6cd2b95b11448ad964a51fa60cc2"
-],
-[
-"wsmanhttpconfig.exe",
-"4bc39ab131e5473064f3480b480028a1798df3657fff0b72ba903a348de2d621"
+"windows.applicationmodel.wallet.dll",
+"46fbfb887f6788aafbf1b26023855ffe9d4a8d74b787d193897a3f2c8c93614c"
 ]
 ],
 "updates": null
