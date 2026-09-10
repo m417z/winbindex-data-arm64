@@ -1,22 +1,14 @@
 {
 "next": [
-"credprovs.dll",
-"20e75b88fac58e7138379b744c9a1a0e22f7287e38bc7160551f5584365cce7c"
+"microsoft.storage.persistentmemory.management.commands.dll",
+"44cea0b22f47012e87feb2b4faebce5e7326f9ddb5e98d92fb3f5fce6d1ebfe0"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"chakra.dll",
-"7f404d8d024bb968e77f8b2fc2c6beb901fb74aefd1e1a4d073b3195f5b20fdf"
-],
-[
-"windows.applicationmodel.lockscreen.dll",
-"aad7f6ca128dc3b8cdf8b602bf97ebe47b46d06af09ef851be623e6614852049"
-],
-[
-"windows.applicationmodel.wallet.dll",
-"46fbfb887f6788aafbf1b26023855ffe9d4a8d74b787d193897a3f2c8c93614c"
+"iassvcs.dll",
+"ab6d9b9d3d76424a00dce38ea8b8391592d7a01d61d9b3216752b371eccb26ba"
 ]
 ],
 "updates": null
