@@ -1,15 +1,10 @@
 {
 "next": [
-"winnsi.dll",
-"4ddc0ed834c2715bef87f8a3c621ecf58a32ee860b3fa5a526cf679df40fc7d7"
+"nsisvc.dll",
+"5382614d0efa8573379ba9ddfd05206e846d12f08ecff1ca9763f58c7aa8c012"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"trustedinstaller.exe",
-"ddf682855c775774dfb80d9e6282a6127fb48be6d44b4db48b6970feccda3916"
-]
-],
+"retry": [],
 "updates": null
 }
