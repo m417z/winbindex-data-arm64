@@ -1,10 +1,15 @@
 {
 "next": [
-"nsisvc.dll",
-"5382614d0efa8573379ba9ddfd05206e846d12f08ecff1ca9763f58c7aa8c012"
+"wuapi.dll",
+"29b98a9428eaf32442e8212b32fdd0a6193d53ac8cc5850225e0fca0d96c2c4b"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"ucrtbase.dll",
+"b08033104b472c51ea026446a5ec6417b02c935d4c31907b34b1e79e9e2f904f"
+]
+],
 "updates": null
 }
