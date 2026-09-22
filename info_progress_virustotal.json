@@ -5,6 +5,15 @@
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"infdefaultinstall.exe",
+"107820777e325c1107174fe37429b4f71338bf9e4b6e460cb5c5969d0dcd1819"
+],
+[
+"pkgmgr.exe",
+"d36c931f81506ba231128dd066647b4e2723a2a23260d8189ab90e9c239bc766"
+]
+],
 "updates": null
 }
