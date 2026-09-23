@@ -1,19 +1,10 @@
 {
 "next": [
-"datastorecachedumptool.exe",
-"ea7ee739152544f671397d1dccea8482bede5fab62fe9992eab48cfc606730da"
+"ipconfig.exe",
+"b17a1d9625da3d499db72fce53a54618083e8cbbc36b63f2d6237ef69f2f722b"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"infdefaultinstall.exe",
-"107820777e325c1107174fe37429b4f71338bf9e4b6e460cb5c5969d0dcd1819"
-],
-[
-"pkgmgr.exe",
-"d36c931f81506ba231128dd066647b4e2723a2a23260d8189ab90e9c239bc766"
-]
-],
+"retry": [],
 "updates": null
 }
