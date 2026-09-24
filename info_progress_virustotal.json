@@ -1,10 +1,15 @@
 {
 "next": [
-"ipconfig.exe",
-"b17a1d9625da3d499db72fce53a54618083e8cbbc36b63f2d6237ef69f2f722b"
+"msi.dll",
+"e2cede73bc4b8273ed47cf15bf998177fd450f1ee670809dc19cfd71c8038a53"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"microsoft.data.usageandqualityinsights.maintenancetask.exe",
+"a348167644b74e33c6e2da981658a4f9a94e4661f800cda6af7ed5bb1b26508e"
+]
+],
 "updates": null
 }
