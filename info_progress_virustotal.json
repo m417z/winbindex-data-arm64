@@ -1,30 +1,14 @@
 {
 "next": [
-"wcmsvc.dll",
-"1ae404c27fe19e3d4844d2713ef96b7426a19bf9455647af7f6a1a7299158638"
+"eapsimextdesktop.dll",
+"51c61eb473098d8097b968d8d7b80dd86bc89b007ce84bf96ef67fb4fcac7b3d"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"msiexec.exe",
-"57214cf8c7840ee437658caa67c9e777cfb98c58c4441dc82bf63018af625311"
-],
-[
 "mswsock.dll",
 "52e7b1204e4443915a9751c20e32e95cc11b02469d01bcdc2604bdaa53acd07e"
-],
-[
-"nlmproxy.dll",
-"e150f8dea1ee2e331895d078db762c30a53830f918b8864c4436aeedccbab0a5"
-],
-[
-"srchadmin.dll",
-"b8564bb69f60ca1f0c218ed8e98ffb09688562ea7c3c57920173e560709ae661"
-],
-[
-"stobject.dll",
-"67dc52841dece68adc82cb463e8cbe386ff3e6844a7f357f0d9b17d3b2dccbe5"
 ],
 [
 "usb-platformdetection.sys",
