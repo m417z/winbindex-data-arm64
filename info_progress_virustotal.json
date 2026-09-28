@@ -1,19 +1,10 @@
 {
 "next": [
-"srvnet.sys",
-"5803fed7de8e7f6b24965a15dff40cad9e3cf98161d028edc3e9ade620af0780"
+"coremessaging.dll",
+"de6f45153cf8916455c1b9a4b96a5b2fd1909d6206eb067554c95ebb66558768"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"hgcpl.dll",
-"45f994e4e7a74c0d0281e259b523f6a906bf104fa3aaff12ae9cbc2b022a7a3a"
-],
-[
-"usb-platformdetection.sys",
-"1028fc2e85352cee9cd5b72040cc2405dbd2ffac71d568ccfc8d306f450ad225"
-]
-],
+"retry": [],
 "updates": null
 }
