@@ -1,15 +1,10 @@
 {
 "next": [
-"appxdeploymentclient.dll",
-"dbe8648c041633a1ceb638d676713b1ef40dddb42f1aa4b55682a978834bdd7d"
+"coml2.dll",
+"8460bbb48cf35e693bc73b30964db058e8016904e1d81441a6ca2f04c8695c77"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"structuredquery.dll",
-"d8c709da287d94165ddf5efa52dfb50b237e4195d3ba282d1b2ec6663035d609"
-]
-],
+"retry": [],
 "updates": null
 }
