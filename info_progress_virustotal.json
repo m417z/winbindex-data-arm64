@@ -1,10 +1,15 @@
 {
 "next": [
-"sspicli.dll",
-"66e5335bd1ac5ef57945acd10710412556815493f0674822f3fec70943216767"
+"appxdeploymentclient.dll",
+"dbe8648c041633a1ceb638d676713b1ef40dddb42f1aa4b55682a978834bdd7d"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"structuredquery.dll",
+"d8c709da287d94165ddf5efa52dfb50b237e4195d3ba282d1b2ec6663035d609"
+]
+],
 "updates": null
 }
