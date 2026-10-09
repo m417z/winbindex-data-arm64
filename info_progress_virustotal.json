@@ -1,10 +1,15 @@
 {
 "next": [
-"mdmagent.exe",
-"31d0ffacb764e60e5e79fb7d56c2e21adea30af90c4444666953655c61c1e965"
+"spaceagent.exe",
+"ae9d83648b16f66ca9d6a76e308b8f07aeca7ef49fbd4ac9139d1818812d8064"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"rdpcredentialprovider.dll",
+"d6dd24cbc0307b53be7dada54507763dff89c4da4516d67c2d4a6c0e9c0cce97"
+]
+],
 "updates": null
 }
