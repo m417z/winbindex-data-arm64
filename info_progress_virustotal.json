@@ -1,19 +1,10 @@
 {
 "next": [
-"spaceutil.exe",
-"b247b5a3c0bfcfeab823d20019cae3323b5fd5f430f674fd9756c2c25b3307ce"
+"svrmig.dll",
+"62ce2e243eea180e4625d5e983cdf60ed9f77276c4c0e05792e03d6cc72bc754"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"kernelbase.dll",
-"00ac5e8a3075fe698cbb23122e8858d33195894709f8150ff9b75e7cc7c1983d"
-],
-[
-"msspellcheckingfacility.dll",
-"ab9847d78b54df4c3d6bf728401e4674e0ad3d63be4eebd773c8907c86a55e7f"
-]
-],
+"retry": [],
 "updates": null
 }
