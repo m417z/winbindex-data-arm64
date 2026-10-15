@@ -1,26 +1,54 @@
 {
 "next": [
-"authfwgp.dll",
-"e98c39a7a0ac1fe152261ae70a5cbb8902fb32f84e07e3d2e1f24c06450fb3e0"
+"kdnicctrl.exe",
+"ea738657adade157baaf31cff7e9af6886d689647ea729b2554868fec24d5e25"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"vmwp.exe",
-"866eeb114af6b3ef4c79e847023ddfab20d5122032f9a7e0cd91bbe49bdf4c6b"
+"battc.sys",
+"69e2150f0ead194f10e90c3ac700a3c7b0ad05be419adbf3884ff50a595de039"
 ],
 [
-"wevtfwd.dll",
-"b0e18b3488f1f857b11758eb8138561294ea49540759d0bee472753168ae70dc"
+"bluetoothdesktophandlers.dll",
+"1dc828c1e0d8ac20a3b6cb7e80a01a45f8040fc0992b8309c60a2d2c64868d9c"
 ],
 [
-"wsecedit.dll",
-"0514a5c9d8a9a1f76155f7035a895c0b9657345df4a059c2fa62ab2c790fc4c2"
+"bthudtask.exe",
+"d63d7f3491862db6e0cb40ad02d222194e226ee88dd6932aeff86e81bb8b0e8a"
 ],
 [
-"wshom.ocx",
-"e1069b82424eda9ddd5b4d74541500f34903b4fff199ea1888d0c311a11625de"
+"d3d11.dll",
+"f49e744dca37b09ff28c45837ac8a22dc9143cc6977dc85a0606810f1ca730f2"
+],
+[
+"eappgnui.dll",
+"e24dfacd4ffbded8e87061c5f42bf7208bbb2ddff9659ca1bfefabc746f9b298"
+],
+[
+"eventvwr.exe",
+"197185379da7242eabfd36970653027032192d02e5472c0cc08943c9088a747d"
+],
+[
+"fileexplorermanaged.dll",
+"b2eb279d7664a44dcb8d426453cb4ae8a50c81abfbc66ec56c54a74b6aaa5f7f"
+],
+[
+"fontdrvhost.exe",
+"36153e53b8466f9e57c44b8cfdfc4acdebc60abc5afcfd62b4fc80e31f65827b"
+],
+[
+"hhsetup.dll",
+"eb132a5d01bd904f12b812a93cf3f28392c0491407ec344997ea3ee66042853f"
+],
+[
+"imtclnwz.exe",
+"b24b3428fd7b4e44880c1753236b9a39a1cc29dcde9b639ec3d53a9428cb444a"
+],
+[
+"jscript9legacy.dll",
+"4a1c35dd271da7e852cb8cd93c302d9b509f552cb436e65ad174ce8b0f784e56"
 ]
 ],
 "updates": null
