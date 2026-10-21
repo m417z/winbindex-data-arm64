@@ -1,7 +1,7 @@
 {
 "api-ms-win-core-datetime-l1-1-0.dll": {
 "19be21f4f72acd0d1d3da121c1b1d2014b003a534178e6c5469e2f58250b15e0": "vt",
-"9ed1f50a7698afaaac823e54db3aeb3b02c7786598a39df7803b8c9a0b5945cf": "delta",
+"9ed1f50a7698afaaac823e54db3aeb3b02c7786598a39df7803b8c9a0b5945cf": "vt",
 "a99bc9babe9348cdcd92861f9df7f0d231e265814cb020eb2e4c28aa73f28204": "delta+",
 "f10cc75d1b3358d3cac32c5b730b69a273ac736044fa8cef69807642d982aa3f": "vt"
 },

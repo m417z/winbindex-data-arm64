@@ -2,7 +2,7 @@
 "api-ms-win-core-memory-l1-1-1.dll": {
 "08ad98aaa7cb624677aa64954a83190051f23534aaa51ddbf862ce1f77deaaaa": "vt",
 "39e3d9d1c49717cbb2e6aa44f788e935ef8289e439841508839edfc37659aa70": "delta+",
-"4ff45b6b016b8f2fbf00db8f38f8eb7caaeaf1eef91231ffc31cfebfa2b34193": "delta",
+"4ff45b6b016b8f2fbf00db8f38f8eb7caaeaf1eef91231ffc31cfebfa2b34193": "vt",
 "6fcf76628ca31a57fbfefe95dd91ae967d208b4a485afd5a696819fad7af94c7": "delta+"
 },
 "dmwmicsp.dll": {
