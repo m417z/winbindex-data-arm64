@@ -1,18 +1,14 @@
 {
 "next": [
-"dcdiag.exe",
-"6ac3f2757cdfa56c232c336da60a845690de5bcddc95c673f56b6d331b7d7c0e"
+"dmiprovider.dll",
+"6efe714054d8880f825d1f70fe64ebfc19f9c77ee8ae0f1aa8a4ab72585ba35e"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"d3d10warp.dll",
-"28db2a30fa2dea8787098301f9186ad656df55c642b25eb7ece8ba92d358a298"
-],
-[
-"dbnetlib.dll",
-"a49c4ba45762ce322cd7aa25605ddd5c65091c4b338f1191140e6307ac518aad"
+"discoveryhubapp.exe",
+"6a5f1c677fd02255110b897e9a661b4f7d293e86feabd9f6c1de2423a1277995"
 ]
 ],
 "updates": null
