@@ -632,7 +632,7 @@
 "dockinterface.proxystub.dll": {
 "368c5d41a37e277c0a28f5298a734535363f3086d61c1d77826ea6e0d1c04dd1": "delta+",
 "37336af18d7901aeaa6fd7ff7603fb5c8fc81b41bf3b897b4005a14ef3671322": "delta+",
-"3cd8b254ba8e72fdc610069f87fe4c8be4ab2c6daee95df95d3e55e84facd5a9": "none",
+"3cd8b254ba8e72fdc610069f87fe4c8be4ab2c6daee95df95d3e55e84facd5a9": "vt",
 "a59681d69313338581f6903bd6715e6ad3809a95bd31f4210bfc4995a243bc56": "none"
 },
 "failoverclusters.validation.bestpracticetests.dll": {

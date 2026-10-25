@@ -1,14 +1,34 @@
 {
 "next": [
-"dmiprovider.dll",
-"6efe714054d8880f825d1f70fe64ebfc19f9c77ee8ae0f1aa8a4ab72585ba35e"
+"iediagcmd.exe",
+"49ae2a635b2f08320354f6eae1702f74b621f0a758a7c56d9f5fa145b122a9f5"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"discoveryhubapp.exe",
-"6a5f1c677fd02255110b897e9a661b4f7d293e86feabd9f6c1de2423a1277995"
+"dpapiprovider.dll",
+"75ccedd574efb4f3bc3a9a8c948a52e951113a5719647526566896f2d9097e5e"
+],
+[
+"dsdbutil.exe",
+"674dc08a44816bf2fe8c2d497fabaaa6f2b45a068d7ded5f57ee686ac1acae39"
+],
+[
+"dsregcmd.exe",
+"9ec648247512ca5758d83e7172de93ae0d14211b2fc5405a651f3eb58d10e8af"
+],
+[
+"dui70.dll",
+"767e6e1cab8ce102777824b122176fd47199fd924aab056a1d4b312e447ac2b9"
+],
+[
+"facerecognitionengineadapterresources.dll",
+"000b7b55d963f87da45011f7a44de1243d7f3713c44a03e6e5363753d5fd8f79"
+],
+[
+"genvalobj.exe",
+"e4154408e5603d5de632b9c72e5837bd63a38657e6fa201bc1f01f27d1564bd1"
 ]
 ],
 "updates": null
