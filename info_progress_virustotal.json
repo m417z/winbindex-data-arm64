@@ -7,28 +7,8 @@
 "pending": {},
 "retry": [
 [
-"facerecognitionengineadapterresources.dll",
-"000b7b55d963f87da45011f7a44de1243d7f3713c44a03e6e5363753d5fd8f79"
-],
-[
-"imccphr.exe",
-"e649020027c72d867067ebb949699778d0068c21b4c34773a88ebd692f3966aa"
-],
-[
-"imesearch.exe",
-"b1988e0554584c7d14dcdba628d990348917ceabe7c66a2a8391086083e1ab6f"
-],
-[
-"legacysystemsettings.dll",
-"1ee88bf545a60b684c0ac8ca145414bcbf12ea2ac83fedf098dc97d089b664a5"
-],
-[
-"lpk.dll",
-"c1d4454a5fdf898068430c69e8a468780b1163f837b788610c15361402e76d45"
-],
-[
-"mdmappinstaller.exe",
-"8f7d47b0919948d058a3ae07d7f5314335cd42173b73db45292a06a26f004fc3"
+"dxdiag.exe",
+"054244e802130c9a82afa1f175b08bd363a1296faf96532962deea0c0cf128f1"
 ]
 ],
 "updates": null
