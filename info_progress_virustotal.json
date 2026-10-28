@@ -1,14 +1,38 @@
 {
 "next": [
-"microsoft.windows.management.deployment.winmd",
-"46dd79ba2e83071f3f14120d0a8cbfedb64a930d1311072c4eaf5c216a67178a"
+"osk.exe",
+"3b53ba596c7fba4c6e589795c42c076c86f44c91758059ac72252e9e744c48fe"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"dxdiag.exe",
-"054244e802130c9a82afa1f175b08bd363a1296faf96532962deea0c0cf128f1"
+"msdatl3.dll",
+"5e1fff476425281c4d55e2a0366f1eb759b02db5a892266568dc82787fc7d7d2"
+],
+[
+"msiltcfg.dll",
+"17ffa4d5b231235cb3eddefb40377badb2cfb78ffce8212e84557f2dce07df7c"
+],
+[
+"msxpsps.dll",
+"40f4e50625f2bba4077f237d8f9f0e1cc938a1d66a9151721701a6ccfa3154d7"
+],
+[
+"nltest.exe",
+"be75552ee0de8788e4e05d7cfacd920ba7cbe2a9cd070f3009cb81a465bb7e3a"
+],
+[
+"ntoskrnl.exe",
+"db0c8b367c1927eb4d39d922cb54da4621e9b3c241e2655d33c5ecd46719aa13"
+],
+[
+"odbcad32.exe",
+"b20a215a8ab051b58576810d7d1244217c806c610b37fe6e558a9790474fec4d"
+],
+[
+"omadmagent.dll",
+"13c9f33a23b43dfc1bf84c279eddd6f453b8ef57a9d0393a6204bceb27d59e18"
 ]
 ],
 "updates": null
