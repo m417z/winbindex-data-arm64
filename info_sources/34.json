@@ -1609,7 +1609,7 @@
 },
 "wdagnetdiag.exe": {
 "569221ecb7cc265a7220b4603bd90912cfcee0721ad484f02def6bc1762fc178": "vt",
-"b2cc023be94dadfc01577bde4b66f4ef10f473c1cba4b01eea602728e74f45a2": "delta+"
+"b2cc023be94dadfc01577bde4b66f4ef10f473c1cba4b01eea602728e74f45a2": "vt"
 },
 "windows.internal.shell.xamlinputviewhost.dll": {
 "00f1fcaeaa4ac36484eb69b4562daee4a7260af3264731a5de1506cccc8d653a": "delta+",
@@ -1739,7 +1739,7 @@
 "aabc67b4a546d432cca9b61d6b090e55cfd5f419361ef24c87b4896b845932c0": "vt",
 "aba1ae10f13ff4a6f98bd760d4598a21ff832f1ff43c224712a3519c083a39e5": "delta+",
 "ad98b82da0760942716fb7aa257833c6c43ad76f5c7561e054b362f429b415a3": "vt",
-"b29fc55c5072234f99d7f07ffde0ac48fba85fd4dd1898b4ebb262f45207d8f1": "delta+",
+"b29fc55c5072234f99d7f07ffde0ac48fba85fd4dd1898b4ebb262f45207d8f1": "vt",
 "b3af43cf2e4deab3a077a94064f7a7f446aa418aceaa6c8c2b4d327a61237aba": "delta+",
 "b41036d47e86471d6a372362b6881437bb3958e6901cefd40aa59b2ad44d30e4": "delta+",
 "b928cbe50aeebbadb5e086d043e0f4f3ecccd0f7cee2cb5288590d8a15e3efc7": "delta+",
