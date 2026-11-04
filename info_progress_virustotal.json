@@ -1,15 +1,10 @@
 {
 "next": [
-"kernelbase.dll",
-"06bf19bcd0b4af9e78c46fc81fe8fb1bf950fb5f295d44de889c5028129b5b56"
+"system.servicemodel.install.resources.dll",
+"0c384e9d2f7d6bbf163e0722afd2329e7b73d76923b92a9b75753844f951cf09"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"windows.networking.connectivity.dll",
-"50e2f45ed26c4145e9bc9c5a1e3078a2d3040be9678548fef9b836ee968f8046"
-]
-],
+"retry": [],
 "updates": null
 }
