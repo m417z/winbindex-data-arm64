@@ -1,15 +1,10 @@
 {
 "next": [
-"ntprint.exe",
-"2f0c605c0f41734ce963eedc456547d98b3db544f54ce853771855c586f38023"
+"wsmanhttpconfig.exe",
+"4d37489d1a56ec8ba5e4a80a772215a53b32319c2adb0c88da991730860d6ff6"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [
-[
-"msiexec.exe",
-"641c7588bc513cd430b84c6389f2603c7df28b748cfe8540b250ed9c8998e4d6"
-]
-],
+"retry": [],
 "updates": null
 }
