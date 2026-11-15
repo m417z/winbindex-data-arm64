@@ -1,10 +1,19 @@
 {
 "next": [
-"dxtrans.dll",
-"a5ab5fa6f4f391af67b3e81de1f5042d764e5b59177343a9f476a44769ebb7ba"
+"msquicprev.sys",
+"741b775860ef6bcbda0d3d34ffde4921e5a9c9433e0405745f31cb200eb29c2e"
 ],
 "next_updates": null,
 "pending": {},
-"retry": [],
+"retry": [
+[
+"kd_8003_10de.dll",
+"b6162e767163a42194c9f851e6851f3ed1e08a4f338e6d873203b77f20d9933e"
+],
+[
+"msdasql.dll",
+"47af81e3b8024942f53894301b15397f006aa9e8b7681cea2f3b9f508e1bbe3e"
+]
+],
 "updates": null
 }
