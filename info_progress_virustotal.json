@@ -1,18 +1,14 @@
 {
 "next": [
-"msquicprev.sys",
-"741b775860ef6bcbda0d3d34ffde4921e5a9c9433e0405745f31cb200eb29c2e"
+"wdscore.dll",
+"a0d62d5eff9bc611782f2862017781d352b4da73fb150d32e9e99b8df99903e7"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"kd_8003_10de.dll",
-"b6162e767163a42194c9f851e6851f3ed1e08a4f338e6d873203b77f20d9933e"
-],
-[
-"msdasql.dll",
-"47af81e3b8024942f53894301b15397f006aa9e8b7681cea2f3b9f508e1bbe3e"
+"rtscom.dll",
+"31e51aa8cb9a957b049b7a0afb80916f480281bcc6f10e6af4440aa0191057cc"
 ]
 ],
 "updates": null
