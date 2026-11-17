@@ -1,14 +1,26 @@
 {
 "next": [
-"wdscore.dll",
-"a0d62d5eff9bc611782f2862017781d352b4da73fb150d32e9e99b8df99903e7"
+"imagingdevices.exe",
+"f107a9d98300d019b92871e827ee0473ffd92b35b0760b5df9b44c6685f6dda6"
 ],
 "next_updates": null,
 "pending": {},
 "retry": [
 [
-"rtscom.dll",
-"31e51aa8cb9a957b049b7a0afb80916f480281bcc6f10e6af4440aa0191057cc"
+"agentactivationruntimestarter.exe",
+"00c6f771e0504223f0c947df42d5ea347e045c437461d4b17dbb66b11c71b096"
+],
+[
+"devicepairingwizard.exe",
+"07ace6fd495700654fe7cb6a0f57c92b7a579c65e98ffc802123df1f413b37f0"
+],
+[
+"dsacls.exe",
+"66017c2357c1be08e4c2af3de399c9123242025b76fa8806634a98124042fdaf"
+],
+[
+"winhlp32.exe",
+"952952468eafed0f3e6c0bcd894e2897c698fb4c2400759735f16c7484f4b23d"
 ]
 ],
 "updates": null
