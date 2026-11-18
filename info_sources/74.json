@@ -2885,7 +2885,7 @@
 "user.exe": {
 "2962c9278abe150b1075f04a3d36fee6e547563d97c1787774294a94a70295ab": "vt",
 "563bcc4c410f1aa7a7cbb188035b965d98e7d85cc39deb8b9d3cbc12c016ce78": "vt",
-"bd774f564c52e47f8d4c7ecb755fcbf8271a2fbc42c4ba5aa08500328e7f78b5": "delta+"
+"bd774f564c52e47f8d4c7ecb755fcbf8271a2fbc42c4ba5aa08500328e7f78b5": "vt"
 },
 "windowsinternal.composableshell.experiences.textinput.layoutdata.dll": {
 "0023e94d4e5e874cb771e024375b3cd22077acc3128bec84737eeb3c3652c50a": "pe",
